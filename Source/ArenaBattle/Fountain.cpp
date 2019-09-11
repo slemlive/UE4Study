@@ -16,6 +16,19 @@ AFountain::AFountain()
 	m_pComWater->SetupAttachment(m_pComBody);
 
 	m_pComWater->SetRelativeLocation(FVector(0.0f, 0.0f, 135.0f));
+
+	static ConstructorHelpers::FObjectFinder<UStaticMesh> SM_BODY(TEXT("StaticMesh'/Game/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Ruins/StaticMesh/SM_Plains_Castle_Fountain_01.SM_Plains_Castle_Fountain_01'"));
+	if (SM_BODY.Succeeded())
+	{
+		m_pComBody->SetStaticMesh(SM_BODY.Object);
+	}
+
+	static ConstructorHelpers::FObjectFinder<UStaticMesh> SM_WATER(TEXT("StaticMesh'/Game/InfinityBladeGrassLands/Effects/FX_Meshes/Env/SM_Plains_Fountain_02.SM_Plains_Fountain_02'"));
+	if (SM_WATER.Succeeded())
+	{
+		m_pComWater->SetStaticMesh(SM_WATER.Object);
+	}
+
 }
 
 // Called when the game starts or when spawned
@@ -23,6 +36,15 @@ void AFountain::BeginPlay()
 {
 	Super::BeginPlay();
 	
+	ABLOG_S(Warning);
+	ABLOG(Warning, TEXT("Actor Name : %s"), *GetName());
+	UE_LOG(ArenaBattle, Warning, TEXT("Actor Name : %s, Location X : %.3f"), *GetName(), GetActorLocation().X);
+}
+
+void AFountain::PostInitializeComponents()
+{
+	Super::PostInitializeComponents();
+	ABLOG_S(Warning);
 }
 
 // Called every frame
