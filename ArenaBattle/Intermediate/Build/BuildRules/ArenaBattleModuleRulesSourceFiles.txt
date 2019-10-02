@@ -1,3 +1,3 @@
-C:\16Eom\ArenaBattle\Source\ArenaBattle\ArenaBattle.Build.cs
-C:\16Eom\ArenaBattle\Source\ArenaBattle.Target.cs
-C:\16Eom\ArenaBattle\Source\ArenaBattleEditor.Target.cs
+C:\16Eom\UE4Study\ArenaBattle\Source\ArenaBattle\ArenaBattle.Build.cs
+C:\16Eom\UE4Study\ArenaBattle\Source\ArenaBattle.Target.cs
+C:\16Eom\UE4Study\ArenaBattle\Source\ArenaBattleEditor.Target.cs
