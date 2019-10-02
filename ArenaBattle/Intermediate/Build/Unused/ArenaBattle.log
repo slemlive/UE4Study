@@ -1,0 +1,7 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\16Eom).
+  Creating makefile for ArenaBattleEditor (ini files are newer than makefile)
+  Parsing headers for ArenaBattleEditor
+    Running UnrealHeaderTool "C:\16Eom\ArenaBattle\ArenaBattle.uproject" "C:\16Eom\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for ArenaBattleEditor in 5.2742945 seconds
+  Target is up to date
+  Total execution time: 7.06 seconds
