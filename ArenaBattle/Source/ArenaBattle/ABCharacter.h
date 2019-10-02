@@ -38,4 +38,6 @@ private:
 	void LookUp(float NewAxisValue);
 	void Turn(float NewAxisValue);
 
+	UPROPERTY(VisibleAnyWhere)
+	FVector DirectionToMove = FVector::ZeroVector;
 };

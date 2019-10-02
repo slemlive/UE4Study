@@ -32,6 +32,19 @@ AABCharacter::AABCharacter()
 		GetMesh()->SetAnimInstanceClass(WARRIOR_ANIM.Class);
 	}
 
+	SpringArm->TargetArmLength = 800.0f;
+	SpringArm->SetRelativeRotation(FRotator(-45.0f, 0.0f, 0.0f));
+	SpringArm->bUsePawnControlRotation = false;
+	SpringArm->bInheritPitch = false;
+	SpringArm->bInheritRoll = false;
+	SpringArm->bInheritYaw = false;
+	SpringArm->bDoCollisionTest = false;
+	bUseControllerRotationYaw = false;
+
+	GetCharacterMovement()->bOrientRotationToMovement = false;
+	GetCharacterMovement()->bUseControllerDesiredRotation = true;
+	GetCharacterMovement()->RotationRate = FRotator(0.0f, 360.0f, 0.0f);
+
 }
 
 // Called when the game starts or when spawned
@@ -45,6 +58,12 @@ void AABCharacter::BeginPlay()
 void AABCharacter::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+
+	if (DirectionToMove.SizeSquared() > 0.0f)
+	{
+		GetController()->SetControlRotation(FRotationMatrix::MakeFromX(DirectionToMove).Rotator());
+		AddMovementInput(DirectionToMove);
+	}
 
 }
 
@@ -61,20 +80,22 @@ void AABCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompone
 
 void AABCharacter::UpDown(float NewAxisValue)
 {
-	AddMovementInput(GetActorForwardVector(), NewAxisValue);
+	DirectionToMove.X = NewAxisValue;
+	//AddMovementInput(FRotationMatrix(GetControlRotation()).GetUnitAxis(EAxis::X), NewAxisValue);
 }
 
 void AABCharacter::LeftRight(float newAxisValue)
 {
-	AddMovementInput(GetActorRightVector(), newAxisValue);
+	DirectionToMove.Y = newAxisValue;
+	//AddMovementInput(FRotationMatrix(GetControlRotation()).GetUnitAxis(EAxis::Y), newAxisValue);
 }
 
 void AABCharacter::LookUp(float NewAxisValue)
 {
-	AddControllerPitchInput(NewAxisValue);
+	//AddControllerPitchInput(NewAxisValue);
 }
 
 void AABCharacter::Turn(float NewAxisValue)
 {
-	AddControllerYawInput(NewAxisValue);
+	//AddControllerYawInput(NewAxisValue);
 }

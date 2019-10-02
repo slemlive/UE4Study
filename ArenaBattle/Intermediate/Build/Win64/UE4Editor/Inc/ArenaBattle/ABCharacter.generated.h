@@ -57,7 +57,10 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AABCharacter); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AABCharacter)
 
 
-#define ArenaBattle_Source_ArenaBattle_ABCharacter_h_12_PRIVATE_PROPERTY_OFFSET
+#define ArenaBattle_Source_ArenaBattle_ABCharacter_h_12_PRIVATE_PROPERTY_OFFSET \
+	FORCEINLINE static uint32 __PPO__DirectionToMove() { return STRUCT_OFFSET(AABCharacter, DirectionToMove); }
+
+
 #define ArenaBattle_Source_ArenaBattle_ABCharacter_h_9_PROLOG
 #define ArenaBattle_Source_ArenaBattle_ABCharacter_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
