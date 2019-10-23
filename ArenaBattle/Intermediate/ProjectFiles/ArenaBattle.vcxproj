@@ -364,7 +364,9 @@
     <NMakeOutput>..\..\Binaries\HTML5\ArenaBattle-HTML5-Shipping.js</NMakeOutput>
   </PropertyGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\Source\ArenaBattle\ABAnimInstance.cpp" />
     <ClCompile Include="..\..\Source\ArenaBattle\Fountain.cpp" />
+    <ClInclude Include="..\..\Source\ArenaBattle\ABAnimInstance.h" />
     <ClInclude Include="..\..\Source\ArenaBattle\Fountain.h" />
     <None Include="..\..\ArenaBattle.uproject" />
     <None Include="..\..\Source\ArenaBattle.Target.cs" />
