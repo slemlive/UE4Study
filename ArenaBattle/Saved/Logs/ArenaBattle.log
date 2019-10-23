@@ -1364,3 +1364,48 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.23-06.10.03:534][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
 [2019.10.23-06.10.03:565][261]LogPlayLevel: Display: Destroying online subsystem :Context_31
 [2019.10.23-06.10.04:624][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.23-06.10.33:541][611]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.10.23-06.10.33:560][611]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Book/Maps/Step1.Step1:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Step1.Step1:PersistentLevel.Step1' with GeneratedClass '/Game/Book/Maps/Step1.Step1_C' with ClassGeneratedBy '/Game/Book/Maps/Step1.Step1:PersistentLevel.Step1'
+[2019.10.23-06.10.33:560][611]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.23-06.10.33:560][611]PIE: New page: PIE 세션: Step1 (2019. 10. 24. 오전 12:10:33)
+[2019.10.23-06.10.33:560][611]LogPlayLevel: Creating play world package: /Game/Book/Maps/UEDPIE_0_Step1
+[2019.10.23-06.10.33:563][611]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002681s)
+[2019.10.23-06.10.33:563][611]LogAIModule: Creating AISystem for world Step1
+[2019.10.23-06.10.33:563][611]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2019.10.23-06.10.33:563][611]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Book/Maps/Step1.Step1 to /Game/Book/Maps/UEDPIE_0_Step1.Step1 (0.003639s)
+[2019.10.23-06.10.33:604][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2019.10.23-06.10.33:611][611]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.23-06.10.33:618][611]LogInit: FAudioDevice initialized.
+[2019.10.23-06.10.33:644][611]LogLoad: Game class is 'ABGameMode'
+[2019.10.23-06.10.33:647][611]LogWorld: Bringing World /Game/Book/Maps/UEDPIE_0_Step1.Step1 up for play (max tick rate 0) at 2019.10.23-15.10.33
+[2019.10.23-06.10.33:647][611]ArenaBattle: Warning: AFountain::PostInitializeComponents(67)
+[2019.10.23-06.10.33:647][611]ArenaBattle: Warning: AFountain::PostInitializeComponents(67)
+[2019.10.23-06.10.33:647][611]ArenaBattle: Warning: AFountain::PostInitializeComponents(67)
+[2019.10.23-06.10.33:647][611]ArenaBattle: Warning: AFountain::PostInitializeComponents(67)
+[2019.10.23-06.10.33:648][611]LogWorld: Bringing up level for play took: 0.002188
+[2019.10.23-06.10.33:660][611]ArenaBattle: Warning: AABPlayerController::PostInitializeComponents(8)
+[2019.10.23-06.10.33:661][611]ArenaBattle: Warning: AABGameMode::PostLogin(17) PostLogin Begin
+[2019.10.23-06.10.33:662][611]ArenaBattle: Warning: AABPlayerController::OnPossess(14)
+[2019.10.23-06.10.33:662][611]ArenaBattle: Warning: AABGameMode::PostLogin(19) PostLogin End
+[2019.10.23-06.10.33:662][611]ArenaBattle: Warning: AFountain::BeginPlay(52)
+[2019.10.23-06.10.33:662][611]ArenaBattle: Warning: AFountain::BeginPlay(53) Actor Name:Fountain_2
+[2019.10.23-06.10.33:662][611]ArenaBattle: Warning: Actor Name:Fountain_2,ID:-2045373024, Location X:0.000
+[2019.10.23-06.10.33:662][611]ArenaBattle: Warning: AFountain::BeginPlay(52)
+[2019.10.23-06.10.33:662][611]ArenaBattle: Warning: AFountain::BeginPlay(53) Actor Name:Fountain_1
+[2019.10.23-06.10.33:663][611]ArenaBattle: Warning: Actor Name:Fountain_1,ID:-2045368416, Location X:0.000
+[2019.10.23-06.10.33:663][611]ArenaBattle: Warning: AFountain::BeginPlay(52)
+[2019.10.23-06.10.33:663][611]ArenaBattle: Warning: AFountain::BeginPlay(53) Actor Name:Fountain_4
+[2019.10.23-06.10.33:663][611]ArenaBattle: Warning: Actor Name:Fountain_4,ID:-2045370240, Location X:0.000
+[2019.10.23-06.10.33:663][611]ArenaBattle: Warning: AFountain::BeginPlay(52)
+[2019.10.23-06.10.33:663][611]ArenaBattle: Warning: AFountain::BeginPlay(53) Actor Name:Fountain_6
+[2019.10.23-06.10.33:663][611]ArenaBattle: Warning: Actor Name:Fountain_6,ID:1124602432, Location X:0.000
+[2019.10.23-06.10.33:663][611]PIE: /Game/Book/Maps/UEDPIE_0_Step1 에 대한 에디터에서 플레이 시작 시간: 0.296
+[2019.10.23-06.10.33:663][611]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Book/Maps/Step1.Step1:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Step1.Step1:PersistentLevel.Step1' with GeneratedClass '/Game/Book/Maps/Step1.Step1_C' with ClassGeneratedBy '/Game/Book/Maps/Step1.Step1:PersistentLevel.Step1'
+[2019.10.23-06.10.45:301][  2]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Book/Maps/Step1.Step1:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Step1.Step1:PersistentLevel.Step1' with GeneratedClass '/Game/Book/Maps/Step1.Step1_C' with ClassGeneratedBy '/Game/Book/Maps/Step1.Step1:PersistentLevel.Step1'
+[2019.10.23-06.10.45:302][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-06.10.45:328][  2]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.23-06.10.45:328][  2]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Book/Maps/Step1.Step1:PersistentLevel' has LevelScriptBlueprint '/Game/Book/Maps/Step1.Step1:PersistentLevel.Step1' with GeneratedClass '/Game/Book/Maps/Step1.Step1_C' with ClassGeneratedBy '/Game/Book/Maps/Step1.Step1:PersistentLevel.Step1'
+[2019.10.23-06.10.45:364][  2]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.23-06.10.45:369][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.10.23-06.10.45:443][  4]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.10.23-06.10.50:836][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
