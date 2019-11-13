@@ -3,6 +3,7 @@
 
 #include "ABCharacter.h"
 #include "ABAnimInstance.h"
+#include "ABAIController.h"
 
 // Sets default values
 AABCharacter::AABCharacter()
@@ -35,18 +36,21 @@ AABCharacter::AABCharacter()
 
 	SpringArm->TargetArmLength = 800.0f;
 	SpringArm->SetRelativeRotation(FRotator(-45.0f, 0.0f, 0.0f));
-	SpringArm->bUsePawnControlRotation = false;
-	SpringArm->bInheritPitch = false;
-	SpringArm->bInheritRoll = false;
-	SpringArm->bInheritYaw = false;
+	SpringArm->bUsePawnControlRotation = true;
+	SpringArm->bInheritPitch = true;
+	SpringArm->bInheritRoll = true;
+	SpringArm->bInheritYaw = true;
 	SpringArm->bDoCollisionTest = false;
 	bUseControllerRotationYaw = false;
 
 	GetCharacterMovement()->bOrientRotationToMovement = false;
-	GetCharacterMovement()->bUseControllerDesiredRotation = true;
+	GetCharacterMovement()->bUseControllerDesiredRotation = false;
 	GetCharacterMovement()->RotationRate = FRotator(0.0f, 360.0f, 0.0f);
 	GetCharacterMovement()->JumpZVelocity = 800.0f;
 
+
+	AIControllerClass = AABAIController::StaticClass();
+	AutoPossessAI = EAutoPossessAI::PlacedInWorldOrSpawned;
 }
 
 // Called when the game starts or when spawned
@@ -61,10 +65,12 @@ void AABCharacter::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 
+	//FQuat::Slerp()
+	//GetRootComponent()->SetWorldRotation((FRotationMatrix::Make());
+
 	if (DirectionToMove.SizeSquared() > 0.0f)
 	{
-		GetController()->SetControlRotation(FRotationMatrix::MakeFromX(DirectionToMove).Rotator());
-		AddMovementInput(DirectionToMove);
+		//AddMovementInput(DirectionToMove);
 	}
 }
 
@@ -92,22 +98,34 @@ void AABCharacter::Attack()
 
 void AABCharacter::UpDown(float NewAxisValue)
 {
-	DirectionToMove.X = NewAxisValue;
-	//AddMovementInput(FRotationMatrix(GetControlRotation()).GetUnitAxis(EAxis::X), NewAxisValue);
+	if (NewAxisValue != 0.0f)
+	{
+		//DirectionToMove = FRotationMatrix(GetControlRotation()).GetUnitAxis(EAxis::X) * NewAxisValue;FMath::Cos(FMath::DegreesToRadians(GetControlRotation().Yaw));
+		DirectionToMove.X = FMath::Cos(FMath::DegreesToRadians(GetControlRotation().Yaw)) * NewAxisValue;
+		DirectionToMove.Y = FMath::Sin(FMath::DegreesToRadians(GetControlRotation().Yaw)) * NewAxisValue;
+		//DirectionToMove.Z = 0.0f;
+	}
+	AddMovementInput(FRotationMatrix(GetControlRotation()).GetUnitAxis(EAxis::X), NewAxisValue);
 }
 
 void AABCharacter::LeftRight(float newAxisValue)
 {
-	DirectionToMove.Y = newAxisValue;
-	//AddMovementInput(FRotationMatrix(GetControlRotation()).GetUnitAxis(EAxis::Y), newAxisValue);
+	if (newAxisValue != 0.0f)
+	{
+		//DirectionToMove = FRotationMatrix(GetControlRotation()).GetUnitAxis(EAxis::Y) * newAxisValue;
+		DirectionToMove.X = -FMath::Sin(FMath::DegreesToRadians(GetControlRotation().Yaw)) * newAxisValue;
+		DirectionToMove.Y = FMath::Cos(FMath::DegreesToRadians(GetControlRotation().Yaw)) * newAxisValue;
+		//DirectionToMove.Z = 0.0f;
+	}
+	AddMovementInput(FRotationMatrix(GetControlRotation()).GetUnitAxis(EAxis::Y), newAxisValue);
 }
 
 void AABCharacter::LookUp(float NewAxisValue)
 {
-	//AddControllerPitchInput(NewAxisValue);
+	AddControllerPitchInput(NewAxisValue);
 }
 
 void AABCharacter::Turn(float NewAxisValue)
 {
-	//AddControllerYawInput(NewAxisValue);
+	AddControllerYawInput(NewAxisValue);
 }
