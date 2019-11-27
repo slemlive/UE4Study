@@ -1,0 +1,1723 @@
+﻿Log file open, 11/27/19 13:24:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ArenaBattle
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.316603
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1607) (), CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz, GPU: Radeon (TM) RX 480 Graphics
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.27-04.24.35:599][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.27-04.24.35:599][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.27-04.24.35:599][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2019.11.27-04.24.35:600][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.27-04.24.35:600][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2019.11.27-04.24.35:600][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2019.11.27-04.24.35:603][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.27-04.24.35:604][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.27-04.24.35:604][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.27-04.24.35:604][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.27-04.24.35:628][  0]LogHAL: Display: Platform has ~ 16 GB [17053208576 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.27-04.24.35:628][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.27-04.24.35:628][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.27-04.24.35:628][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.24.35:628][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.27-04.24.35:629][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2019.11.27-04.24.35:629][  0]LogInit: Computer: NOW2-207-07
+[2019.11.27-04.24.35:629][  0]LogInit: User: NOW220707
+[2019.11.27-04.24.35:629][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.27-04.24.35:629][  0]LogInit: High frequency timer resolution =3.328128 MHz
+[2019.11.27-04.24.35:629][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.27-04.24.35:629][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.27-04.24.35:629][  0]LogMemory: Process Physical Memory: 96.52 MB used, 96.52 MB peak
+[2019.11.27-04.24.35:629][  0]LogMemory: Process Virtual Memory: 84.00 MB used, 84.00 MB peak
+[2019.11.27-04.24.35:629][  0]LogMemory: Physical Memory: 4393.12 MB used,  11870.09 MB free, 16263.21 MB total
+[2019.11.27-04.24.35:629][  0]LogMemory: Virtual Memory: 507.58 MB used,  134217224.00 MB free, 134217728.00 MB total
+[2019.11.27-04.24.35:673][  0]LogInit: Using OS detected language (ko-KR).
+[2019.11.27-04.24.35:673][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.11.27-04.24.35:674][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.11.27-04.24.35:848][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.27-04.24.35:901][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.27-04.24.35:901][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.27-04.24.39:949][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.27-04.24.39:949][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.27-04.24.39:986][  0]LogD3D11RHI:    0. 'Radeon (TM) RX 480 Graphics' (Feature Level 11_0)
+[2019.11.27-04.24.39:986][  0]LogD3D11RHI:       4044/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.11.27-04.24.40:032][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.11.27-04.24.40:032][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.27-04.24.40:033][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.27-04.24.40:033][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.27-04.24.40:033][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.27-04.24.40:037][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.27-04.24.40:037][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2019.11.27-04.24.40:037][  0]LogWindows: EnumDisplayDevices:
+[2019.11.27-04.24.40:038][  0]LogWindows:    0. 'Radeon (TM) RX 480 Graphics' (P:1 D:1)
+[2019.11.27-04.24.40:038][  0]LogWindows:    1. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2019.11.27-04.24.40:039][  0]LogWindows:    2. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2019.11.27-04.24.40:040][  0]LogWindows:    3. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2019.11.27-04.24.40:040][  0]LogWindows:    4. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2019.11.27-04.24.40:041][  0]LogWindows:    5. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2019.11.27-04.24.40:042][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.27-04.24.40:042][  0]LogWindows:    7. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.27-04.24.40:043][  0]LogWindows:    8. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.27-04.24.40:043][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2019.11.27-04.24.40:043][  0]LogD3D11RHI:     Adapter Name: Radeon (TM) RX 480 Graphics
+[2019.11.27-04.24.40:043][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.1.1 (internal:22.19.162.4, unified:22.19.162.4)
+[2019.11.27-04.24.40:043][  0]LogD3D11RHI:      Driver Date: 4-24-2017
+[2019.11.27-04.24.40:043][  0]LogRHI: Texture pool is 2830 MB (70% of 4044 MB)
+[2019.11.27-04.24.40:317][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.27-04.24.40:320][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.27-04.24.40:320][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.27-04.24.40:320][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.27-04.24.40:327][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.11.27-04.24.40:663][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.27-04.24.40:676][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.27-04.24.40:689][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.27-04.24.40:702][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.27-04.24.40:720][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.27-04.24.40:734][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.27-04.24.40:748][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.27-04.24.40:761][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.27-04.24.40:769][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.27-04.24.40:847][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.27-04.24.40:847][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.27-04.24.40:847][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.27-04.24.40:847][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.27-04.24.40:847][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.27-04.24.40:847][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.27-04.24.40:847][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.27-04.24.40:847][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.27-04.24.40:847][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.27-04.24.40:847][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.27-04.24.40:847][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.27-04.24.40:847][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.27-04.24.40:847][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.27-04.24.40:847][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.27-04.24.40:847][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.27-04.24.40:847][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.27-04.24.40:847][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.27-04.24.40:847][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.27-04.24.40:851][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.27-04.24.40:911][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.27-04.24.40:911][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.27-04.24.40:934][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.27-04.24.40:935][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.27-04.24.40:947][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.27-04.24.40:960][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.27-04.24.40:972][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.27-04.24.40:991][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.27-04.24.41:037][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.27-04.24.41:037][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.27-04.24.41:037][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.27-04.24.41:050][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.27-04.24.41:113][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (../../../../../../16Eom/UE4Study/ArenaBattle/Intermediate/Shaders/WorkingDirectory/12752/).
+[2019.11.27-04.24.41:113][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/NOW2-207-07/AppData/Local/Temp/UnrealShaderWorkingDir/4C62D0384A3DDC20924F83A6EC23D221/'.
+[2019.11.27-04.24.41:116][  0]LogXGEController: Cleaning working directory: C:/Users/NOW2-207-07/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.11.27-04.24.41:116][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.27-04.24.41:116][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.27-04.24.41:116][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.27-04.24.43:119][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.27-04.24.43:320][  0]LogDerivedDataCache: Loaded boot cache 0.20s 75MB C:/Users/NOW2-207-07/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.27-04.24.43:320][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/NOW2-207-07/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.27-04.24.43:320][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../16Eom/UE4Study/ArenaBattle/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.27-04.24.43:320][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.27-04.24.43:320][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../16Eom/UE4Study/ArenaBattle/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.27-04.24.43:320][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.27-04.24.43:333][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.27-04.24.43:333][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.27-04.24.43:333][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.27-04.24.43:345][  0]LogDerivedDataCache: Using Local data cache path C:/Users/NOW2-207-07/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.27-04.24.43:345][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.27-04.24.43:345][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.27-04.24.43:366][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.27-04.24.43:367][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.27-04.24.43:373][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.27-04.24.43:662][  0]LogAssetRegistry: FAssetRegistry took 0.0328 seconds to start up
+[2019.11.27-04.24.43:970][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.27-04.24.44:107][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.27-04.24.44:107][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.27-04.24.44:107][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.27-04.24.44:107][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.27-04.24.44:107][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.27-04.24.44:116][  0]LogNetVersion: ArenaBattle 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 815535894)
+[2019.11.27-04.24.44:500][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.045856 seconds
+[2019.11.27-04.24.44:505][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.27-04.24.44:505][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.27-04.24.44:505][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.27-04.24.47:524][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.27-04.24.47:539][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.27-04.24.47:757][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.11.27-04.24.47:757][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.11.27-04.24.47:760][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.11.27-04.24.47:763][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.11.27-04.24.47:900][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.27-04.24.47:995][  0]LogOcInput: OculusInput pre-init called
+[2019.11.27-04.24.48:703][  0]LogEngine: Initializing Engine...
+[2019.11.27-04.24.48:704][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.27-04.24.48:704][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.27-04.24.48:895][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.27-04.24.48:915][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.27-04.24.48:929][  0]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.27-04.24.49:136][  0]LogInit: FAudioDevice initialized.
+[2019.11.27-04.24.49:137][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.27-04.24.49:209][  0]LogDerivedDataCache: Saved boot cache 0.07s 75MB C:/Users/NOW2-207-07/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.27-04.24.49:219][  0]LogInit: Texture streaming: Enabled
+[2019.11.27-04.24.49:242][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.27-04.24.49:243][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={9AB355A2-4303-5957-523B-A6808CCC13B4}
+[2019.11.27-04.24.49:277][  0]LogInit: Transaction tracking system initialized
+[2019.11.27-04.24.49:315][  0]BlueprintLog: New page: 에디터 로드
+[2019.11.27-04.24.49:434][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.11.27-04.24.49:749][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.27-04.24.49:749][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.27-04.24.49:811][  0]LogFileCache: Scanning file cache for directory 'C:/16Eom/UE4Study/ArenaBattle/Content/' took 0.04s
+[2019.11.27-04.24.50:048][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.11.27-04.24.50:048][  0]Cmd: MAP LOAD FILE="../../../../../../16Eom/UE4Study/ArenaBattle/Content/Book/Maps/Step1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.27-04.24.50:056][  0]LightingResults: New page: 라이팅 빌드
+[2019.11.27-04.24.50:059][  0]MapCheck: New page: 맵 체크
+[2019.11.27-04.24.50:059][  0]LightingResults: New page: 라이팅 빌드
+[2019.11.27-04.24.50:083][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.11.27-04.24.50:296][  0]LogAIModule: Creating AISystem for world Step1
+[2019.11.27-04.24.50:304][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.27-04.24.50:329][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.11.27-04.24.50:329][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.27-04.24.50:330][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.166ms.
+[2019.11.27-04.24.50:330][  0]LogFileHelpers: Loading map 'Step1' took 0.282
+[2019.11.27-04.24.50:402][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.11.27-04.24.50:465][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.27-04.24.50:472][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.27-04.24.50:479][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.27-04.24.50:485][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.27-04.24.50:499][  0]LogCollectionManager: Loaded 0 collections in 0.001307 seconds
+[2019.11.27-04.24.50:538][  0]LogFileCache: Scanning file cache for directory 'C:/16Eom/UE4Study/ArenaBattle/Saved/Collections/' took 0.01s
+[2019.11.27-04.24.50:538][  0]LogFileCache: Scanning file cache for directory 'C:/16Eom/UE4Study/ArenaBattle/Content/Developers/NOW220707/Collections/' took 0.01s
+[2019.11.27-04.24.50:538][  0]LogFileCache: Scanning file cache for directory 'C:/16Eom/UE4Study/ArenaBattle/Content/Collections/' took 0.01s
+[2019.11.27-04.24.50:538][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.11.27-04.24.50:547][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2741 classes and 661 folders.
+[2019.11.27-04.24.50:556][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.27-04.24.50:565][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:571][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:585][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:591][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:598][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:604][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:609][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:615][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:621][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:628][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:634][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:647][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:653][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:659][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:664][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:691][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:710][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:716][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:722][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:728][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:741][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.24.50:909][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.27-04.24.50:916][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.11.27-04.24.50:980][  0]LogSlate: Took 0.006049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.27-04.24.50:982][  0]LogSlate: Took 0.001797 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.11.27-04.24.51:000][  0]LogSlate: Took 0.016830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.11.27-04.24.51:005][  0]LogSlate: Took 0.005096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.27-04.24.51:013][  0]LogSlate: Took 0.005086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.27-04.24.51:078][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.11.27-04.24.51:212][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.11.27-04.24.51:212][  0]LogLoad: (Engine Initialization) Total time: 19.20 seconds
+[2019.11.27-04.24.51:212][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.27-04.24.51:264][  0]LogAssetRegistry: Asset discovery search completed in 7.6246 seconds
+[2019.11.27-04.24.51:267][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.27-04.24.51:267][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
+[2019.11.27-04.24.51:269][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.27-04.24.51:328][  0]LogSlate: Took 0.006744 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.27-04.24.55:248][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.24.59:751][  5]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.27-04.25.00:032][  5]LogMaterial: Display: Missing cached shader map for material M_KI-84, compiling. 
+[2019.11.27-04.25.00:128][  5]LogMaterial: Display: Missing cached shader map for material M_Sub, compiling. 
+[2019.11.27-04.25.00:149][  5]LogMaterial: Display: Missing cached shader map for material M_ScreenWave, compiling. 
+[2019.11.27-04.25.00:164][  5]LogMaterial: Display: Missing cached shader map for material M_FishC, compiling. 
+[2019.11.27-04.25.00:229][  5]LogMaterial: Display: Missing cached shader map for material M_FishB, compiling. 
+[2019.11.27-04.25.00:295][  5]LogMaterial: Display: Missing cached shader map for material M_FishA, compiling. 
+[2019.11.27-04.25.00:358][  5]LogMaterial: Display: Missing cached shader map for material M_Debris, compiling. 
+[2019.11.27-04.25.00:474][  5]LogTexture: Display: 텍스처 빌드: T_Seaweed_R (AutoDXT, 4096X4096)
+[2019.11.27-04.25.00:474][  5]LogTexture: Display: 텍스처 빌드: T_SeaWeed_N (BC5, 4096X4096)
+[2019.11.27-04.25.00:474][  5]LogMaterial: Display: Missing cached shader map for material M_Bubbles, compiling. 
+[2019.11.27-04.25.00:663][  5]LogMaterial: Display: Missing cached shader map for material M_SpongeOrange, compiling. 
+[2019.11.27-04.25.26:741][  5]LogTexture: Display: 텍스처 빌드: T_Seaweed_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.25.26:741][  5]LogTexture: Display: 텍스처 빌드: T_URockB_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.25.26:741][  5]LogMaterial: Display: Missing cached shader map for material M_Seaweed, compiling. 
+[2019.11.27-04.25.28:346][  5]LogTexture: Display: 텍스처 빌드: T_URockC_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.25.28:346][  5]LogTexture: Display: 텍스처 빌드: T_URockB_R (AutoDXT, 4096X4096)
+[2019.11.27-04.25.35:155][  5]LogTexture: Display: 텍스처 빌드: T_URockB_N (BC5, 4096X4096)
+[2019.11.27-04.25.35:165][  5]LogMaterial: Display: Missing cached shader map for material M_URockB, compiling. 
+[2019.11.27-04.25.35:254][  5]LogMaterial: Display: Missing cached shader map for material M_URockA, compiling. 
+[2019.11.27-04.25.35:302][  5]LogMaterial: Display: Missing cached shader map for material M_RedAlgae, compiling. 
+[2019.11.27-04.25.35:360][  5]LogMaterial: Display: Missing cached shader map for material M_Ocean, compiling. 
+[2019.11.27-04.25.35:380][  5]LogMaterial: Display: Missing cached shader map for material M_GodRays, compiling. 
+[2019.11.27-04.25.35:389][  5]LogMaterial: Display: Missing cached shader map for material M_Coralline, compiling. 
+[2019.11.27-04.25.35:444][  5]LogMaterial: Display: Missing cached shader map for material M_Algae, compiling. 
+[2019.11.27-04.25.35:478][  5]LogMaterial: Display: Missing cached shader map for material M_Eel, compiling. 
+[2019.11.27-04.25.35:514][  5]LogMaterial: Display: Missing cached shader map for material M_URockD, compiling. 
+[2019.11.27-04.25.41:110][  5]LogMaterial: Display: Missing cached shader map for material M_URockC, compiling. 
+[2019.11.27-04.25.41:149][  5]LogMaterial: Display: Missing cached shader map for material M_Caustics, compiling. 
+[2019.11.27-04.25.41:174][  5]LogMaterial: Display: Missing cached shader map for material M_URockE, compiling. 
+[2019.11.27-04.25.41:223][  5]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2019.11.27-04.25.41:243][  5]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2019.11.27-04.25.41:284][  5]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2019.11.27-04.25.41:329][  5]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2019.11.27-04.25.41:516][  5]LogAIModule: Creating AISystem for world Demonstration
+[2019.11.27-04.25.41:519][  5]LogActorComponent: RegisterComponentWithWorld: (/Game/OceanFloor/Maps/Demonstration.Demonstration:PersistentLevel.WorldSettings_1.StaticMeshComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2019.11.27-04.25.41:550][  5]LogAssetEditorManager: Opening Asset editor for World /Game/OceanFloor/Maps/Demonstration.Demonstration
+[2019.11.27-04.25.42:866][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.11.27-04.25.42:868][  5]Cmd: MAP LOAD FILE="../../../../../../16Eom/UE4Study/ArenaBattle/Content/OceanFloor/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.27-04.25.42:869][  5]LightingResults: New page: 라이팅 빌드
+[2019.11.27-04.25.42:870][  5]LoadErrors: New page: 맵 로드중: Demonstration.umap
+[2019.11.27-04.25.42:871][  5]MapCheck: New page: 맵 체크
+[2019.11.27-04.25.42:871][  5]LightingResults: New page: 라이팅 빌드
+[2019.11.27-04.25.42:896][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.11.27-04.25.43:120][  5]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.27-04.25.43:154][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.11.27-04.25.43:183][  5]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.27-04.25.43:183][  5]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.141ms.
+[2019.11.27-04.25.43:183][  5]LogFileHelpers: Loading map 'Demonstration' took 0.317
+[2019.11.27-04.25.43:248][  6]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '셰 (U+c170)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2019.11.27-04.25.43:250][  6]LogSlate: Took 0.002190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.11.27-04.25.43:301][  8]LogRenderer: Warning: Bokeh DOF algorithm is deprecated and will be removed. Consider using the Circle DOF method in post process settings.
+[2019.11.27-04.26.07:859][727]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.11.27-04.28.47:595][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.29.55:962][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.30.00:258][811]LogTexture: Display: 텍스처 빌드: T_Griffon_Feathers (AutoDXT, 2048X2048)
+[2019.11.27-04.30.00:258][811]LogTexture: Display: 텍스처 빌드: T_Griffon_Feathers_nml (BC5, 2048X2048)
+[2019.11.27-04.30.00:258][811]LogTexture: Display: 텍스처 빌드: T_Griffon_BaseColor (AutoDXT, 4096X4096)
+[2019.11.27-04.30.00:258][811]LogSkeletalMesh: Building Skeletal Mesh SK_Griffon...
+[2019.11.27-04.30.00:291][811]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/QuadrapedCreatures/Griffon/Meshes/SK_Griffon.SK_Griffon
+[2019.11.27-04.30.25:862][811]LogTexture: Display: 텍스처 빌드: T_Griffon_Feathers_OcclusionRoughnessMetallicSpecular (AutoDXT, 2048X2048)
+[2019.11.27-04.30.25:862][811]LogTexture: Display: 텍스처 빌드: T_GRIFFON_nml (BC5, 4096X4096)
+[2019.11.27-04.30.25:862][811]LogTexture: Display: 텍스처 빌드: T_GRIFFON_OcclusionRoughnessMetallicSpecular (AutoDXT, 4096X4096)
+[2019.11.27-04.30.25:863][811]LogMaterial: Display: Missing cached shader map for material M_Griffon, compiling. 
+[2019.11.27-04.30.25:894][811]LogMaterial: Display: Missing cached shader map for material M_Griffon_Feathers, compiling. 
+[2019.11.27-04.30.25:961][811]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/QuadrapedCreatures/Griffon/Meshes/SK_Griffon.SK_Griffon
+[2019.11.27-04.30.25:975][811]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.11.27-04.30.26:227][811]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.27-04.30.26:236][811]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2019.11.27-04.30.26:315][811]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.27-04.30.26:709][811]LogSlate: Took 0.005874 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.27-04.30.26:768][811]LogRenderer: Reallocating scene render targets to support 1208x884 Format 10 NumSamples 1 (Frame:1).
+[2019.11.27-04.30.30:481][ 62]LogSlate: Window 'SK_Griffon' being destroyed
+[2019.11.27-04.33.38:272][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.34.17:604][377]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_2HitComboAttack.ANIM_Griffon_2HitComboAttack
+[2019.11.27-04.34.17:605][377]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_2HitComboAttack.ANIM_Griffon_2HitComboAttack) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.34.17:621][377]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_2HitComboAttack.ANIM_Griffon_2HitComboAttack
+[2019.11.27-04.34.17:632][377]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.27-04.34.17:657][377]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.27-04.34.17:987][377]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.27-04.34.22:808][865]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_2HitComboAttack_RM.ANIM_Griffon_2HitComboAttack_RM
+[2019.11.27-04.34.22:809][865]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_2HitComboAttack_RM.ANIM_Griffon_2HitComboAttack_RM) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.34.22:828][865]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_2HitComboAttack_RM.ANIM_Griffon_2HitComboAttack_RM
+[2019.11.27-04.34.30:941][395]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_BiteAttack.ANIM_Griffon_BiteAttack
+[2019.11.27-04.34.30:942][395]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_BiteAttack.ANIM_Griffon_BiteAttack) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.34.30:970][395]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_BiteAttack.ANIM_Griffon_BiteAttack
+[2019.11.27-04.34.34:752][738]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_BiteAttack_RM.ANIM_Griffon_BiteAttack_RM
+[2019.11.27-04.34.34:753][738]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_BiteAttack_RM.ANIM_Griffon_BiteAttack_RM) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.34.34:778][738]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_BiteAttack_RM.ANIM_Griffon_BiteAttack_RM
+[2019.11.27-04.34.42:928][311]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Death.ANIM_Griffon_Death
+[2019.11.27-04.34.42:928][311]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Death.ANIM_Griffon_Death) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.34.42:947][311]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Death.ANIM_Griffon_Death
+[2019.11.27-04.34.42:953][311]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2019.11.27-04.34.42:976][311]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2019.11.27-04.34.43:276][311]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2019.11.27-04.34.46:716][657]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Falling.ANIM_Griffon_Falling
+[2019.11.27-04.34.46:716][657]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Falling.ANIM_Griffon_Falling) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.34.46:739][657]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Falling.ANIM_Griffon_Falling
+[2019.11.27-04.34.49:413][909]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyBackwardsStationary.ANIM_Griffon_FlyBackwardsStationary
+[2019.11.27-04.34.49:413][909]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyBackwardsStationary.ANIM_Griffon_FlyBackwardsStationary) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.34.49:437][909]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyBackwardsStationary.ANIM_Griffon_FlyBackwardsStationary
+[2019.11.27-04.34.52:524][184]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyGetHitNormal.ANIM_Griffon_FlyGetHitNormal
+[2019.11.27-04.34.52:525][184]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyGetHitNormal.ANIM_Griffon_FlyGetHitNormal) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.34.52:542][184]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyGetHitNormal.ANIM_Griffon_FlyGetHitNormal
+[2019.11.27-04.34.59:357][616]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyLeftStationary.ANIM_Griffon_FlyLeftStationary
+[2019.11.27-04.34.59:357][616]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyLeftStationary.ANIM_Griffon_FlyLeftStationary) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.34.59:378][616]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyLeftStationary.ANIM_Griffon_FlyLeftStationary
+[2019.11.27-04.35.05:944][987]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyNormal.ANIM_Griffon_FlyNormal
+[2019.11.27-04.35.05:944][987]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyNormal.ANIM_Griffon_FlyNormal) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.35.05:967][987]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyNormal.ANIM_Griffon_FlyNormal
+[2019.11.27-04.35.14:203][480]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyBackwardsStationary.ANIM_Griffon_FlyBackwardsStationary
+[2019.11.27-04.35.20:521][ 49]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyNormal.ANIM_Griffon_FlyNormal
+[2019.11.27-04.35.26:779][421]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyRightStationary.ANIM_Griffon_FlyRightStationary
+[2019.11.27-04.35.26:779][421]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyRightStationary.ANIM_Griffon_FlyRightStationary) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.35.26:798][421]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyRightStationary.ANIM_Griffon_FlyRightStationary
+[2019.11.27-04.35.29:752][662]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyStationary.ANIM_Griffon_FlyStationary
+[2019.11.27-04.35.29:752][662]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyStationary.ANIM_Griffon_FlyStationary) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.35.29:773][662]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyStationary.ANIM_Griffon_FlyStationary
+[2019.11.27-04.35.32:396][845]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyStationaryClawsAttack.ANIM_Griffon_FlyStationaryClawsAttack
+[2019.11.27-04.35.32:396][845]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyStationaryClawsAttack.ANIM_Griffon_FlyStationaryClawsAttack) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.35.32:419][845]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_FlyStationaryClawsAttack.ANIM_Griffon_FlyStationaryClawsAttack
+[2019.11.27-04.35.34:877][ 42]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Gallop.ANIM_Griffon_Gallop
+[2019.11.27-04.35.34:878][ 42]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Gallop.ANIM_Griffon_Gallop) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.35.34:898][ 42]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Gallop.ANIM_Griffon_Gallop
+[2019.11.27-04.35.44:679][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.35.48:996][370]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Glide.ANIM_Griffon_Glide
+[2019.11.27-04.35.48:997][370]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Glide.ANIM_Griffon_Glide) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.35.49:021][370]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Glide.ANIM_Griffon_Glide
+[2019.11.27-04.36.03:009][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.36.06:614][200]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Idle.ANIM_Griffon_Idle
+[2019.11.27-04.36.06:614][200]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Idle.ANIM_Griffon_Idle) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.36.06:638][200]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Idle.ANIM_Griffon_Idle
+[2019.11.27-04.36.16:174][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.36.18:358][406]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_JumpToFly.ANIM_Griffon_JumpToFly
+[2019.11.27-04.36.18:359][406]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_JumpToFly.ANIM_Griffon_JumpToFly) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.36.18:372][406]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_JumpToFly.ANIM_Griffon_JumpToFly
+[2019.11.27-04.36.22:821][833]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Landing.ANIM_Griffon_Landing
+[2019.11.27-04.36.22:822][833]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Landing.ANIM_Griffon_Landing) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.36.22:847][833]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Landing.ANIM_Griffon_Landing
+[2019.11.27-04.36.31:384][539]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_HitTheGround.ANIM_Griffon_HitTheGround
+[2019.11.27-04.36.31:384][539]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_HitTheGround.ANIM_Griffon_HitTheGround) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.36.31:405][539]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_HitTheGround.ANIM_Griffon_HitTheGround
+[2019.11.27-04.36.40:378][300]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_LeftClawsAttack.ANIM_Griffon_LeftClawsAttack
+[2019.11.27-04.36.40:378][300]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_LeftClawsAttack.ANIM_Griffon_LeftClawsAttack) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.36.40:402][300]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_LeftClawsAttack.ANIM_Griffon_LeftClawsAttack
+[2019.11.27-04.36.44:067][572]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Swooping.ANIM_Griffon_Swooping
+[2019.11.27-04.36.44:067][572]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Swooping.ANIM_Griffon_Swooping) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.36.44:091][572]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Swooping.ANIM_Griffon_Swooping
+[2019.11.27-04.36.49:046][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.36.50:472][212]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Turn90Left.ANIM_Griffon_Turn90Left
+[2019.11.27-04.36.50:472][212]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Turn90Left.ANIM_Griffon_Turn90Left) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.36.50:494][212]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Turn90Left.ANIM_Griffon_Turn90Left
+[2019.11.27-04.36.53:129][443]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Turn90Left_RM.ANIM_Griffon_Turn90Left_RM
+[2019.11.27-04.36.53:129][443]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Turn90Left_RM.ANIM_Griffon_Turn90Left_RM) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.36.53:159][443]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Turn90Left_RM.ANIM_Griffon_Turn90Left_RM
+[2019.11.27-04.36.56:770][670]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Walk.ANIM_Griffon_Walk
+[2019.11.27-04.36.56:771][670]LogAnimationCompression: Recompressing (AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Walk.ANIM_Griffon_Walk) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.36.56:793][670]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/QuadrapedCreatures/Griffon/Animations/ANIM_Griffon_Walk.ANIM_Griffon_Walk
+[2019.11.27-04.37.41:564][913]LogTexture: Display: 텍스처 빌드: T_Ivy_Translucency (AutoDXT, 4096X4096)
+[2019.11.27-04.37.41:564][913]LogTexture: Display: 텍스처 빌드: T_Ivy_Normal1_No_Details (BC5, 4096X4096)
+[2019.11.27-04.37.41:564][913]LogStaticMesh: SM_Wall_High_Sec1_Arch_Double_Simple1 스태틱 메시 빌드중...
+[2019.11.27-04.37.41:960][913]LogStaticMesh: Built static mesh [0.40s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Arch_Double_Simple1.SM_Wall_High_Sec1_Arch_Double_Simple1
+[2019.11.27-04.37.42:034][913]LogStaticMesh: SM_Wall_High_Sec1_Arch_Doors3 스태틱 메시 빌드중...
+[2019.11.27-04.37.42:124][913]LogStaticMesh: Built static mesh [0.09s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Arch_Doors3.SM_Wall_High_Sec1_Arch_Doors3
+[2019.11.27-04.37.42:154][913]LogStaticMesh: SM_Wall_High_Sec1_Arch_Column_Angled1 스태틱 메시 빌드중...
+[2019.11.27-04.37.42:177][913]LogStaticMesh: Built static mesh [0.02s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Arch_Column_Angled1.SM_Wall_High_Sec1_Arch_Column_Angled1
+[2019.11.27-04.37.42:183][913]LogStaticMesh: SM_Wall_High_Sec1_Arch_Column1 스태틱 메시 빌드중...
+[2019.11.27-04.37.42:185][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Arch_Column1.SM_Wall_High_Sec1_Arch_Column1
+[2019.11.27-04.37.42:256][913]LogStaticMesh: SM_Wall_High_Sec1_Arch_Doors1 스태틱 메시 빌드중...
+[2019.11.27-04.37.42:959][913]LogStaticMesh: Built static mesh [0.70s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Arch_Doors1.SM_Wall_High_Sec1_Arch_Doors1
+[2019.11.27-04.37.42:985][913]LogStaticMesh: SM_Grass_Straight2 스태틱 메시 빌드중...
+[2019.11.27-04.37.42:985][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Ivy/Meshes/SM_Grass_Straight2.SM_Grass_Straight2
+[2019.11.27-04.37.42:996][913]LogStaticMesh: SM_Ivy_Cap2 스태틱 메시 빌드중...
+[2019.11.27-04.37.43:040][913]LogStaticMesh: Built static mesh [0.04s] /Game/Seaside_Town/Ivy/Meshes/SM_Ivy_Cap2.SM_Ivy_Cap2
+[2019.11.27-04.37.43:528][913]LogTexture: Display: 텍스처 빌드: T_Pier_Tiles_Damaged_Diffuse (AutoDXT, 4096X4096)
+[2019.11.27-04.37.43:528][913]LogTexture: Display: 텍스처 빌드: T_Ivy_Diffuse1 (AutoDXT, 4096X4096)
+[2019.11.27-04.37.57:616][913]LogTexture: Display: 텍스처 빌드: T_Floor_Tiles_Damaged_Roughness (G8, 4096X4096)
+[2019.11.27-04.37.57:616][913]LogTexture: Display: 텍스처 빌드: T_Ivy_Mix (AutoDXT, 4096X4096)
+[2019.11.27-04.38.02:185][913]LogMaterial: Display: Missing cached shader map for material M_Foliage_Two_sided, compiling. 
+[2019.11.27-04.38.02:239][913]LogMaterial: Display: Missing cached shader map for material M_Foliage_Two_sided, compiling. 
+[2019.11.27-04.38.10:231][913]LogTexture: Display: 텍스처 빌드: T_Rock_Tiling_Normal (BC5, 4096X4096)
+[2019.11.27-04.38.10:231][913]LogShaderCompilers: Display: Shaders left to compile 200
+[2019.11.27-04.38.10:231][913]LogTexture: Display: 텍스처 빌드: T_Floor_Tiles_Normal (BC5, 4096X4096)
+[2019.11.27-04.38.10:231][913]LogShaderCompilers: Display: Shaders left to compile 190
+[2019.11.27-04.38.10:231][913]LogTexture: Display: 텍스처 빌드: T_Floor_Tiles_Roughness (G8, 4096X4096)
+[2019.11.27-04.38.10:231][913]LogTexture: Display: 텍스처 빌드: T_Ext_Plaster2_Diffuse (AutoDXT, 4096X4096)
+[2019.11.27-04.38.10:231][913]LogTexture: Display: 텍스처 빌드: Wallpaper_Ripped1 (AutoDXT, 1024X2048)
+[2019.11.27-04.38.10:231][913]LogTexture: Display: 텍스처 빌드: T_Ext_Trim_Diffuse (AutoDXT, 2048X4096)
+[2019.11.27-04.38.25:215][913]LogTexture: Display: 텍스처 빌드: T_Water_Normal_3ds_height (G8, 512X512)
+[2019.11.27-04.38.25:215][913]LogTexture: Display: 텍스처 빌드: T_Water_Normal_3ds (BC5, 512X512)
+[2019.11.27-04.38.25:215][913]LogTexture: Display: 텍스처 빌드: T_Metal_Trims_Diffuse (AutoDXT, 2048X4096)
+[2019.11.27-04.38.25:215][913]LogTexture: Display: 텍스처 빌드: T_Metal_Trims_Metalicity (G8, 2048X4096)
+[2019.11.27-04.38.25:215][913]LogTexture: Display: 텍스처 빌드: T_Metal_Trims_Normal (BC5, 2048X4096)
+[2019.11.27-04.38.25:215][913]LogTexture: Display: 텍스처 빌드: T_Metal_Trims_Roughness (G8, 2048X4096)
+[2019.11.27-04.38.25:215][913]LogTexture: Display: 텍스처 빌드: T_Interior_Stucco_Normal (BC5, 2048X2048)
+[2019.11.27-04.38.25:215][913]LogTexture: Display: 텍스처 빌드: T_Interior_Stucco_Roughness (G8, 2048X2048)
+[2019.11.27-04.38.25:215][913]LogTexture: Display: 텍스처 빌드: T_Interior_Stucco_Diffuse (AutoDXT, 2048X2048)
+[2019.11.27-04.38.25:215][913]LogTexture: Display: 텍스처 빌드: T_Wood_Floors_Roughness (G8, 4096X4096)
+[2019.11.27-04.38.25:592][913]LogTexture: Display: 텍스처 빌드: T_Ext_Trim_Normal (BC5, 2048X4096)
+[2019.11.27-04.38.27:014][913]LogTexture: Display: 텍스처 빌드: T_Wood_Floors_Normal (BC5, 4096X4096)
+[2019.11.27-04.38.27:157][913]LogTexture: Display: 텍스처 빌드: T_Ext_Trim_Roughness (G8, 2048X4096)
+[2019.11.27-04.38.27:807][913]LogTexture: Display: 텍스처 빌드: T_Marble_Rough1_normal (BC5, 2048X2048)
+[2019.11.27-04.38.28:707][913]LogTexture: Display: 텍스처 빌드: T_Wood_Floors_Diffuse (AutoDXT, 4096X4096)
+[2019.11.27-04.38.29:599][913]LogTexture: Display: 텍스처 빌드: T_Exterior_Plaster_Diffuse (AutoDXT, 4096X4096)
+[2019.11.27-04.38.58:008][913]LogTexture: Display: 텍스처 빌드: T_Window_Roughness (G8, 1024X2048)
+[2019.11.27-04.38.58:008][913]LogTexture: Display: 텍스처 빌드: T_Floor_Tiles_Damaged_Normal (BC5, 4096X4096)
+[2019.11.27-04.38.58:008][913]LogTexture: Display: 텍스처 빌드: T_Stucco2_Roughness (G8, 2048X2048)
+[2019.11.27-04.38.58:008][913]LogTexture: Display: 텍스처 빌드: T_Stucco2_Normal (BC5, 2048X2048)
+[2019.11.27-04.38.58:008][913]LogTexture: Display: 텍스처 빌드: T_Moss_Mask1 (G8, 2048X2048)
+[2019.11.27-04.38.58:008][913]LogTexture: Display: 텍스처 빌드: T_Interior_Wood_Normal (BC5, 2048X4096)
+[2019.11.27-04.38.58:008][913]LogTexture: Display: 텍스처 빌드: T_Interior_Wood_Diffuse1 (AutoDXT, 2048X4096)
+[2019.11.27-04.38.58:008][913]LogTexture: Display: 텍스처 빌드: T_Interior_Wood_Roughness (G8, 2048X4096)
+[2019.11.27-04.38.58:009][913]LogTexture: Display: 텍스처 빌드: T_Stucco2_Diffuse (AutoDXT, 2048X2048)
+[2019.11.27-04.38.58:009][913]LogTexture: Display: 텍스처 빌드: T_Pier_Tiles_Damaged_Normal (BC5, 4096X4096)
+[2019.11.27-04.38.58:009][913]LogTexture: Display: 텍스처 빌드: T_Ext_Stucco_Roughness (G8, 4096X4096)
+[2019.11.27-04.38.58:009][913]LogTexture: Display: 텍스처 빌드: T_Pier_Tiles_Damaged_Roughness (G8, 4096X4096)
+[2019.11.27-04.38.58:009][913]LogTexture: Display: 텍스처 빌드: T_Floor_Tiles_Diffuse (AutoDXT, 4096X4096)
+[2019.11.27-04.38.58:009][913]LogTexture: Display: 텍스처 빌드: T_Ext_Stucco_Diffuse (AutoDXT, 4096X4096)
+[2019.11.27-04.38.58:052][913]LogTexture: Display: 텍스처 빌드: T_Ext_Stucco_Mix (AutoDXT, 1024X1024)
+[2019.11.27-04.38.59:705][913]LogTexture: Display: 텍스처 빌드: T_Exterior_Plaster_Normal (BC5, 4096X4096)
+[2019.11.27-04.39.02:877][913]LogTexture: Display: 텍스처 빌드: T_Exterior_Plaster_Roughness (G8, 4096X4096)
+[2019.11.27-04.39.04:214][913]LogTexture: Display: 텍스처 빌드: T_Rock_Tiling_DIffuse (AutoDXT, 4096X4096)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: T_Ext_Stucco_Normal (BC5, 4096X4096)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: T_FieldGrass_02_M (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: T_Gravel_Diffuse1 (AutoDXT, 2048X2048)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: T_Gravel_HM1 (G8, 2048X2048)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: T_Pipes_Normal (BC5, 2048X2048)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: T_Pipes_Diffuse (AutoDXT, 2048X2048)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: T_Pipes_Roughness (G8, 2048X2048)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: T_Pipes_Metalicity (G8, 2048X2048)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_12 (AutoDXT, 512X512)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_15 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_16 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_17 (AutoDXT, 512X512)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_18 (AutoDXT, 512X512)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_19 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_20 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_21 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_22 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_23 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_24 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_25 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_26 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_27 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_28 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_29 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_30 (AutoDXT, 128X128)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_31 (AutoDXT, 128X128)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_32 (AutoDXT, 128X128)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_33 (AutoDXT, 128X128)
+[2019.11.27-04.39.33:827][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_34 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:828][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_35 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:828][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_36 (AutoDXT, 128X128)
+[2019.11.27-04.39.33:828][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_37 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:828][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_38 (AutoDXT, 128X128)
+[2019.11.27-04.39.33:828][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_39 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:828][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.33:832][913]LogMaterial: Display: Missing cached shader map for material M_Exterior_Trims_Master2, compiling. 
+[2019.11.27-04.39.33:851][913]LogMaterial: Display: Missing cached shader map for material M_Exterior_Trims_Master2, compiling. 
+[2019.11.27-04.39.33:900][913]LogStaticMesh: SM_Metal_Trim3 스태틱 메시 빌드중...
+[2019.11.27-04.39.33:901][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Metal/SM_Metal_Trim3.SM_Metal_Trim3
+[2019.11.27-04.39.33:904][913]LogStaticMesh: SM_Lamp3 스태틱 메시 빌드중...
+[2019.11.27-04.39.33:907][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Metal/SM_Lamp3.SM_Lamp3
+[2019.11.27-04.39.33:916][913]LogStaticMesh: SM_Lamp2 스태틱 메시 빌드중...
+[2019.11.27-04.39.34:040][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_40 (AutoDXT, 128X128)
+[2019.11.27-04.39.34:040][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.34:040][913]LogStaticMesh: Built static mesh [0.12s] /Game/Seaside_Town/Meshes/Metal/SM_Lamp2.SM_Lamp2
+[2019.11.27-04.39.34:048][913]LogStaticMesh: SM_Lamp1_Base2 스태틱 메시 빌드중...
+[2019.11.27-04.39.34:052][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Metal/SM_Lamp1_Base2.SM_Lamp1_Base2
+[2019.11.27-04.39.34:610][913]LogTexture: Display: 텍스처 빌드: T_Ext_Plaster2_Normal (BC5, 4096X4096)
+[2019.11.27-04.39.37:530][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.37:530][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.37:530][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.37:530][913]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2019.11.27-04.39.37:784][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.11.27-04.39.37:784][913]LogTexture: Display: 텍스처 빌드: T_Ext_Plaster2_Roughness (G8, 4096X4096)
+[2019.11.27-04.39.38:566][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2019.11.27-04.39.38:570][913]LogMaterial: Display: Missing cached shader map for material M_Exterior_Trims_Master2, compiling. 
+[2019.11.27-04.39.38:630][913]LogStaticMesh: SM_LH_Wood_Planks3 스태틱 메시 빌드중...
+[2019.11.27-04.39.38:820][913]LogStaticMesh: Built static mesh [0.19s] /Game/Seaside_Town/Meshes/Wood/SM_LH_Wood_Planks3.SM_LH_Wood_Planks3
+[2019.11.27-04.39.38:836][913]LogStaticMesh: SM_Box1 스태틱 메시 빌드중...
+[2019.11.27-04.39.38:864][913]LogStaticMesh: Built static mesh [0.03s] /Game/Seaside_Town/Meshes/Wood/SM_Box1.SM_Box1
+[2019.11.27-04.39.38:919][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2019.11.27-04.39.38:919][913]LogStaticMesh: SM_Boat1 스태틱 메시 빌드중...
+[2019.11.27-04.39.39:209][913]LogStaticMesh: Built static mesh [0.29s] /Game/Seaside_Town/Meshes/Wood/SM_Boat1.SM_Boat1
+[2019.11.27-04.39.39:259][913]LogStaticMesh: SM_Barrel_Broken1 스태틱 메시 빌드중...
+[2019.11.27-04.39.39:279][913]LogStaticMesh: Built static mesh [0.02s] /Game/Seaside_Town/Meshes/Wood/SM_Barrel_Broken1.SM_Barrel_Broken1
+[2019.11.27-04.39.40:001][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_12 (DXT1, 512X512)
+[2019.11.27-04.39.40:001][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2019.11.27-04.39.40:001][913]LogTexture: Display: 텍스처 빌드: T_Wood_Tiling_Normal (BC5, 4096X4096)
+[2019.11.27-04.39.43:231][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2019.11.27-04.39.43:231][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_15 (DXT1, 1024X1024)
+[2019.11.27-04.39.43:231][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_16 (DXT1, 1024X1024)
+[2019.11.27-04.39.43:231][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_17 (DXT1, 512X512)
+[2019.11.27-04.39.43:231][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_18 (DXT1, 512X512)
+[2019.11.27-04.39.43:231][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_19 (DXT1, 1024X1024)
+[2019.11.27-04.39.43:231][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.11.27-04.39.43:231][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_20 (DXT1, 1024X1024)
+[2019.11.27-04.39.43:231][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_21 (DXT1, 1024X1024)
+[2019.11.27-04.39.43:488][913]LogTexture: Display: 텍스처 빌드: T_Wood_Tiling_Roughness (G8, 4096X4096)
+[2019.11.27-04.39.44:323][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_22 (DXT1, 1024X1024)
+[2019.11.27-04.39.44:323][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_23 (DXT1, 1024X1024)
+[2019.11.27-04.39.44:950][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_24 (DXT1, 1024X1024)
+[2019.11.27-04.39.44:950][913]LogTexture: Display: 텍스처 빌드: T_Wood_Tiling_Diffuse (AutoDXT, 4096X4096)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_25 (DXT1, 1024X1024)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_26 (DXT1, 1024X1024)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_27 (DXT1, 1024X1024)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_28 (DXT1, 1024X1024)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_29 (DXT1, 1024X1024)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_30 (DXT1, 128X128)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_31 (DXT1, 128X128)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_32 (DXT1, 128X128)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_33 (DXT1, 128X128)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_34 (DXT1, 1024X1024)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_35 (DXT1, 1024X1024)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_36 (DXT1, 128X128)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_37 (DXT1, 1024X1024)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_38 (DXT1, 128X128)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_39 (DXT1, 1024X1024)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_40 (DXT1, 128X128)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_10 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_11 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_12 (AutoDXT, 512X256)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_13 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_14 (AutoDXT, 256X128)
+[2019.11.27-04.40.20:409][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_15 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_16 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_17 (AutoDXT, 512X256)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_18 (AutoDXT, 512X256)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_19 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_20 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_21 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_22 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_23 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_24 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_25 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_26 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_27 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_28 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_29 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_30 (AutoDXT, 128X64)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_31 (AutoDXT, 128X64)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_32 (AutoDXT, 128X64)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_33 (AutoDXT, 128X64)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_34 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_35 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_36 (AutoDXT, 128X64)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_37 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_38 (AutoDXT, 128X64)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_39 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_40 (AutoDXT, 128X64)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_8 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: SkyOcclusion0_9 (AutoDXT, 1024X512)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_10 (G8, 512X128)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_11 (BGRA8, 1024X1024)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_13 (BGRA8, 1024X1024)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_12 (BGRA8, 1024X1024)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_14 (BGRA8, 1024X1024)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_15 (BGRA8, 1024X1024)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_16 (G8, 64X64)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_17 (G8, 64X64)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_18 (G8, 64X64)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_19 (G8, 64X64)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_20 (G8, 64X64)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_22 (G8, 64X64)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_21 (BGRA8, 1024X1024)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_3 (BGRA8, 1024X1024)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_5 (G8, 1024X256)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_4 (BGRA8, 1024X1024)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_6 (G8, 128X128)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_7 (G8, 128X128)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_8 (G8, 1024X256)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_9 (G8, 1024X128)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: Dummy_Roughness (G8, 128X128)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: T_Gravel_Normal1 (BC5, 2048X2048)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: T_Ground_Dirt_Roughness (G8, 4096X4096)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: T_Ground_Dirt_Diffuse (AutoDXT, 4096X4096)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: T_Ground_Dirt_Normal (BC5, 4096X4096)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: LH_Rust_Leaks_Decal (AutoDXT, 512X1024)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: Texture2D_10 (BGRA8, 128X128)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: Texture2D_2 (BGRA8, 128X128)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: Texture2D_3 (BGRA8, 128X128)
+[2019.11.27-04.40.20:410][913]LogTexture: Display: 텍스처 빌드: Texture2D_8 (BGRA8, 128X128)
+[2019.11.27-04.40.20:411][913]LogTexture: Display: 텍스처 빌드: T_Bricks1_Roughness (G8, 4096X4096)
+[2019.11.27-04.40.20:411][913]LogTexture: Display: 텍스처 빌드: T_Bricks1_Normal (BC5, 4096X4096)
+[2019.11.27-04.40.20:411][913]LogTexture: Display: 텍스처 빌드: T_Wood_Tiling_Paint_Mask (AutoDXT, 4096X4096)
+[2019.11.27-04.40.24:957][913]LogMaterial: Display: Missing cached shader map for material M_Wood_Master1, compiling. 
+[2019.11.27-04.40.24:984][913]LogMaterial: Display: Missing cached shader map for material M_Wood_Master1, compiling. 
+[2019.11.27-04.40.25:044][913]LogStaticMesh: SM_Pipe_Thin_Ring1 스태틱 메시 빌드중...
+[2019.11.27-04.40.25:150][913]LogTexture: Display: 텍스처 빌드: T_Rubble_Pile_Diffuse (AutoDXT, 2048X2048)
+[2019.11.27-04.40.25:150][913]LogStaticMesh: Built static mesh [0.11s] /Game/Seaside_Town/Meshes/Pipes/SM_Pipe_Thin_Ring1.SM_Pipe_Thin_Ring1
+[2019.11.27-04.40.25:224][913]LogStaticMesh: SM_Metal_Fence1 스태틱 메시 빌드중...
+[2019.11.27-04.40.25:600][913]LogStaticMesh: Built static mesh [0.37s] /Game/Seaside_Town/Meshes/Metal/SM_Metal_Fence1.SM_Metal_Fence1
+[2019.11.27-04.40.25:626][913]LogStaticMesh: SM_Metal_Bar_Long1 스태틱 메시 빌드중...
+[2019.11.27-04.40.25:626][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Metal/SM_Metal_Bar_Long1.SM_Metal_Bar_Long1
+[2019.11.27-04.40.25:629][913]LogMaterial: Display: Missing cached shader map for material M_Wood_Master1, compiling. 
+[2019.11.27-04.40.25:667][913]LogMaterial: Display: Missing cached shader map for material M_Wood_Master1, compiling. 
+[2019.11.27-04.40.25:693][913]LogStaticMesh: SM_Ivy_Wall_Arch_Small2 스태틱 메시 빌드중...
+[2019.11.27-04.40.25:757][913]LogStaticMesh: Built static mesh [0.06s] /Game/Seaside_Town/Ivy/Meshes/SM_Ivy_Wall_Arch_Small2.SM_Ivy_Wall_Arch_Small2
+[2019.11.27-04.40.25:765][913]LogStaticMesh: SM_Ivy_Wall_Arch_Small1 스태틱 메시 빌드중...
+[2019.11.27-04.40.25:786][913]LogStaticMesh: Built static mesh [0.02s] /Game/Seaside_Town/Ivy/Meshes/SM_Ivy_Wall_Arch_Small1.SM_Ivy_Wall_Arch_Small1
+[2019.11.27-04.40.25:816][913]LogStaticMesh: SM_Wood_Planks1 스태틱 메시 빌드중...
+[2019.11.27-04.40.25:957][913]LogStaticMesh: Built static mesh [0.14s] /Game/Seaside_Town/Meshes/Wood/SM_Wood_Planks1.SM_Wood_Planks1
+[2019.11.27-04.40.25:966][913]LogStaticMesh: SM_Wood_Plank1 스태틱 메시 빌드중...
+[2019.11.27-04.40.25:967][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Wood/SM_Wood_Plank1.SM_Wood_Plank1
+[2019.11.27-04.40.25:981][913]LogStaticMesh: SM_Wood_Beam_Connector1 스태틱 메시 빌드중...
+[2019.11.27-04.40.26:114][913]LogStaticMesh: Built static mesh [0.13s] /Game/Seaside_Town/Meshes/Wood/SM_Wood_Beam_Connector1.SM_Wood_Beam_Connector1
+[2019.11.27-04.40.26:158][913]LogStaticMesh: SM_Wall_Wood_Trim2 스태틱 메시 빌드중...
+[2019.11.27-04.40.26:358][913]LogStaticMesh: Built static mesh [0.20s] /Game/Seaside_Town/Meshes/Wood/SM_Wall_Wood_Trim2.SM_Wall_Wood_Trim2
+[2019.11.27-04.40.26:406][913]LogStaticMesh: SM_Wall_Wood_Trim1 스태틱 메시 빌드중...
+[2019.11.27-04.40.26:617][913]LogStaticMesh: Built static mesh [0.21s] /Game/Seaside_Town/Meshes/Wood/SM_Wall_Wood_Trim1.SM_Wall_Wood_Trim1
+[2019.11.27-04.40.26:710][913]LogTexture: Display: 텍스처 빌드: T_Window_Diffuse (AutoDXT, 1024X2048)
+[2019.11.27-04.40.28:488][913]LogMaterial: Display: Missing cached shader map for material M_Glass_Translucent1, compiling. 
+[2019.11.27-04.40.28:547][913]LogMaterial: Display: Missing cached shader map for material M_Glass_Translucent1, compiling. 
+[2019.11.27-04.40.28:601][913]LogStaticMesh: SM_Wall_Roof_Trim_Corner_New1 스태틱 메시 빌드중...
+[2019.11.27-04.40.28:603][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_Roof_Trim_Corner_New1.SM_Wall_Roof_Trim_Corner_New1
+[2019.11.27-04.40.28:605][913]LogStaticMesh: SM_Wall_Roof_Trim_Corner_New2 스태틱 메시 빌드중...
+[2019.11.27-04.40.28:606][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_Roof_Trim_Corner_New2.SM_Wall_Roof_Trim_Corner_New2
+[2019.11.27-04.40.28:610][913]LogMaterial: Display: Missing cached shader map for material M_World_Aligned_Wood, compiling. 
+[2019.11.27-04.40.28:648][913]LogTexture: Display: 텍스처 빌드: Dummy_Normal (BC5, 128X128)
+[2019.11.27-04.40.28:650][913]LogTexture: Display: 텍스처 빌드: Dummy_Color (AutoDXT, 128X128)
+[2019.11.27-04.40.28:655][913]LogMaterial: Display: Missing cached shader map for material M_Surface_Master, compiling. 
+[2019.11.27-04.40.28:708][913]LogStaticMesh: SM_Metal_Fence1_Short_Split2 스태틱 메시 빌드중...
+[2019.11.27-04.40.28:825][913]LogStaticMesh: Built static mesh [0.12s] /Game/Seaside_Town/Meshes/Metal/SM_Metal_Fence1_Short_Split2.SM_Metal_Fence1_Short_Split2
+[2019.11.27-04.40.28:832][913]LogStaticMesh: SM_Pier_Pillar2 스태틱 메시 빌드중...
+[2019.11.27-04.40.28:834][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Pillar2.SM_Pier_Pillar2
+[2019.11.27-04.40.28:836][913]LogStaticMesh: SM_Pier_Pillar2_Split 스태틱 메시 빌드중...
+[2019.11.27-04.40.28:838][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Pillar2_Split.SM_Pier_Pillar2_Split
+[2019.11.27-04.40.28:842][913]LogMaterial: Display: Missing cached shader map for material M_Gravel_Alpha1, compiling. 
+[2019.11.27-04.40.28:889][913]LogStaticMesh: SM_Fog_Sphere1 스태틱 메시 빌드중...
+[2019.11.27-04.40.28:895][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Meshes/Fog/SM_Fog_Sphere1.SM_Fog_Sphere1
+[2019.11.27-04.40.28:917][913]LogStaticMesh: SM_Stairs_Wood1 스태틱 메시 빌드중...
+[2019.11.27-04.40.28:923][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Meshes/Interior_Wood/SM_Stairs_Wood1.SM_Stairs_Wood1
+[2019.11.27-04.40.28:925][913]LogStaticMesh: SM_Wood_Ceiling_Trim1 스태틱 메시 빌드중...
+[2019.11.27-04.40.28:926][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior_Wood/SM_Wood_Ceiling_Trim1.SM_Wood_Ceiling_Trim1
+[2019.11.27-04.40.28:930][913]LogStaticMesh: SM_Wood_Ceiling_Trim2 스태틱 메시 빌드중...
+[2019.11.27-04.40.28:932][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior_Wood/SM_Wood_Ceiling_Trim2.SM_Wood_Ceiling_Trim2
+[2019.11.27-04.40.28:937][913]LogStaticMesh: SM_Wall_Pillar1 스태틱 메시 빌드중...
+[2019.11.27-04.40.28:940][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior/SM_Wall_Pillar1.SM_Wall_Pillar1
+[2019.11.27-04.40.28:948][913]LogStaticMesh: SM_Wall_Medium4 스태틱 메시 빌드중...
+[2019.11.27-04.40.28:953][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior/SM_Wall_Medium4.SM_Wall_Medium4
+[2019.11.27-04.40.28:956][913]LogStaticMesh: SM_Wall_Medium3 스태틱 메시 빌드중...
+[2019.11.27-04.40.28:958][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior/SM_Wall_Medium3.SM_Wall_Medium3
+[2019.11.27-04.40.28:965][913]LogMaterial: Display: Missing cached shader map for material M_Exterior_Trims_Master2, compiling. 
+[2019.11.27-04.40.29:001][913]LogMaterial: Display: Missing cached shader map for material M_Exterior_Trims_Master2, compiling. 
+[2019.11.27-04.40.29:029][913]LogStaticMesh: SM_Drain_Pipe5 스태틱 메시 빌드중...
+[2019.11.27-04.40.29:124][913]LogStaticMesh: Built static mesh [0.10s] /Game/Seaside_Town/Meshes/Metal/SM_Drain_Pipe5.SM_Drain_Pipe5
+[2019.11.27-04.40.29:132][913]LogStaticMesh: SM_Grate1 스태틱 메시 빌드중...
+[2019.11.27-04.40.29:134][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Metal/SM_Grate1.SM_Grate1
+[2019.11.27-04.40.29:163][913]LogStaticMesh: SM_Wall_High_Sec1_Window1_Bottom 스태틱 메시 빌드중...
+[2019.11.27-04.40.29:321][913]LogStaticMesh: Built static mesh [0.16s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Window1_Bottom.SM_Wall_High_Sec1_Window1_Bottom
+[2019.11.27-04.40.29:343][913]LogStaticMesh: SM_Wall_High_Sec1_Plain1 스태틱 메시 빌드중...
+[2019.11.27-04.40.29:344][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Plain1.SM_Wall_High_Sec1_Plain1
+[2019.11.27-04.40.29:347][913]LogStaticMesh: SM_Wall_High_Sec1_Arch_Wall1 스태틱 메시 빌드중...
+[2019.11.27-04.40.29:349][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Arch_Wall1.SM_Wall_High_Sec1_Arch_Wall1
+[2019.11.27-04.40.29:350][913]LogStaticMesh: SM_Wall_High_Sec1_Wall_trim1 스태틱 메시 빌드중...
+[2019.11.27-04.40.29:351][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Wall_trim1.SM_Wall_High_Sec1_Wall_trim1
+[2019.11.27-04.40.29:352][913]LogStaticMesh: SM_Wall_High_Sec1_Arch_Wall2 스태틱 메시 빌드중...
+[2019.11.27-04.40.29:353][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Arch_Wall2.SM_Wall_High_Sec1_Arch_Wall2
+[2019.11.27-04.40.29:361][913]LogStaticMesh: SM_Wall_Big2 스태틱 메시 빌드중...
+[2019.11.27-04.40.29:365][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior/SM_Wall_Big2.SM_Wall_Big2
+[2019.11.27-04.40.29:368][913]LogStaticMesh: SM_Wall_Medium2 스태틱 메시 빌드중...
+[2019.11.27-04.40.29:370][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior/SM_Wall_Medium2.SM_Wall_Medium2
+[2019.11.27-04.40.29:374][913]LogMaterial: Display: Missing cached shader map for material M_Decal_Master, compiling. 
+[2019.11.27-04.40.29:414][913]LogMaterial: Display: Missing cached shader map for material M_Decal_Master, compiling. 
+[2019.11.27-04.40.29:450][913]LogStaticMesh: SM_Railing_Wood_Stairs4 스태틱 메시 빌드중...
+[2019.11.27-04.40.29:454][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior_Wood/SM_Railing_Wood_Stairs4.SM_Railing_Wood_Stairs4
+[2019.11.27-04.40.29:461][913]LogStaticMesh: SM_Railing_Wood_Stairs2 스태틱 메시 빌드중...
+[2019.11.27-04.40.29:465][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior_Wood/SM_Railing_Wood_Stairs2.SM_Railing_Wood_Stairs2
+[2019.11.27-04.40.29:478][913]LogStaticMesh: SM_Railing_Wood_Stairs1 스태틱 메시 빌드중...
+[2019.11.27-04.40.29:484][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Meshes/Interior_Wood/SM_Railing_Wood_Stairs1.SM_Railing_Wood_Stairs1
+[2019.11.27-04.40.29:540][913]LogStaticMesh: SM_Wood_Roof_Support1 스태틱 메시 빌드중...
+[2019.11.27-04.40.29:869][913]LogStaticMesh: Built static mesh [0.33s] /Game/Seaside_Town/Meshes/Wood/SM_Wood_Roof_Support1.SM_Wood_Roof_Support1
+[2019.11.27-04.40.29:894][913]LogStaticMesh: SM_Wood_Planks_Corner2 스태틱 메시 빌드중...
+[2019.11.27-04.40.29:903][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Meshes/Wood/SM_Wood_Planks_Corner2.SM_Wood_Planks_Corner2
+[2019.11.27-04.40.29:927][913]LogTexture: Display: 텍스처 빌드: T_Rubble_Pile_Normal (BC5, 2048X2048)
+[2019.11.27-04.40.29:927][913]LogStaticMesh: SM_Wood_Planks_Corner1 스태틱 메시 빌드중...
+[2019.11.27-04.40.29:936][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Meshes/Wood/SM_Wood_Planks_Corner1.SM_Wood_Planks_Corner1
+[2019.11.27-04.40.30:005][913]LogStaticMesh: SM_Wood_Planks2 스태틱 메시 빌드중...
+[2019.11.27-04.40.30:189][913]LogStaticMesh: Built static mesh [0.18s] /Game/Seaside_Town/Meshes/Wood/SM_Wood_Planks2.SM_Wood_Planks2
+[2019.11.27-04.40.30:226][913]LogStaticMesh: SM_Pipe_Thin_Connector1 스태틱 메시 빌드중...
+[2019.11.27-04.40.30:331][913]LogStaticMesh: Built static mesh [0.11s] /Game/Seaside_Town/Meshes/Pipes/SM_Pipe_Thin_Connector1.SM_Pipe_Thin_Connector1
+[2019.11.27-04.40.30:356][913]LogStaticMesh: SM_Pipe_Thin1 스태틱 메시 빌드중...
+[2019.11.27-04.40.30:432][913]LogStaticMesh: Built static mesh [0.08s] /Game/Seaside_Town/Meshes/Pipes/SM_Pipe_Thin1.SM_Pipe_Thin1
+[2019.11.27-04.40.30:453][913]LogStaticMesh: SM_Pipe_Ring1 스태틱 메시 빌드중...
+[2019.11.27-04.40.30:545][913]LogStaticMesh: Built static mesh [0.09s] /Game/Seaside_Town/Meshes/Pipes/SM_Pipe_Ring1.SM_Pipe_Ring1
+[2019.11.27-04.40.30:552][913]LogMaterial: Display: Missing cached shader map for material M_Wood_Master1, compiling. 
+[2019.11.27-04.40.30:592][913]LogStaticMesh: SM_Pier_Base_New2_Cut 스태틱 메시 빌드중...
+[2019.11.27-04.40.30:599][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Base_New2_Cut.SM_Pier_Base_New2_Cut
+[2019.11.27-04.40.30:614][913]LogStaticMesh: SM_Pier_Base_New2 스태틱 메시 빌드중...
+[2019.11.27-04.40.30:622][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Base_New2.SM_Pier_Base_New2
+[2019.11.27-04.40.30:638][913]LogStaticMesh: SM_Pier_Base_Small1 스태틱 메시 빌드중...
+[2019.11.27-04.40.30:639][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Base_Small1.SM_Pier_Base_Small1
+[2019.11.27-04.40.30:645][913]LogStaticMesh: SM_Pier_Corner2 스태틱 메시 빌드중...
+[2019.11.27-04.40.30:647][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Corner2.SM_Pier_Corner2
+[2019.11.27-04.40.30:652][913]LogStaticMesh: SM_Pier_Base_Small_Alt4 스태틱 메시 빌드중...
+[2019.11.27-04.40.30:656][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Base_Small_Alt4.SM_Pier_Base_Small_Alt4
+[2019.11.27-04.40.30:660][913]LogStaticMesh: SM_Pier_Corner1 스태틱 메시 빌드중...
+[2019.11.27-04.40.30:662][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Corner1.SM_Pier_Corner1
+[2019.11.27-04.40.30:665][913]LogMaterial: Display: Missing cached shader map for material M_Solid_Color, compiling. 
+[2019.11.27-04.40.30:704][913]LogStaticMesh: SM_Lamp1 스태틱 메시 빌드중...
+[2019.11.27-04.40.30:711][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Meshes/Metal/SM_Lamp1.SM_Lamp1
+[2019.11.27-04.40.30:715][913]LogStaticMesh: SM_Ivy_Wall_Plane2 스태틱 메시 빌드중...
+[2019.11.27-04.40.30:724][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Ivy/Meshes/SM_Ivy_Wall_Plane2.SM_Ivy_Wall_Plane2
+[2019.11.27-04.40.31:626][913]LogTexture: Display: 텍스처 빌드: T_Ground_Tiles_Roughness (G8, 4096X4096)
+[2019.11.27-04.40.31:626][913]LogTexture: Display: 텍스처 빌드: T_Ground_Tiles_Normal (BC5, 4096X4096)
+[2019.11.27-04.40.31:626][913]LogTexture: Display: 텍스처 빌드: T_Sea_Rock_Mix (AutoDXT, 4096X4096)
+[2019.11.27-04.40.44:944][913]LogTexture: Display: 텍스처 빌드: T_Ground_Tiles_Diffuse (AutoDXT, 4096X4096)
+[2019.11.27-04.40.44:944][913]LogTexture: Display: 텍스처 빌드: T_Wood_Poles_Normal (BC5, 4096X4096)
+[2019.11.27-04.40.44:944][913]LogTexture: Display: 텍스처 빌드: T_Wood_Poles_Mix (AutoDXT, 4096X4096)
+[2019.11.27-04.40.44:944][913]LogTexture: Display: 텍스처 빌드: T_Pier_Trim_Damaged_Diffuse (AutoDXT, 4096X4096)
+[2019.11.27-04.40.45:649][913]LogTexture: Display: 텍스처 빌드: T_Sea_Rock_Normal (BC5, 4096X4096)
+[2019.11.27-04.40.48:326][913]LogMaterial: Display: Missing cached shader map for material M_Rock_Master1, compiling. 
+[2019.11.27-04.40.48:345][913]LogMaterial: Display: Missing cached shader map for material M_Rock_Master1, compiling. 
+[2019.11.27-04.40.48:393][913]LogMaterial: Display: Missing cached shader map for material M_Rock_Master1, compiling. 
+[2019.11.27-04.40.48:415][913]LogStaticMesh: SM_Pier_Pillar1_Alt1 스태틱 메시 빌드중...
+[2019.11.27-04.40.48:444][913]LogStaticMesh: Built static mesh [0.03s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Pillar1_Alt1.SM_Pier_Pillar1_Alt1
+[2019.11.27-04.40.48:447][913]LogStaticMesh: SM_Pier_Pillar1 스태틱 메시 빌드중...
+[2019.11.27-04.40.48:449][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Pillar1.SM_Pier_Pillar1
+[2019.11.27-04.40.48:452][913]LogStaticMesh: SM_Pier_Base3 스태틱 메시 빌드중...
+[2019.11.27-04.40.48:453][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Base3.SM_Pier_Base3
+[2019.11.27-04.40.48:459][913]LogStaticMesh: SM_Pier_Base5 스태틱 메시 빌드중...
+[2019.11.27-04.40.48:462][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Base5.SM_Pier_Base5
+[2019.11.27-04.40.48:465][913]LogStaticMesh: SM_Gravel_Plane1 스태틱 메시 빌드중...
+[2019.11.27-04.40.48:465][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Rubble/SM_Gravel_Plane1.SM_Gravel_Plane1
+[2019.11.27-04.40.48:489][913]LogStaticMesh: SM_Roof_Trim2 스태틱 메시 빌드중...
+[2019.11.27-04.40.48:606][913]LogStaticMesh: Built static mesh [0.12s] /Game/Seaside_Town/Meshes/Roof/SM_Roof_Trim2.SM_Roof_Trim2
+[2019.11.27-04.40.48:631][913]LogStaticMesh: SM_Roof_Trim1 스태틱 메시 빌드중...
+[2019.11.27-04.40.48:734][913]LogStaticMesh: Built static mesh [0.10s] /Game/Seaside_Town/Meshes/Roof/SM_Roof_Trim1.SM_Roof_Trim1
+[2019.11.27-04.40.48:752][913]LogStaticMesh: SM_Metal_Fence1_Short_Split 스태틱 메시 빌드중...
+[2019.11.27-04.40.48:857][913]LogStaticMesh: Built static mesh [0.11s] /Game/Seaside_Town/Meshes/Metal/SM_Metal_Fence1_Short_Split.SM_Metal_Fence1_Short_Split
+[2019.11.27-04.40.48:873][913]LogStaticMesh: SM_Metal_Fence1_Pole1 스태틱 메시 빌드중...
+[2019.11.27-04.40.48:957][913]LogStaticMesh: Built static mesh [0.08s] /Game/Seaside_Town/Meshes/Metal/SM_Metal_Fence1_Pole1.SM_Metal_Fence1_Pole1
+[2019.11.27-04.40.49:693][913]LogTexture: Display: 텍스처 빌드: T_Pier_Tiles_Diffuse (AutoDXT, 4096X4096)
+[2019.11.27-04.41.20:880][913]LogTexture: Display: 텍스처 빌드: T_Pier_Tiles_Normal (BC5, 4096X4096)
+[2019.11.27-04.41.20:880][913]LogTexture: Display: 텍스처 빌드: T_Pier_Tiles_Roughness (G8, 4096X4096)
+[2019.11.27-04.41.20:880][913]LogTexture: Display: 텍스처 빌드: T_Rubble_Pile_Roughness (G8, 2048X2048)
+[2019.11.27-04.41.20:880][913]LogTexture: Display: 텍스처 빌드: T_Wire_Normal1 (BC5, 512X512)
+[2019.11.27-04.41.20:880][913]LogTexture: Display: 텍스처 빌드: T_Wire_Mix (AutoDXT, 512X512)
+[2019.11.27-04.41.20:880][913]LogTexture: Display: 텍스처 빌드: T_Wire_Diffuse1 (AutoDXT, 512X512)
+[2019.11.27-04.41.20:880][913]LogTexture: Display: 텍스처 빌드: T_Grass_diffuse (AutoDXT, 2048X2048)
+[2019.11.27-04.41.20:880][913]LogTexture: Display: 텍스처 빌드: T_Seafoam_01 (AutoDXT, 2048X2048)
+[2019.11.27-04.41.20:880][913]LogTexture: Display: 텍스처 빌드: T_Bricks1_HM (AutoDXT, 4096X4096)
+[2019.11.27-04.41.20:880][913]LogTexture: Display: 텍스처 빌드: T_Bricks1_Diffuse (AutoDXT, 4096X4096)
+[2019.11.27-04.41.20:880][913]LogTexture: Display: 텍스처 빌드: T_Rooftile_Terracotta_Normal (BC5, 4096X4096)
+[2019.11.27-04.41.20:880][913]LogTexture: Display: 텍스처 빌드: T_Rooftile_Terracotta_Diffuse (AutoDXT, 4096X4096)
+[2019.11.27-04.41.20:886][913]LogMaterial: Display: Missing cached shader map for material M_Exterior_Trims_Master2, compiling. 
+[2019.11.27-04.41.20:912][913]LogStaticMesh: SM_Doors_Wood2 스태틱 메시 빌드중...
+[2019.11.27-04.41.20:943][913]LogStaticMesh: Built static mesh [0.03s] /Game/Seaside_Town/Meshes/Interior_Wood/SM_Doors_Wood2.SM_Doors_Wood2
+[2019.11.27-04.41.20:950][913]LogStaticMesh: SM_Doors_Wood1_Frame 스태틱 메시 빌드중...
+[2019.11.27-04.41.20:954][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior_Wood/SM_Doors_Wood1_Frame.SM_Doors_Wood1_Frame
+[2019.11.27-04.41.20:962][913]LogStaticMesh: SM_Railing_Wood1 스태틱 메시 빌드중...
+[2019.11.27-04.41.20:968][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Meshes/Interior_Wood/SM_Railing_Wood1.SM_Railing_Wood1
+[2019.11.27-04.41.21:006][913]LogStaticMesh: SM_Wall_Roof_Trim_New2 스태틱 메시 빌드중...
+[2019.11.27-04.41.21:128][913]LogStaticMesh: Built static mesh [0.12s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_Roof_Trim_New2.SM_Wall_Roof_Trim_New2
+[2019.11.27-04.41.21:185][913]LogStaticMesh: SM_Wall_Roof_Trim_New1_Long 스태틱 메시 빌드중...
+[2019.11.27-04.41.21:495][913]LogStaticMesh: Built static mesh [0.32s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_Roof_Trim_New1_Long.SM_Wall_Roof_Trim_New1_Long
+[2019.11.27-04.41.21:507][913]LogStaticMesh: SM_Wall_Roof_Small1 스태틱 메시 빌드중...
+[2019.11.27-04.41.21:508][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_Roof_Small1.SM_Wall_Roof_Small1
+[2019.11.27-04.41.21:509][913]LogStaticMesh: SM_Grass_Straight1 스태틱 메시 빌드중...
+[2019.11.27-04.41.21:510][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Ivy/Meshes/SM_Grass_Straight1.SM_Grass_Straight1
+[2019.11.27-04.41.21:514][913]LogMaterial: Display: Missing cached shader map for material M_Grass_Master1, compiling. 
+[2019.11.27-04.41.21:572][913]LogStaticMesh: SM_Wall_balcony_Base1 스태틱 메시 빌드중...
+[2019.11.27-04.41.21:589][913]LogStaticMesh: Built static mesh [0.02s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_balcony_Base1.SM_Wall_balcony_Base1
+[2019.11.27-04.41.21:596][913]LogStaticMesh: SM_Wall_Pillar_Wide2 스태틱 메시 빌드중...
+[2019.11.27-04.41.21:600][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior/SM_Wall_Pillar_Wide2.SM_Wall_Pillar_Wide2
+[2019.11.27-04.41.21:603][913]LogStaticMesh: SM_Wall_Small3 스태틱 메시 빌드중...
+[2019.11.27-04.41.21:604][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior/SM_Wall_Small3.SM_Wall_Small3
+[2019.11.27-04.41.21:606][913]LogStaticMesh: SM_Pier_Pillar_Wall_Supp1 스태틱 메시 빌드중...
+[2019.11.27-04.41.21:607][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Pillar_Wall_Supp1.SM_Pier_Pillar_Wall_Supp1
+[2019.11.27-04.41.21:609][913]LogMaterial: Display: Missing cached shader map for material M_Fog_Sphere1, compiling. 
+[2019.11.27-04.41.21:618][913]LogMaterial: Display: Missing cached shader map for material M_Fog_Sphere1, compiling. 
+[2019.11.27-04.41.21:651][913]LogStaticMesh: SM_Rock_Sliced4 스태틱 메시 빌드중...
+[2019.11.27-04.41.21:758][913]LogStaticMesh: Built static mesh [0.11s] /Game/Seaside_Town/Meshes/Rocks/SM_Rock_Sliced4.SM_Rock_Sliced4
+[2019.11.27-04.41.21:803][913]LogStaticMesh: SM_Rock_Sliced2 스태틱 메시 빌드중...
+[2019.11.27-04.41.21:951][913]LogStaticMesh: Built static mesh [0.15s] /Game/Seaside_Town/Meshes/Rocks/SM_Rock_Sliced2.SM_Rock_Sliced2
+[2019.11.27-04.41.21:991][913]LogStaticMesh: SM_Rock_Sliced1 스태틱 메시 빌드중...
+[2019.11.27-04.41.22:162][913]LogStaticMesh: Built static mesh [0.17s] /Game/Seaside_Town/Meshes/Rocks/SM_Rock_Sliced1.SM_Rock_Sliced1
+[2019.11.27-04.41.22:190][913]LogStaticMesh: SM_Railing_Wood_Pole 스태틱 메시 빌드중...
+[2019.11.27-04.41.22:192][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior_Wood/SM_Railing_Wood_Pole.SM_Railing_Wood_Pole
+[2019.11.27-04.41.22:202][913]LogStaticMesh: SM_Pier_Base1_High 스태틱 메시 빌드중...
+[2019.11.27-04.41.22:208][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Base1_High.SM_Pier_Base1_High
+[2019.11.27-04.41.22:248][913]LogStaticMesh: SM_Pier_Base2 스태틱 메시 빌드중...
+[2019.11.27-04.41.22:258][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Base2.SM_Pier_Base2
+[2019.11.27-04.41.22:263][913]LogStaticMesh: SM_Wall_Pillar_Corner1 스태틱 메시 빌드중...
+[2019.11.27-04.41.22:265][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior/SM_Wall_Pillar_Corner1.SM_Wall_Pillar_Corner1
+[2019.11.27-04.41.22:270][913]LogStaticMesh: SM_Wall_Pillar_Wide1 스태틱 메시 빌드중...
+[2019.11.27-04.41.22:273][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior/SM_Wall_Pillar_Wide1.SM_Wall_Pillar_Wide1
+[2019.11.27-04.41.22:278][913]LogStaticMesh: SM_Railing_Wood_Pole2 스태틱 메시 빌드중...
+[2019.11.27-04.41.22:308][913]LogStaticMesh: Built static mesh [0.03s] /Game/Seaside_Town/Meshes/Interior_Wood/SM_Railing_Wood_Pole2.SM_Railing_Wood_Pole2
+[2019.11.27-04.41.22:417][913]LogStaticMesh: SM_Wall_Plain3 스태틱 메시 빌드중...
+[2019.11.27-04.41.22:498][913]LogStaticMesh: Built static mesh [0.08s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_Plain3.SM_Wall_Plain3
+[2019.11.27-04.41.22:573][913]LogStaticMesh: SM_Wall_Plain4 스태틱 메시 빌드중...
+[2019.11.27-04.41.22:701][913]LogStaticMesh: Built static mesh [0.13s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_Plain4.SM_Wall_Plain4
+[2019.11.27-04.41.22:714][913]LogStaticMesh: SM_Wall_Plaing_Big1 스태틱 메시 빌드중...
+[2019.11.27-04.41.22:715][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_Plaing_Big1.SM_Wall_Plaing_Big1
+[2019.11.27-04.41.22:717][913]LogStaticMesh: SM_Wall_Plain1 스태틱 메시 빌드중...
+[2019.11.27-04.41.22:717][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_Plain1.SM_Wall_Plain1
+[2019.11.27-04.41.22:719][913]LogStaticMesh: SM_Grass_Big1 스태틱 메시 빌드중...
+[2019.11.27-04.41.22:729][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Ivy/Meshes/SM_Grass_Big1.SM_Grass_Big1
+[2019.11.27-04.41.22:741][913]LogStaticMesh: SM_Drain_Pipe4 스태틱 메시 빌드중...
+[2019.11.27-04.41.22:772][913]LogStaticMesh: Built static mesh [0.03s] /Game/Seaside_Town/Meshes/Metal/SM_Drain_Pipe4.SM_Drain_Pipe4
+[2019.11.27-04.41.22:798][913]LogStaticMesh: SM_Pipe1_Short 스태틱 메시 빌드중...
+[2019.11.27-04.41.22:882][913]LogStaticMesh: Built static mesh [0.08s] /Game/Seaside_Town/Meshes/Pipes/SM_Pipe1_Short.SM_Pipe1_Short
+[2019.11.27-04.41.22:890][913]LogMaterial: Display: Missing cached shader map for material M_Exterior_Trims_Master2, compiling. 
+[2019.11.27-04.41.22:921][913]LogMaterial: Display: Missing cached shader map for material M_Surface_Master, compiling. 
+[2019.11.27-04.41.22:968][913]LogStaticMesh: SM_Ivy_Wall_Arch1 스태틱 메시 빌드중...
+[2019.11.27-04.41.23:069][913]LogStaticMesh: Built static mesh [0.10s] /Game/Seaside_Town/Ivy/Meshes/SM_Ivy_Wall_Arch1.SM_Ivy_Wall_Arch1
+[2019.11.27-04.41.23:083][913]LogStaticMesh: SM_Ivy_Wall_Arch_Corner_Small1 스태틱 메시 빌드중...
+[2019.11.27-04.41.23:137][913]LogStaticMesh: Built static mesh [0.05s] /Game/Seaside_Town/Ivy/Meshes/SM_Ivy_Wall_Arch_Corner_Small1.SM_Ivy_Wall_Arch_Corner_Small1
+[2019.11.27-04.41.23:147][913]LogStaticMesh: SM_Railing_Wood2_Open 스태틱 메시 빌드중...
+[2019.11.27-04.41.23:151][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior_Wood/SM_Railing_Wood2_Open.SM_Railing_Wood2_Open
+[2019.11.27-04.41.23:164][913]LogStaticMesh: SM_Railing_Wood2 스태틱 메시 빌드중...
+[2019.11.27-04.41.23:170][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Meshes/Interior_Wood/SM_Railing_Wood2.SM_Railing_Wood2
+[2019.11.27-04.41.23:187][913]LogMaterial: Display: Missing cached shader map for material M_Foliage_Two_sided, compiling. 
+[2019.11.27-04.41.23:299][913]LogStaticMesh: SM_Rock_Small1 스태틱 메시 빌드중...
+[2019.11.27-04.41.23:532][913]LogStaticMesh: Built static mesh [0.23s] /Game/Seaside_Town/Meshes/Rocks/SM_Rock_Small1.SM_Rock_Small1
+[2019.11.27-04.41.23:547][913]LogStaticMesh: SM_Pier_Barrier1 스태틱 메시 빌드중...
+[2019.11.27-04.41.23:559][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Barrier1.SM_Pier_Barrier1
+[2019.11.27-04.41.23:580][913]LogStaticMesh: SM_Pipe_Corner1 스태틱 메시 빌드중...
+[2019.11.27-04.41.23:700][913]LogStaticMesh: Built static mesh [0.12s] /Game/Seaside_Town/Meshes/Pipes/SM_Pipe_Corner1.SM_Pipe_Corner1
+[2019.11.27-04.41.23:732][913]LogStaticMesh: SM_Pipe_Corner2 스태틱 메시 빌드중...
+[2019.11.27-04.41.23:870][913]LogStaticMesh: Built static mesh [0.14s] /Game/Seaside_Town/Meshes/Pipes/SM_Pipe_Corner2.SM_Pipe_Corner2
+[2019.11.27-04.41.23:927][913]LogStaticMesh: SM_Pier_Wall_Sewer_Entrance1 스태틱 메시 빌드중...
+[2019.11.27-04.41.23:977][913]LogStaticMesh: Built static mesh [0.05s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Wall_Sewer_Entrance1.SM_Pier_Wall_Sewer_Entrance1
+[2019.11.27-04.41.23:985][913]LogStaticMesh: SM_Plaque2 스태틱 메시 빌드중...
+[2019.11.27-04.41.23:985][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Plaque2.SM_Plaque2
+[2019.11.27-04.41.23:988][913]LogStaticMesh: SM_Pier_Waterway_base1 스태틱 메시 빌드중...
+[2019.11.27-04.41.23:990][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Waterway_base1.SM_Pier_Waterway_base1
+[2019.11.27-04.41.23:994][913]LogMaterial: Display: Missing cached shader map for material M_Decal_Master, compiling. 
+[2019.11.27-04.41.24:027][913]LogMaterial: Display: Missing cached shader map for material M_Decal_Master, compiling. 
+[2019.11.27-04.41.24:078][913]LogStaticMesh: SM_Pipe_Corner3 스태틱 메시 빌드중...
+[2019.11.27-04.41.24:214][913]LogStaticMesh: Built static mesh [0.14s] /Game/Seaside_Town/Meshes/Pipes/SM_Pipe_Corner3.SM_Pipe_Corner3
+[2019.11.27-04.41.24:384][913]LogStaticMesh: SM_Roof1 스태틱 메시 빌드중...
+[2019.11.27-04.41.25:583][913]LogStaticMesh: Built static mesh [1.20s] /Game/Seaside_Town/Meshes/Roof/SM_Roof1.SM_Roof1
+[2019.11.27-04.41.25:630][913]LogStaticMesh: SM_Wallpaper1 스태틱 메시 빌드중...
+[2019.11.27-04.41.25:632][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Wallpaper/SM_Wallpaper1.SM_Wallpaper1
+[2019.11.27-04.41.25:633][913]LogStaticMesh: SM_Sidewalk_Square1_Small 스태틱 메시 빌드중...
+[2019.11.27-04.41.25:634][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Sidewalk/SM_Sidewalk_Square1_Small.SM_Sidewalk_Square1_Small
+[2019.11.27-04.41.25:639][913]LogStaticMesh: SM_Sidewalk_Square1 스태틱 메시 빌드중...
+[2019.11.27-04.41.25:643][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Sidewalk/SM_Sidewalk_Square1.SM_Sidewalk_Square1
+[2019.11.27-04.41.25:654][913]LogStaticMesh: SM_Lamp1_Base1 스태틱 메시 빌드중...
+[2019.11.27-04.41.25:724][913]LogStaticMesh: Built static mesh [0.07s] /Game/Seaside_Town/Meshes/Metal/SM_Lamp1_Base1.SM_Lamp1_Base1
+[2019.11.27-04.41.25:729][913]LogStaticMesh: SM_Wall_Roof_Trim_Corner_New6 스태틱 메시 빌드중...
+[2019.11.27-04.41.25:730][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_Roof_Trim_Corner_New6.SM_Wall_Roof_Trim_Corner_New6
+[2019.11.27-04.41.25:745][913]LogStaticMesh: SM_Wall_Roof_Trim_New1 스태틱 메시 빌드중...
+[2019.11.27-04.41.25:911][913]LogStaticMesh: Built static mesh [0.17s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_Roof_Trim_New1.SM_Wall_Roof_Trim_New1
+[2019.11.27-04.41.25:919][913]LogStaticMesh: SM_Wall_Roof_Trim_Corner_New3 스태틱 메시 빌드중...
+[2019.11.27-04.41.25:920][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_Roof_Trim_Corner_New3.SM_Wall_Roof_Trim_Corner_New3
+[2019.11.27-04.41.25:964][913]LogStaticMesh: SM_Wall_High_Sec1_Window1_Upper_Ext 스태틱 메시 빌드중...
+[2019.11.27-04.41.26:210][913]LogStaticMesh: Built static mesh [0.25s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Window1_Upper_Ext.SM_Wall_High_Sec1_Window1_Upper_Ext
+[2019.11.27-04.41.26:268][913]LogStaticMesh: SM_Wall_High_Sec1_Window2_Bottom 스태틱 메시 빌드중...
+[2019.11.27-04.41.26:615][913]LogStaticMesh: Built static mesh [0.35s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Window2_Bottom.SM_Wall_High_Sec1_Window2_Bottom
+[2019.11.27-04.41.26:656][913]LogStaticMesh: SM_Wall_High_Sec1_Window1_Middle_Ext 스태틱 메시 빌드중...
+[2019.11.27-04.41.26:670][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Window1_Middle_Ext.SM_Wall_High_Sec1_Window1_Middle_Ext
+[2019.11.27-04.41.26:675][913]LogStaticMesh: SM_Metal_Trim2 스태틱 메시 빌드중...
+[2019.11.27-04.41.26:676][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Metal/SM_Metal_Trim2.SM_Metal_Trim2
+[2019.11.27-04.41.26:681][913]LogStaticMesh: SM_Roof_Plane_Small2 스태틱 메시 빌드중...
+[2019.11.27-04.41.26:701][913]LogStaticMesh: Built static mesh [0.02s] /Game/Seaside_Town/Meshes/Roof/SM_Roof_Plane_Small2.SM_Roof_Plane_Small2
+[2019.11.27-04.41.26:707][913]LogStaticMesh: SM_Roof_Plane_Small1 스태틱 메시 빌드중...
+[2019.11.27-04.41.26:751][913]LogStaticMesh: Built static mesh [0.04s] /Game/Seaside_Town/Meshes/Roof/SM_Roof_Plane_Small1.SM_Roof_Plane_Small1
+[2019.11.27-04.41.26:774][913]LogStaticMesh: SM_Roof_Plane1 스태틱 메시 빌드중...
+[2019.11.27-04.41.26:875][913]LogStaticMesh: Built static mesh [0.10s] /Game/Seaside_Town/Meshes/Roof/SM_Roof_Plane1.SM_Roof_Plane1
+[2019.11.27-04.41.26:883][913]LogStaticMesh: SM_Ivy_Clump1 스태틱 메시 빌드중...
+[2019.11.27-04.41.26:886][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Ivy/Meshes/SM_Ivy_Clump1.SM_Ivy_Clump1
+[2019.11.27-04.41.26:890][913]LogStaticMesh: SM_Ivy_Ground1 스태틱 메시 빌드중...
+[2019.11.27-04.41.26:917][913]LogStaticMesh: Built static mesh [0.03s] /Game/Seaside_Town/Ivy/Meshes/SM_Ivy_Ground1.SM_Ivy_Ground1
+[2019.11.27-04.41.26:937][913]LogStaticMesh: SM_Pipe_Thin_Short1 스태틱 메시 빌드중...
+[2019.11.27-04.41.27:018][913]LogStaticMesh: Built static mesh [0.08s] /Game/Seaside_Town/Meshes/Pipes/SM_Pipe_Thin_Short1.SM_Pipe_Thin_Short1
+[2019.11.27-04.41.27:026][913]LogStaticMesh: SM_Window_Shutter2 스태틱 메시 빌드중...
+[2019.11.27-04.41.27:028][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Metal/SM_Window_Shutter2.SM_Window_Shutter2
+[2019.11.27-04.41.27:030][913]LogStaticMesh: SM_Window_Shutter1 스태틱 메시 빌드중...
+[2019.11.27-04.41.27:032][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Metal/SM_Window_Shutter1.SM_Window_Shutter1
+[2019.11.27-04.41.27:062][913]LogStaticMesh: SM_Wall_High_Sec1_Window1_Bottom_Ext 스태틱 메시 빌드중...
+[2019.11.27-04.41.27:214][913]LogStaticMesh: Built static mesh [0.15s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Window1_Bottom_Ext.SM_Wall_High_Sec1_Window1_Bottom_Ext
+[2019.11.27-04.41.27:252][913]LogStaticMesh: SM_Wall_High_Sec1_Window_Small2 스태틱 메시 빌드중...
+[2019.11.27-04.41.27:450][913]LogStaticMesh: Built static mesh [0.20s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Window_Small2.SM_Wall_High_Sec1_Window_Small2
+[2019.11.27-04.41.27:474][913]LogStaticMesh: SM_Wall_High_Sec1_Window_Small6 스태틱 메시 빌드중...
+[2019.11.27-04.41.27:622][913]LogStaticMesh: Built static mesh [0.15s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Window_Small6.SM_Wall_High_Sec1_Window_Small6
+[2019.11.27-04.41.27:644][913]LogStaticMesh: SM_Wall_High_Sec1_Window_Small7 스태틱 메시 빌드중...
+[2019.11.27-04.41.27:666][913]LogStaticMesh: Built static mesh [0.02s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Window_Small7.SM_Wall_High_Sec1_Window_Small7
+[2019.11.27-04.41.27:719][913]LogStaticMesh: SM_Wall_High_Sec1_Window_Small5 스태틱 메시 빌드중...
+[2019.11.27-04.41.28:100][913]LogStaticMesh: Built static mesh [0.38s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Window_Small5.SM_Wall_High_Sec1_Window_Small5
+[2019.11.27-04.41.28:116][913]LogStaticMesh: SM_Grass_Small1 스태틱 메시 빌드중...
+[2019.11.27-04.41.28:120][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Ivy/Meshes/SM_Grass_Small1.SM_Grass_Small1
+[2019.11.27-04.41.28:125][913]LogMaterial: Display: Missing cached shader map for material M_Landscape_Mat1, compiling. 
+[2019.11.27-04.41.28:157][913]LogMaterial: Display: Missing cached shader map for material M_Landscape_Mat1, compiling. 
+[2019.11.27-04.41.28:204][913]LogMaterial: Display: Missing cached shader map for material M_Landscape_Mat1, compiling. 
+[2019.11.27-04.41.28:270][913]LogStaticMesh: Blind1 스태틱 메시 빌드중...
+[2019.11.27-04.41.28:273][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior_Wood/Blind1.Blind1
+[2019.11.27-04.41.28:472][913]LogStaticMesh: SM_Water_Plane1 스태틱 메시 빌드중...
+[2019.11.27-04.41.28:628][913]LogStaticMesh: Built static mesh [0.16s] /Game/Seaside_Town/Meshes/Water/SM_Water_Plane1.SM_Water_Plane1
+[2019.11.27-04.41.28:804][913]LogStaticMesh: SM_Pier_Wall_Arch_High1 스태틱 메시 빌드중...
+[2019.11.27-04.41.28:843][913]LogStaticMesh: Built static mesh [0.04s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Wall_Arch_High1.SM_Pier_Wall_Arch_High1
+[2019.11.27-04.41.28:870][913]LogStaticMesh: SM_Pole2 스태틱 메시 빌드중...
+[2019.11.27-04.41.28:912][913]LogStaticMesh: Built static mesh [0.04s] /Game/Seaside_Town/Meshes/Wood/SM_Pole2.SM_Pole2
+[2019.11.27-04.41.28:919][913]LogStaticMesh: SM_Pole3 스태틱 메시 빌드중...
+[2019.11.27-04.41.28:924][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Meshes/Wood/SM_Pole3.SM_Pole3
+[2019.11.27-04.41.28:951][913]LogStaticMesh: SM_Pole_Long1 스태틱 메시 빌드중...
+[2019.11.27-04.41.29:029][913]LogStaticMesh: Built static mesh [0.08s] /Game/Seaside_Town/Meshes/Wood/SM_Pole_Long1.SM_Pole_Long1
+[2019.11.27-04.41.29:041][913]LogStaticMesh: SM_Sidewalk1 스태틱 메시 빌드중...
+[2019.11.27-04.41.29:047][913]LogStaticMesh: Built static mesh [0.01s] /Game/Seaside_Town/Meshes/Sidewalk/SM_Sidewalk1.SM_Sidewalk1
+[2019.11.27-04.41.29:056][913]LogStaticMesh: SM_Sidewalk2 스태틱 메시 빌드중...
+[2019.11.27-04.41.29:058][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Sidewalk/SM_Sidewalk2.SM_Sidewalk2
+[2019.11.27-04.41.29:081][913]LogStaticMesh: SM_Barrel1 스태틱 메시 빌드중...
+[2019.11.27-04.41.29:216][913]LogStaticMesh: Built static mesh [0.14s] /Game/Seaside_Town/Meshes/Wood/SM_Barrel1.SM_Barrel1
+[2019.11.27-04.41.29:274][913]LogStaticMesh: SM_Door_Handle_Simple1 스태틱 메시 빌드중...
+[2019.11.27-04.41.29:275][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Metal/SM_Door_Handle_Simple1.SM_Door_Handle_Simple1
+[2019.11.27-04.41.29:279][913]LogStaticMesh: SM_Doors_Wood1 스태틱 메시 빌드중...
+[2019.11.27-04.41.29:322][913]LogStaticMesh: Built static mesh [0.04s] /Game/Seaside_Town/Meshes/Interior_Wood/SM_Doors_Wood1.SM_Doors_Wood1
+[2019.11.27-04.41.29:336][913]LogStaticMesh: SM_Drain_Pipe1 스태틱 메시 빌드중...
+[2019.11.27-04.41.29:408][913]LogStaticMesh: Built static mesh [0.07s] /Game/Seaside_Town/Meshes/Metal/SM_Drain_Pipe1.SM_Drain_Pipe1
+[2019.11.27-04.41.29:420][913]LogStaticMesh: SM_Drain_Pipe2 스태틱 메시 빌드중...
+[2019.11.27-04.41.29:506][913]LogStaticMesh: Built static mesh [0.09s] /Game/Seaside_Town/Meshes/Metal/SM_Drain_Pipe2.SM_Drain_Pipe2
+[2019.11.27-04.41.29:558][913]LogStaticMesh: SM_Floor_Plane2 스태틱 메시 빌드중...
+[2019.11.27-04.41.29:559][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior/SM_Floor_Plane2.SM_Floor_Plane2
+[2019.11.27-04.41.29:560][913]LogStaticMesh: SM_Floor_Plane1 스태틱 메시 빌드중...
+[2019.11.27-04.41.29:560][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior/SM_Floor_Plane1.SM_Floor_Plane1
+[2019.11.27-04.41.29:561][913]LogStaticMesh: SM_Floors_Unique1 스태틱 메시 빌드중...
+[2019.11.27-04.41.29:561][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior/SM_Floors_Unique1.SM_Floors_Unique1
+[2019.11.27-04.41.29:565][913]LogStaticMesh: SM_Floors_Unique2 스태틱 메시 빌드중...
+[2019.11.27-04.41.29:565][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior/SM_Floors_Unique2.SM_Floors_Unique2
+[2019.11.27-04.41.29:573][913]LogStaticMesh: SM_Ivy_Ground2 스태틱 메시 빌드중...
+[2019.11.27-04.41.29:601][913]LogStaticMesh: Built static mesh [0.03s] /Game/Seaside_Town/Ivy/Meshes/SM_Ivy_Ground2.SM_Ivy_Ground2
+[2019.11.27-04.41.29:621][913]LogStaticMesh: SM_Ivy_Hanging_Corner1 스태틱 메시 빌드중...
+[2019.11.27-04.41.29:667][913]LogStaticMesh: Built static mesh [0.05s] /Game/Seaside_Town/Ivy/Meshes/SM_Ivy_Hanging_Corner1.SM_Ivy_Hanging_Corner1
+[2019.11.27-04.41.29:679][913]LogStaticMesh: SM_Ivy_Long2 스태틱 메시 빌드중...
+[2019.11.27-04.41.29:730][913]LogStaticMesh: Built static mesh [0.05s] /Game/Seaside_Town/Ivy/Meshes/SM_Ivy_Long2.SM_Ivy_Long2
+[2019.11.27-04.41.29:751][913]LogStaticMesh: SM_Ivy_Long3 스태틱 메시 빌드중...
+[2019.11.27-04.41.29:802][913]LogStaticMesh: Built static mesh [0.05s] /Game/Seaside_Town/Ivy/Meshes/SM_Ivy_Long3.SM_Ivy_Long3
+[2019.11.27-04.41.29:810][913]LogStaticMesh: SM_Ivy_Small3 스태틱 메시 빌드중...
+[2019.11.27-04.41.29:827][913]LogStaticMesh: Built static mesh [0.02s] /Game/Seaside_Town/Ivy/Meshes/SM_Ivy_Small3.SM_Ivy_Small3
+[2019.11.27-04.41.29:902][913]LogStaticMesh: SM_Metal_Fence1_Split 스태틱 메시 빌드중...
+[2019.11.27-04.41.30:128][913]LogStaticMesh: Built static mesh [0.23s] /Game/Seaside_Town/Meshes/Metal/SM_Metal_Fence1_Split.SM_Metal_Fence1_Split
+[2019.11.27-04.41.30:142][913]LogStaticMesh: SM_Metal_Plate1 스태틱 메시 빌드중...
+[2019.11.27-04.41.30:211][913]LogStaticMesh: Built static mesh [0.07s] /Game/Seaside_Town/Meshes/Metal/SM_Metal_Plate1.SM_Metal_Plate1
+[2019.11.27-04.41.30:215][913]LogStaticMesh: SM_Metal_Trim1 스태틱 메시 빌드중...
+[2019.11.27-04.41.30:216][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Metal/SM_Metal_Trim1.SM_Metal_Trim1
+[2019.11.27-04.41.30:221][913]LogStaticMesh: SM_Pier_Barrier3 스태틱 메시 빌드중...
+[2019.11.27-04.41.30:222][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Barrier3.SM_Pier_Barrier3
+[2019.11.27-04.41.30:227][913]LogStaticMesh: SM_Pier_Barrier2 스태틱 메시 빌드중...
+[2019.11.27-04.41.30:230][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Barrier2.SM_Pier_Barrier2
+[2019.11.27-04.41.30:237][913]LogStaticMesh: SM_Pier_Barrier_End1 스태틱 메시 빌드중...
+[2019.11.27-04.41.30:238][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Barrier_End1.SM_Pier_Barrier_End1
+[2019.11.27-04.41.30:262][913]LogStaticMesh: SM_Pier_Tile1 스태틱 메시 빌드중...
+[2019.11.27-04.41.30:262][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Tile1.SM_Pier_Tile1
+[2019.11.27-04.41.30:263][913]LogStaticMesh: SM_Pier_Tile2 스태틱 메시 빌드중...
+[2019.11.27-04.41.30:264][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Tile2.SM_Pier_Tile2
+[2019.11.27-04.41.30:265][913]LogStaticMesh: SM_Pier_Tile3 스태틱 메시 빌드중...
+[2019.11.27-04.41.30:265][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Pier_Tile3.SM_Pier_Tile3
+[2019.11.27-04.41.30:281][913]LogStaticMesh: SM_Pipe1 스태틱 메시 빌드중...
+[2019.11.27-04.41.30:362][913]LogStaticMesh: Built static mesh [0.08s] /Game/Seaside_Town/Meshes/Pipes/SM_Pipe1.SM_Pipe1
+[2019.11.27-04.41.30:399][913]LogStaticMesh: SM_Pipe2_Bent 스태틱 메시 빌드중...
+[2019.11.27-04.41.30:557][913]LogStaticMesh: Built static mesh [0.16s] /Game/Seaside_Town/Meshes/Pipes/SM_Pipe2_Bent.SM_Pipe2_Bent
+[2019.11.27-04.41.30:614][913]LogStaticMesh: SM_Pipe_Connector2 스태틱 메시 빌드중...
+[2019.11.27-04.41.30:854][913]LogStaticMesh: Built static mesh [0.24s] /Game/Seaside_Town/Meshes/Pipes/SM_Pipe_Connector2.SM_Pipe_Connector2
+[2019.11.27-04.41.30:991][913]LogStaticMesh: SM_Pipe_Thin_Corner1 스태틱 메시 빌드중...
+[2019.11.27-04.41.31:079][913]LogStaticMesh: Built static mesh [0.09s] /Game/Seaside_Town/Meshes/Pipes/SM_Pipe_Thin_Corner1.SM_Pipe_Thin_Corner1
+[2019.11.27-04.41.31:122][913]LogStaticMesh: SM_Pipe_Thin_Corner3 스태틱 메시 빌드중...
+[2019.11.27-04.41.31:215][913]LogStaticMesh: Built static mesh [0.09s] /Game/Seaside_Town/Meshes/Pipes/SM_Pipe_Thin_Corner3.SM_Pipe_Thin_Corner3
+[2019.11.27-04.41.31:248][913]LogStaticMesh: SM_Pipe_Thin_Corner2 스태틱 메시 빌드중...
+[2019.11.27-04.41.31:348][913]LogStaticMesh: Built static mesh [0.10s] /Game/Seaside_Town/Meshes/Pipes/SM_Pipe_Thin_Corner2.SM_Pipe_Thin_Corner2
+[2019.11.27-04.41.31:606][913]LogStaticMesh: SM_Plank_Wall_Short1 스태틱 메시 빌드중...
+[2019.11.27-04.41.31:609][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Wood/SM_Plank_Wall_Short1.SM_Plank_Wall_Short1
+[2019.11.27-04.41.31:613][913]LogStaticMesh: SM_Plank_Wall_Short2 스태틱 메시 빌드중...
+[2019.11.27-04.41.31:614][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Wood/SM_Plank_Wall_Short2.SM_Plank_Wall_Short2
+[2019.11.27-04.41.31:761][913]LogStaticMesh: SM_Rock_Big1 스태틱 메시 빌드중...
+[2019.11.27-04.41.32:631][913]LogStaticMesh: Built static mesh [0.87s] /Game/Seaside_Town/Meshes/Rocks/SM_Rock_Big1.SM_Rock_Big1
+[2019.11.27-04.41.33:609][913]LogStaticMesh: SM_Roof2_Half 스태틱 메시 빌드중...
+[2019.11.27-04.41.34:441][913]LogStaticMesh: Built static mesh [0.83s] /Game/Seaside_Town/Meshes/Roof/SM_Roof2_Half.SM_Roof2_Half
+[2019.11.27-04.41.34:587][913]LogStaticMesh: SM_Roof_Cap_Triangle1 스태틱 메시 빌드중...
+[2019.11.27-04.41.34:587][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Roof/SM_Roof_Cap_Triangle1.SM_Roof_Cap_Triangle1
+[2019.11.27-04.41.34:595][913]LogStaticMesh: SM_Roof_Small1 스태틱 메시 빌드중...
+[2019.11.27-04.41.34:596][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Wood/SM_Roof_Small1.SM_Roof_Small1
+[2019.11.27-04.41.34:645][913]LogStaticMesh: SM_Rubble_Pile1 스태틱 메시 빌드중...
+[2019.11.27-04.41.34:769][913]LogStaticMesh: Built static mesh [0.12s] /Game/Seaside_Town/Meshes/Rubble/SM_Rubble_Pile1.SM_Rubble_Pile1
+[2019.11.27-04.41.34:831][913]LogStaticMesh: SM_Rubble_Pile2 스태틱 메시 빌드중...
+[2019.11.27-04.41.34:899][913]LogStaticMesh: Built static mesh [0.07s] /Game/Seaside_Town/Meshes/Rubble/SM_Rubble_Pile2.SM_Rubble_Pile2
+[2019.11.27-04.41.35:030][913]LogStaticMesh: SM_Stairs_Simple1 스태틱 메시 빌드중...
+[2019.11.27-04.41.35:031][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Stairs_Simple1.SM_Stairs_Simple1
+[2019.11.27-04.41.35:048][913]LogStaticMesh: SM_Vent1 스태틱 메시 빌드중...
+[2019.11.27-04.41.35:049][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Metal/SM_Vent1.SM_Vent1
+[2019.11.27-04.41.35:065][913]LogStaticMesh: SM_Wall_Chains1 스태틱 메시 빌드중...
+[2019.11.27-04.41.35:142][913]LogStaticMesh: Built static mesh [0.08s] /Game/Seaside_Town/Meshes/Metal/SM_Wall_Chains1.SM_Wall_Chains1
+[2019.11.27-04.41.35:148][913]LogStaticMesh: SM_Wall_Corner_Angled1 스태틱 메시 빌드중...
+[2019.11.27-04.41.35:149][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_Corner_Angled1.SM_Wall_Corner_Angled1
+[2019.11.27-04.41.35:161][913]LogStaticMesh: SM_Wall_Corner_Straight1 스태틱 메시 빌드중...
+[2019.11.27-04.41.35:162][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_Corner_Straight1.SM_Wall_Corner_Straight1
+[2019.11.27-04.41.35:163][913]LogTexture: Display: 텍스처 빌드: T_Rooftile_Terracotta_Roughness (G8, 4096X4096)
+[2019.11.27-04.41.35:165][913]LogStaticMesh: SM_Wall_Corner_Straight2 스태틱 메시 빌드중...
+[2019.11.27-04.41.35:166][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_Corner_Straight2.SM_Wall_Corner_Straight2
+[2019.11.27-04.41.35:286][913]LogStaticMesh: SM_Wall_High_Sec1_Arch1 스태틱 메시 빌드중...
+[2019.11.27-04.41.36:028][913]LogStaticMesh: Built static mesh [0.76s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Arch1.SM_Wall_High_Sec1_Arch1
+[2019.11.27-04.41.36:141][913]LogStaticMesh: SM_Wall_High_Sec1_Arch1_Simple 스태틱 메시 빌드중...
+[2019.11.27-04.41.36:492][913]LogStaticMesh: Built static mesh [0.35s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Arch1_Simple.SM_Wall_High_Sec1_Arch1_Simple
+[2019.11.27-04.41.36:771][913]LogStaticMesh: SM_Wall_High_Sec1_Window2_Bottom_Ext 스태틱 메시 빌드중...
+[2019.11.27-04.41.37:096][913]LogStaticMesh: Built static mesh [0.33s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Window2_Bottom_Ext.SM_Wall_High_Sec1_Window2_Bottom_Ext
+[2019.11.27-04.41.37:268][913]LogStaticMesh: SM_Wall_High_Sec1_Window2_Middle_Ext 스태틱 메시 빌드중...
+[2019.11.27-04.41.37:585][913]LogStaticMesh: Built static mesh [0.32s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Window2_Middle_Ext.SM_Wall_High_Sec1_Window2_Middle_Ext
+[2019.11.27-04.41.37:771][913]LogStaticMesh: SM_Wall_High_Sec1_Window2_Upper 스태틱 메시 빌드중...
+[2019.11.27-04.41.38:360][913]LogStaticMesh: Built static mesh [0.59s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Window2_Upper.SM_Wall_High_Sec1_Window2_Upper
+[2019.11.27-04.41.38:873][913]LogStaticMesh: SM_Wall_Trim_Support3 스태틱 메시 빌드중...
+[2019.11.27-04.41.38:943][913]LogStaticMesh: Built static mesh [0.07s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_Trim_Support3.SM_Wall_Trim_Support3
+[2019.11.27-04.41.39:049][913]LogStaticMesh: SM_Wallpaper4 스태틱 메시 빌드중...
+[2019.11.27-04.41.39:051][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Wallpaper/SM_Wallpaper4.SM_Wallpaper4
+[2019.11.27-04.41.39:081][913]LogStaticMesh: SM_Water_Pump1 스태틱 메시 빌드중...
+[2019.11.27-04.41.39:277][913]LogStaticMesh: Built static mesh [0.20s] /Game/Seaside_Town/Meshes/Pier/SM_Water_Pump1.SM_Water_Pump1
+[2019.11.27-04.41.39:295][913]LogStaticMesh: SM_Window_Frame1 스태틱 메시 빌드중...
+[2019.11.27-04.41.39:298][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/WIndows/SM_Window_Frame1.SM_Window_Frame1
+[2019.11.27-04.41.39:301][913]LogStaticMesh: SM_Window_Frame2 스태틱 메시 빌드중...
+[2019.11.27-04.41.39:304][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/WIndows/SM_Window_Frame2.SM_Window_Frame2
+[2019.11.27-04.41.39:308][913]LogStaticMesh: SM_Window_Frame_With_Glass1 스태틱 메시 빌드중...
+[2019.11.27-04.41.39:310][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/WIndows/SM_Window_Frame_With_Glass1.SM_Window_Frame_With_Glass1
+[2019.11.27-04.41.39:386][913]LogStaticMesh: SM_Wood_Roof_Support2 스태틱 메시 빌드중...
+[2019.11.27-04.41.39:682][913]LogStaticMesh: Built static mesh [0.30s] /Game/Seaside_Town/Meshes/Wood/SM_Wood_Roof_Support2.SM_Wood_Roof_Support2
+[2019.11.27-04.41.39:740][913]LogStaticMesh: SM_Wood_Roof_Support4 스태틱 메시 빌드중...
+[2019.11.27-04.41.39:938][913]LogStaticMesh: Built static mesh [0.20s] /Game/Seaside_Town/Meshes/Wood/SM_Wood_Roof_Support4.SM_Wood_Roof_Support4
+[2019.11.27-04.41.40:002][913]LogStaticMesh: SM_Wood_Roof_Support5 스태틱 메시 빌드중...
+[2019.11.27-04.41.40:296][913]LogStaticMesh: Built static mesh [0.29s] /Game/Seaside_Town/Meshes/Wood/SM_Wood_Roof_Support5.SM_Wood_Roof_Support5
+[2019.11.27-04.41.40:461][913]LogStaticMesh: SM_Wood_Roof_Support_Short2 스태틱 메시 빌드중...
+[2019.11.27-04.41.40:803][913]LogStaticMesh: Built static mesh [0.34s] /Game/Seaside_Town/Meshes/Wood/SM_Wood_Roof_Support_Short2.SM_Wood_Roof_Support_Short2
+[2019.11.27-04.41.40:926][913]LogStaticMesh: SM_Wood_Support_Single1 스태틱 메시 빌드중...
+[2019.11.27-04.41.41:188][913]LogStaticMesh: Built static mesh [0.26s] /Game/Seaside_Town/Meshes/Wood/SM_Wood_Support_Single1.SM_Wood_Support_Single1
+[2019.11.27-04.41.41:224][913]LogStaticMesh: SM_Wood_Trim_Corner1 스태틱 메시 빌드중...
+[2019.11.27-04.41.41:226][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Interior_Wood/SM_Wood_Trim_Corner1.SM_Wood_Trim_Corner1
+[2019.11.27-04.41.41:302][913]LogStaticMesh: SM_Wood_Wall_Support1 스태틱 메시 빌드중...
+[2019.11.27-04.41.41:978][913]LogStaticMesh: Built static mesh [0.68s] /Game/Seaside_Town/Meshes/Wood/SM_Wood_Wall_Support1.SM_Wood_Wall_Support1
+[2019.11.27-04.41.42:111][913]LogStaticMesh: SM_Wppd_Support1 스태틱 메시 빌드중...
+[2019.11.27-04.41.42:668][913]LogStaticMesh: Built static mesh [0.56s] /Game/Seaside_Town/Meshes/Wood/SM_Wppd_Support1.SM_Wppd_Support1
+[2019.11.27-04.41.42:818][913]LogStaticMesh: SM_Stairs_High1 스태틱 메시 빌드중...
+[2019.11.27-04.41.42:820][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Stairs_High1.SM_Stairs_High1
+[2019.11.27-04.41.42:825][913]LogStaticMesh: SM_Stairs_Short1 스태틱 메시 빌드중...
+[2019.11.27-04.41.42:826][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Stairs_Short1.SM_Stairs_Short1
+[2019.11.27-04.41.42:829][913]LogStaticMesh: SM_Stairs_Simple3 스태틱 메시 빌드중...
+[2019.11.27-04.41.42:829][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Pier/SM_Stairs_Simple3.SM_Stairs_Simple3
+[2019.11.27-04.41.43:094][913]LogStaticMesh: SM_Wall_High_Sec1_Window2_Upper_Ext 스태틱 메시 빌드중...
+[2019.11.27-04.41.43:495][913]LogShaderCompilers: Display: Shaders left to compile 1420
+[2019.11.27-04.41.43:495][913]LogStaticMesh: Built static mesh [0.40s] /Game/Seaside_Town/Meshes/Buildings/SM_Wall_High_Sec1_Window2_Upper_Ext.SM_Wall_High_Sec1_Window2_Upper_Ext
+[2019.11.27-04.41.43:619][913]LogShaderCompilers: Display: Shaders left to compile 1410
+[2019.11.27-04.41.43:927][913]LogStaticMesh: SM_Wallpaper3 스태틱 메시 빌드중...
+[2019.11.27-04.41.43:928][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Wallpaper/SM_Wallpaper3.SM_Wallpaper3
+[2019.11.27-04.41.43:933][913]LogStaticMesh: SM_Wallpaper2 스태틱 메시 빌드중...
+[2019.11.27-04.41.43:935][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Wallpaper/SM_Wallpaper2.SM_Wallpaper2
+[2019.11.27-04.41.43:938][913]LogStaticMesh: Water_Backface1 스태틱 메시 빌드중...
+[2019.11.27-04.41.43:938][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Water/Water_Backface1.Water_Backface1
+[2019.11.27-04.41.44:005][913]LogStaticMesh: SM_Roof_Corner_Angled1 스태틱 메시 빌드중...
+[2019.11.27-04.41.44:686][913]LogShaderCompilers: Display: Shaders left to compile 1400
+[2019.11.27-04.41.44:686][913]LogStaticMesh: Built static mesh [0.68s] /Game/Seaside_Town/Meshes/Roof/SM_Roof_Corner_Angled1.SM_Roof_Corner_Angled1
+[2019.11.27-04.41.44:756][913]LogStaticMesh: SM_Wire1 스태틱 메시 빌드중...
+[2019.11.27-04.41.44:758][913]LogStaticMesh: Built static mesh [0.00s] /Game/Seaside_Town/Meshes/Wire/SM_Wire1.SM_Wire1
+[2019.11.27-04.41.44:778][913]LogStaticMesh: Wood_Ground_Support1 스태틱 메시 빌드중...
+[2019.11.27-04.41.44:935][913]LogStaticMesh: Built static mesh [0.16s] /Game/Seaside_Town/Meshes/Wood/Wood_Ground_Support1.Wood_Ground_Support1
+[2019.11.27-04.41.45:022][913]LogMaterial: Display: Missing cached shader map for material M_Window_Glass1, compiling. 
+[2019.11.27-04.41.45:041][913]LogMaterial: Display: Missing cached shader map for material M_Exterior_Trims_Master2, compiling. 
+[2019.11.27-04.41.45:061][913]LogMaterial: Display: Missing cached shader map for material M_Swamp_Wood_Master1, compiling. 
+[2019.11.27-04.41.45:082][913]LogMaterial: Display: Missing cached shader map for material M_Exterior_Trims_Master2, compiling. 
+[2019.11.27-04.41.45:103][913]LogMaterial: Display: Missing cached shader map for material M_Water_Master, compiling. 
+[2019.11.27-04.41.45:163][913]LogMaterial: Display: Missing cached shader map for material M_Water_Master, compiling. 
+[2019.11.27-04.41.45:210][913]LogMaterial: Display: Missing cached shader map for material M_Wall_Bricks_Master1, compiling. 
+[2019.11.27-04.41.45:233][913]LogMaterial: Display: Missing cached shader map for material M_Wire_Master1, compiling. 
+[2019.11.27-04.41.45:253][913]LogMaterial: Display: Missing cached shader map for material M_Surface_Master, compiling. 
+[2019.11.27-04.41.45:279][913]LogMaterial: Display: Missing cached shader map for material M_Exterior_Trims_Master2, compiling. 
+[2019.11.27-04.41.45:303][913]LogMaterial: Display: Missing cached shader map for material M_Glass_Translucent1, compiling. 
+[2019.11.27-04.41.45:343][913]LogAIModule: Creating AISystem for world Demonstration
+[2019.11.27-04.41.45:608][913]LogAssetEditorManager: Opening Asset editor for World /Game/Seaside_Town/Maps/Demonstration.Demonstration
+[2019.11.27-04.41.45:914][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2019.11.27-04.41.45:916][913]Cmd: MAP LOAD FILE="../../../../../../16Eom/UE4Study/ArenaBattle/Content/Seaside_Town/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.27-04.41.45:917][913]LightingResults: New page: 라이팅 빌드
+[2019.11.27-04.41.45:918][913]LoadErrors: New page: 맵 로드중: Demonstration.umap
+[2019.11.27-04.41.45:933][913]MapCheck: New page: 맵 체크
+[2019.11.27-04.41.45:933][913]LightingResults: New page: 라이팅 빌드
+[2019.11.27-04.41.45:987][913]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2019.11.27-04.41.46:717][913]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.27-04.41.47:059][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2019.11.27-04.41.47:068][913]MapCheck: /Game/Seaside_Town/Maps/Demonstration 레벨의 1140 개 컴포넌트에 대해 페인트된 버텍스 컬러를 고치는 데 4.0s 걸렸습니다. 맵을 다시 저장하면 확정됩니다. 
+[2019.11.27-04.41.47:068][913]MapCheck: Warning: 스태틱 메시 리임포트로 인해 페인트된 버텍스 컬러를 고치는 데 시간이 4.0s 만큼 걸렸습니다. 맵을 다시 저장하기 전까지는 로드할 때마다 이 작업이 실행됩니다. 
+[2019.11.27-04.41.47:098][913]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.27-04.41.47:099][913]MapCheck: 맵 체크 완료: 오류 0 회, 경고 1 회, 소요 시간 0.434ms.
+[2019.11.27-04.41.47:107][913]LogFileHelpers: Loading map 'Demonstration' took 1.192
+[2019.11.27-04.41.47:233][914]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.27-04.41.47:233][914]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.27-04.41.47:233][914]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.27-04.41.51:224][287]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (3.992 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.11.27-04.41.53:016][457]LogSlate: Window '메시지 로그' being destroyed
+[2019.11.27-04.41.53:018][457]LogSlate: Window '메시지 로그' being destroyed
+[2019.11.27-04.42.05:704][805]LogRenderer: Warning: Gaussian DOF algorithm is deprecated and will be removed from deferred shading renderer. Consider using the Circle DOF method in post process settings.
+[2019.11.27-04.42.29:366][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pier_Base_New2_Cut3)
+[2019.11.27-04.42.31:446][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Pipe_Connector4)
+[2019.11.27-04.42.32:163][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Doors_Wood3)
+[2019.11.27-04.42.35:053][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Roof_Small2)
+[2019.11.27-04.42.37:579][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.42.42:890][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.42.55:976][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.43.01:724][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.43.05:292][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.43.05:381][401]Cmd: MODE GRID=0
+[2019.11.27-04.43.05:885][443]Cmd: MODE GRID=1
+[2019.11.27-04.43.14:310][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.43.14:389][256]Cmd: MODE SCALEGRID=0
+[2019.11.27-04.43.14:927][307]Cmd: MODE SCALEGRID=1
+[2019.11.27-04.43.19:116][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pier_Base6)
+[2019.11.27-04.43.29:072][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.44.05:799][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.44.06:600][915]LogAIModule: Creating AISystem for world AILevel
+[2019.11.27-04.44.06:606][915]LogAssetEditorManager: Opening Asset editor for World /Game/Book/Level/AILevel.AILevel
+[2019.11.27-04.44.06:633][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.11.27-04.44.06:634][915]Cmd: MAP LOAD FILE="../../../../../../16Eom/UE4Study/ArenaBattle/Content/Book/Level/AILevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.27-04.44.06:634][915]LightingResults: New page: 라이팅 빌드
+[2019.11.27-04.44.06:634][915]LoadErrors: New page: 맵 로드중: AILevel.umap
+[2019.11.27-04.44.06:651][915]MapCheck: New page: 맵 체크
+[2019.11.27-04.44.06:651][915]LightingResults: New page: 라이팅 빌드
+[2019.11.27-04.44.06:706][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.11.27-04.44.06:812][915]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.27-04.44.06:837][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.11.27-04.44.06:868][915]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.27-04.44.06:868][915]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.124ms.
+[2019.11.27-04.44.06:868][915]LogFileHelpers: Loading map 'AILevel' took 0.235
+[2019.11.27-04.44.10:765][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.27-04.44.11:741][456]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.11.27-04.44.11:766][456]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.27-04.44.12:473][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.27-04.44.18:718][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.44.43:974][ 84]LogSlate: Window '부모 클래스 선택' being destroyed
+[2019.11.27-04.44.58:428][752]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Book/Bueprint/Griffon.Griffon
+[2019.11.27-04.44.58:818][752]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.11.27-04.44.59:732][753]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2019.11.27-04.45.30:391][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.46.14:512][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.46.16:968][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.46.20:820][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.46.54:082][761]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.46.54:151][769]BlueprintLog: New page: Griffon 컴파일
+[2019.11.27-04.46.54:332][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2019.11.27-04.46.55:752][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.46.59:821][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.27-04.47.00:236][391]LogEditorViewport: Clicking on Actor (LMB): Griffon_C (Griffon)
+[2019.11.27-04.47.03:324][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.27-04.47.05:070][930]LogEditorViewport: Clicking on Actor (LMB): Griffon_C (Griffon)
+[2019.11.27-04.47.05:899][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.27-04.47.14:263][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.27-04.47.14:729][ 35]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.11.27-04.47.14:747][ 35]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.27-04.47.19:011][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.47.19:090][536]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.11.27-04.47.19:095][536]Candidate modules for hot reload:
+[2019.11.27-04.47.19:095][536]  ArenaBattle
+[2019.11.27-04.47.19:095][536]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,537 Win64 Development -TargetType=Editor -Project="C:/16Eom/UE4Study/ArenaBattle/ArenaBattle.uproject" "C:/16Eom/UE4Study/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2019.11.27-04.47.19:097][536]Warning: Starting HotReload took  0.0s.
+[2019.11.27-04.47.24:390][ 82]LogEditorViewport: Clicking on Actor (LMB): Griffon_C (Griffon)
+[2019.11.27-04.47.44:456][391]CompilerResultsLog: New page: 컴파일 - 2019. 11. 27. 오후 10:47:44
+[2019.11.27-04.47.44:457][391]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\16Eom\UE4Study).
+[2019.11.27-04.47.44:457][391]CompilerResultsLog: Creating makefile for ArenaBattleEditor (ini files are newer than makefile)
+[2019.11.27-04.47.44:457][391]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2019.11.27-04.47.44:457][391]CompilerResultsLog:   Running UnrealHeaderTool "C:\16Eom\UE4Study\ArenaBattle\ArenaBattle.uproject" "C:\16Eom\UE4Study\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.27-04.47.44:457][391]CompilerResultsLog: Error: C:/16Eom/UE4Study/ArenaBattle/Source/ArenaBattle/ABAIController.h(31)  : Error: Unrecognized type 'UBlackbordData' - type must be a UCLASS, USTRUCT or UENUM
+[2019.11.27-04.47.44:457][391]LogMainFrame: MainFrame: Module compiling took 25.367 seconds
+[2019.11.27-04.47.44:458][391]Warning: HotReload failed, recompile failed
+[2019.11.27-04.48.24:632][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.49.04:973][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.49.10:596][638]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.27-04.49.14:411][ 84]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Book/Bueprint/Griffon.Griffon from Actor to Pawn...
+[2019.11.27-04.49.14:421][ 84]BlueprintLog: New page: Griffon 컴파일
+[2019.11.27-04.49.14:585][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.11.27-04.49.16:048][252]BlueprintLog: New page: Griffon 컴파일
+[2019.11.27-04.49.16:207][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2019.11.27-04.49.21:185][842]MapCheck: New page: 맵 체크
+[2019.11.27-04.49.21:200][842]Cmd: MAP REBUILD ALLVISIBLE
+[2019.11.27-04.49.21:200][842]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.11.27-04.49.21:370][842]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2019.11.27-04.49.21:406][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.11.27-04.49.21:418][842]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.27-04.49.21:427][842]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.27-04.49.21:434][842]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.27-04.49.21:442][842]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.27-04.49.22:087][842]TextureStreamingBuild: Display: Compiling optional shaders took 0.676 seconds.
+[2019.11.27-04.49.22:100][842]LogLevel: Display: Export Material TexCoord Scales took 0.013 seconds.
+[2019.11.27-04.49.22:109][842]TextureStreamingBuild: Display: Build Texture Streaming took 0.008 seconds.
+[2019.11.27-04.49.22:142][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.11.27-04.49.22:143][842]LightingResults: New page: 라이팅 빌드 - 2019. 11. 27. 오후 10:49:22
+[2019.11.27-04.49.22:184][842]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.11.27-04.49.22:342][842]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.11.27-04.49.22:354][842]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.11.27-04.49.22:908][842]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.11.27-04.49.22:908][842]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12752
+[2019.11.27-04.49.25:528][842]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.11.27-04.49.25:528][842]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.11.27-04.49.25:528][842]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.11.27-04.49.25:528][842]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.11.27-04.49.25:528][842]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.11.27-04.49.25:528][842]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.11.27-04.49.25:755][842]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.11.27-04.49.25:756][842]MapCheck: New page: AILevel - 2019. 11. 27. 오후 10:49:25
+[2019.11.27-04.49.25:760][842]MapCheck: Error: WorldSettings_1 맵 라이팅을 리빌드해야 합니다. 
+[2019.11.27-04.49.25:760][842]MapCheck: 맵 체크 완료: 오류 1 회, 경고 0 회, 소요 시간 4.992ms.
+[2019.11.27-04.49.25:783][842]LogEditorBuildUtils: Build time 0:04
+[2019.11.27-04.49.26:402][846]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.11.27-04.49.28:307][992]Job is a success!
+[2019.11.27-04.49.28:358][993]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2019.11.27-04.49.28:358][993]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.11.27-04.49.28:358][993]LogVolumetricLightmapImport:      BrickData 455x5x5 = 0.4Mb
+[2019.11.27-04.49.28:358][993]LogVolumetricLightmapImport:      Bricks at Level
+[2019.11.27-04.49.28:358][993]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2019.11.27-04.49.28:358][993]LogVolumetricLightmapImport:          1: 9.9% covering 14.1% of volume
+[2019.11.27-04.49.28:358][993]LogVolumetricLightmapImport:          2: 89.0% covering 2.0% of volume
+[2019.11.27-04.49.28:402][993]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2019.11.27-04.49.28:402][993]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2019.11.27-04.49.28:402][993]LogTexture: Display: 텍스처 빌드: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.11.27-04.49.28:402][993]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.11.27-04.49.28:402][993]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_3 (G8, 32X32)
+[2019.11.27-04.49.28:402][993]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_2 (G8, 128X128)
+[2019.11.27-04.49.28:423][993]Lightmass on NOW2-207-07: 1.13 sec total, 168 ms importing, 22 ms setup, 181 ms photons, 713 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 2.82 sec total, 237 ms processing.
+[2019.11.27-04.49.28:425][993]LogStaticLightingSystem: AILevel_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2019.11.27-04.49.28:464][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.11.27-04.49.28:473][993]LogStaticLightingSystem: Illumination: 6.31 sec (22 ms encoding lightmaps, 14 ms encoding shadowmaps)
+[2019.11.27-04.49.28:473][993]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.11.27-04.49.28:473][993]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.11.27-04.49.33:534][993]DumpUnbuiltLightIteractions
+[2019.11.27-04.49.33:534][993]Lights with unbuilt interactions: 0
+[2019.11.27-04.49.33:534][993]
+[2019.11.27-04.49.33:534][993]Primitives with unbuilt interactions: 0
+[2019.11.27-04.49.33:602][994]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.11.27-04.49.33:602][994]MapCheck: New page: AILevel - 2019. 11. 27. 오후 10:49:33
+[2019.11.27-04.49.33:602][994]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.361ms.
+[2019.11.27-04.49.33:924][ 28]LogSlate: Window '메시지 로그' being destroyed
+[2019.11.27-04.49.33:927][ 28]LogSlate: Window '메시지 로그' being destroyed
+[2019.11.27-04.49.52:265][223]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.27-04.51.06:618][101]ArenaBattle: Warning: AFountain::PostInitializeComponents(67)
+[2019.11.27-04.51.06:625][101]ArenaBattle: Warning: AABPawn::PostInitializeComponents(58)
+[2019.11.27-04.51.08:631][289]LogSlate: Took 0.007682 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.27-04.51.34:479][338]Running C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/16Eom/UE4Study/ArenaBattle/ArenaBattle.uproject" -game -rocket -progress
+[2019.11.27-04.51.34:783][338]Discovering modules, targets and source code for project...
+[2019.11.27-04.51.36:791][338]Binding IntelliSense data...
+[2019.11.27-04.51.38:702][338]Binding IntelliSense data... 100%
+[2019.11.27-04.51.38:702][338]Writing project files...
+[2019.11.27-04.51.42:017][338]Writing project files... 100%
+[2019.11.27-04.51.42:129][338]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2019.11.27-04.51.42:132][338]Candidate modules for hot reload:
+[2019.11.27-04.51.42:132][338]  ArenaBattle
+[2019.11.27-04.51.42:132][338]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=ArenaBattle,5514 Win64 Development -TargetType=Editor -Project="C:/16Eom/UE4Study/ArenaBattle/ArenaBattle.uproject" "C:/16Eom/UE4Study/ArenaBattle/ArenaBattle.uproject"  -IgnoreJunk]
+[2019.11.27-04.51.49:281][338]CompilerResultsLog: New page: 컴파일 - 2019. 11. 27. 오후 10:51:49
+[2019.11.27-04.51.49:281][338]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\16Eom\UE4Study).
+[2019.11.27-04.51.49:281][338]CompilerResultsLog: Creating makefile for ArenaBattleEditor (no existing makefile)
+[2019.11.27-04.51.49:281][338]CompilerResultsLog: Parsing headers for ArenaBattleEditor
+[2019.11.27-04.51.49:281][338]CompilerResultsLog:   Running UnrealHeaderTool "C:\16Eom\UE4Study\ArenaBattle\ArenaBattle.uproject" "C:\16Eom\UE4Study\ArenaBattle\Intermediate\Build\Win64\ArenaBattleEditor\Development\ArenaBattleEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2019.11.27-04.51.49:281][338]CompilerResultsLog: Error: C:/16Eom/UE4Study/ArenaBattle/Source/ArenaBattle/ABAIController.h(31)  : Error: Unrecognized type 'UBlackbordData' - type must be a UCLASS, USTRUCT or UENUM
+[2019.11.27-04.51.49:281][338]LogMainFrame: MainFrame: Module compiling took 7.152 seconds
+[2019.11.27-04.51.49:281][338]Warning: HotReload failed, recompile failed
+[2019.11.27-04.51.49:283][338]Warning: RebindPackages failed because compilation failed.
+[2019.11.27-04.51.52:853][338]LogSlate: Window '메시지' being destroyed
+[2019.11.27-04.51.52:857][338]LogSlate: Window 'C++ 클래스 추가' being destroyed
+[2019.11.27-04.51.52:868][338]LogSlate: Took 0.006184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2019.11.27-04.51.52:919][338]LogSlate: Took 0.018974 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicExtraBold.ttf' (4074K)
+[2019.11.27-04.52.19:506][330]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2019.11.27-04.54.28:841][303]LogRHI: Error: SyncInterval 0
+[2019.11.27-04.54.28:841][303]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2019.11.27-04.54.28:841][303]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1056
+[2019.11.27-04.54.28:841][303]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2019.11.27-04.54.28:841][303]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2019.11.27-04.54.28:841][303]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2019.11.27-04.54.28:841][303]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2019.11.27-04.54.28:841][303]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2019.11.27-04.54.28:841][303]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2019.11.27-04.54.28:842][303]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2019.11.27-04.54.28:842][303]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2019.11.27-04.54.28:842][303]LogRHI: Error: SwapChainDesc.BufferCount 1
+[2019.11.27-04.54.28:842][303]LogRHI: Error: SwapChainDesc.OutputWindow 0000000000110514
+[2019.11.27-04.54.28:842][303]LogRHI: Error: SwapChainDesc.Windowed true
+[2019.11.27-04.54.28:842][303]LogRHI: Error: SwapChainDesc.SwapEffect 0
+[2019.11.27-04.54.28:842][303]LogRHI: Error: SwapChainDesc.Flags 2
+[2019.11.27-04.54.28:845][303]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:361 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_RESET
+[2019.11.27-04.54.28:845][303]LogD3D11RHI: [Aftermath] GDynamicRHI=000001F8C5DF60C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.11.27-04.54.28:845][303]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
+[2019.11.27-04.54.31:209][303]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.11.27-04.54.31:209][303]LogWindows: Windows GetLastError: 작업을 완료했습니다. (0)
+[2019.11.27-04.54.31:209][303]LogThreadingWindows: Error: Runnable thread RenderThread 9 crashed.
+[2019.11.27-04.54.31:209][303]LogWindows: Error: === Critical error: ===
+[2019.11.27-04.54.31:209][303]LogWindows: Error: 
+[2019.11.27-04.54.31:209][303]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\RenderCore\Private\RenderingThread.cpp] [Line: 819] 
+[2019.11.27-04.54.31:209][303]LogWindows: Error: Rendering thread exception:
+[2019.11.27-04.54.31:209][303]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Util.cpp] [Line: 198] 
+[2019.11.27-04.54.31:209][303]LogWindows: Error: Unreal Engine is exiting due to D3D device being lost. (Error: 0x887A0007 - 'RESET')
+[2019.11.27-04.54.31:209][303]LogWindows: Error: 
+[2019.11.27-04.54.31:209][303]LogWindows: Error: 
+[2019.11.27-04.54.31:209][303]LogWindows: Error: Unhandled Exception: 0x00008000
+[2019.11.27-04.54.31:209][303]LogWindows: Error: 
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb99b43c58 KERNELBASE.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb576c3667 UE4Editor-Core.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb576c46e0 UE4Editor-Core.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb574d7d1a UE4Editor-Core.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb5745fe33 UE4Editor-Core.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb5745fd18 UE4Editor-Core.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb4d752a23 UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb4d75629e UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb4d73875e UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb4d74480b UE4Editor-D3D11RHI.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb8b39e8e0 UE4Editor-RHI.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb8b39e4c4 UE4Editor-RHI.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb8b39f444 UE4Editor-RHI.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb8b396bb4 UE4Editor-RHI.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb4d3f769b UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb4d3fe220 UE4Editor-SlateRHIRenderer.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb572e22d8 UE4Editor-Core.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb572e2563 UE4Editor-Core.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb8bb459f1 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb8bb4c184 UE4Editor-RenderCore.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb576d4b3f UE4Editor-Core.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb576d08a7 UE4Editor-Core.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb9a9f8364 KERNEL32.DLL!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: [Callstack] 0x00007ffb9ca97091 ntdll.dll!UnknownFunction []
+[2019.11.27-04.54.31:209][303]LogWindows: Error: 
+[2019.11.27-04.54.31:209][303]LogWindows: Error: 
+[2019.11.27-04.54.31:209][303]LogWindows: Error: 
+[2019.11.27-04.54.31:209][303]LogWindows: Error: 
+[2019.11.27-04.54.31:209][303]LogWindows: Error: Crash in runnable thread RenderThread 9

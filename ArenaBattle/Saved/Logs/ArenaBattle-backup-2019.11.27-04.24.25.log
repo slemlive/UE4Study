@@ -1,0 +1,910 @@
+﻿Log file open, 11/27/19 13:14:02
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ArenaBattle
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.169528
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1607) (), CPU: Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz, GPU: Radeon (TM) RX 480 Graphics
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=Slemlive -epicuserid=a61b2739f909491b8ffd2a80929db53e -epiclocale=ko-KR
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.27-04.14.02:596][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.27-04.14.02:596][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2019.11.27-04.14.02:597][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.27-04.14.02:597][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2019.11.27-04.14.02:597][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2019.11.27-04.14.02:602][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.27-04.14.02:602][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.27-04.14.02:603][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.27-04.14.02:603][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.27-04.14.02:603][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.27-04.14.02:603][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.14.02:603][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.27-04.14.02:603][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.27-04.14.02:603][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.27-04.14.02:603][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.27-04.14.02:603][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.27-04.14.02:603][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.27-04.14.02:603][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.27-04.14.02:603][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.27-04.14.02:603][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.27-04.14.02:603][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.27-04.14.02:603][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.27-04.14.02:603][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.27-04.14.02:603][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.27-04.14.02:603][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.14.02:603][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.27-04.14.02:603][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.27-04.14.02:603][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.27-04.14.02:603][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.27-04.14.02:617][  0]LogHAL: Display: Platform has ~ 16 GB [17053208576 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.11.27-04.14.02:617][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.27-04.14.02:617][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.27-04.14.02:617][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.27-04.14.02:618][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/16Eom/UE4Study/ArenaBattle/Saved/Config/Windows/Engine.ini]
+[2019.11.27-04.14.02:618][  0]LogInit: Computer: NOW2-207-07
+[2019.11.27-04.14.02:618][  0]LogInit: User: NOW220707
+[2019.11.27-04.14.02:618][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.11.27-04.14.02:619][  0]LogInit: High frequency timer resolution =3.328128 MHz
+[2019.11.27-04.14.02:619][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.11.27-04.14.02:619][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.27-04.14.02:619][  0]LogMemory: Process Physical Memory: 96.52 MB used, 96.52 MB peak
+[2019.11.27-04.14.02:619][  0]LogMemory: Process Virtual Memory: 84.01 MB used, 84.01 MB peak
+[2019.11.27-04.14.02:619][  0]LogMemory: Physical Memory: 4893.15 MB used,  11370.06 MB free, 16263.21 MB total
+[2019.11.27-04.14.02:619][  0]LogMemory: Virtual Memory: 507.58 MB used,  134217224.00 MB free, 134217728.00 MB total
+[2019.11.27-04.14.02:634][  0]LogInit: Using OS detected language (ko-KR).
+[2019.11.27-04.14.02:634][  0]LogInit: Using OS detected locale (ko-KR).
+[2019.11.27-04.14.02:635][  0]LogTextLocalizationManager: No specific localization for 'ko-KR' exists, so the 'ko' localization will be used.
+[2019.11.27-04.14.02:700][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.27-04.14.02:724][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.27-04.14.02:724][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.27-04.14.02:896][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.27-04.14.02:896][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.27-04.14.02:927][  0]LogD3D11RHI:    0. 'Radeon (TM) RX 480 Graphics' (Feature Level 11_0)
+[2019.11.27-04.14.02:927][  0]LogD3D11RHI:       4044/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.11.27-04.14.02:936][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.11.27-04.14.02:936][  0]LogD3D11RHI:       128/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.27-04.14.02:938][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.27-04.14.02:938][  0]LogD3D11RHI:       0/0/8131 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.27-04.14.02:938][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.27-04.14.02:941][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.27-04.14.02:941][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2019.11.27-04.14.02:941][  0]LogWindows: EnumDisplayDevices:
+[2019.11.27-04.14.02:941][  0]LogWindows:    0. 'Radeon (TM) RX 480 Graphics' (P:1 D:1)
+[2019.11.27-04.14.02:942][  0]LogWindows:    1. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2019.11.27-04.14.02:943][  0]LogWindows:    2. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2019.11.27-04.14.02:943][  0]LogWindows:    3. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2019.11.27-04.14.02:944][  0]LogWindows:    4. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2019.11.27-04.14.02:945][  0]LogWindows:    5. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2019.11.27-04.14.02:945][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.27-04.14.02:946][  0]LogWindows:    7. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.27-04.14.02:947][  0]LogWindows:    8. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.11.27-04.14.02:947][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:6 
+[2019.11.27-04.14.02:947][  0]LogD3D11RHI:     Adapter Name: Radeon (TM) RX 480 Graphics
+[2019.11.27-04.14.02:947][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.1.1 (internal:22.19.162.4, unified:22.19.162.4)
+[2019.11.27-04.14.02:947][  0]LogD3D11RHI:      Driver Date: 4-24-2017
+[2019.11.27-04.14.02:947][  0]LogRHI: Texture pool is 2830 MB (70% of 4044 MB)
+[2019.11.27-04.14.03:219][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.27-04.14.03:222][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.27-04.14.03:222][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.27-04.14.03:222][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.11.27-04.14.03:229][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.11.27-04.14.03:501][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.27-04.14.03:513][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.27-04.14.03:525][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.27-04.14.03:538][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.27-04.14.03:551][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.27-04.14.03:564][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.27-04.14.03:576][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.27-04.14.03:591][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.27-04.14.03:597][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.27-04.14.03:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.27-04.14.03:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.27-04.14.03:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.27-04.14.03:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.27-04.14.03:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.27-04.14.03:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.27-04.14.03:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.27-04.14.03:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.27-04.14.03:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.27-04.14.03:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.27-04.14.03:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.27-04.14.03:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.27-04.14.03:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.27-04.14.03:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.27-04.14.03:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.27-04.14.03:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.27-04.14.03:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.27-04.14.03:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.27-04.14.03:677][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.27-04.14.03:733][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.27-04.14.03:733][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.27-04.14.03:757][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.27-04.14.03:757][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.27-04.14.03:770][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.27-04.14.03:782][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.27-04.14.03:794][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.27-04.14.03:807][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.27-04.14.03:847][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.27-04.14.03:847][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.27-04.14.03:847][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.27-04.14.03:855][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.27-04.14.03:898][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (../../../../../../16Eom/UE4Study/ArenaBattle/Intermediate/Shaders/WorkingDirectory/10008/).
+[2019.11.27-04.14.03:898][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/NOW2-207-07/AppData/Local/Temp/UnrealShaderWorkingDir/79D48760416419E84322CDBFF782BDA1/'.
+[2019.11.27-04.14.03:900][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.27-04.14.03:900][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.27-04.14.03:900][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.27-04.14.04:413][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.27-04.14.04:459][  0]LogDerivedDataCache: Loaded boot cache 0.05s 75MB C:/Users/NOW2-207-07/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.27-04.14.04:459][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/NOW2-207-07/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.11.27-04.14.04:459][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../16Eom/UE4Study/ArenaBattle/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.27-04.14.04:459][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.27-04.14.04:459][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../16Eom/UE4Study/ArenaBattle/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.27-04.14.04:459][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.27-04.14.04:471][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.27-04.14.04:471][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.27-04.14.04:471][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.27-04.14.04:483][  0]LogDerivedDataCache: Using Local data cache path C:/Users/NOW2-207-07/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.27-04.14.04:483][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.27-04.14.04:483][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.27-04.14.04:503][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.27-04.14.04:504][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.27-04.14.04:505][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.27-04.14.04:586][  0]LogAssetRegistry: FAssetRegistry took 0.0320 seconds to start up
+[2019.11.27-04.14.04:877][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.27-04.14.05:001][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.27-04.14.05:001][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.27-04.14.05:001][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.27-04.14.05:001][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.27-04.14.05:001][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.27-04.14.05:010][  0]LogNetVersion: ArenaBattle 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 815535894)
+[2019.11.27-04.14.05:371][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.036778 seconds
+[2019.11.27-04.14.05:377][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.11.27-04.14.05:377][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.11.27-04.14.05:377][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.27-04.14.06:150][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.27-04.14.06:165][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.27-04.14.06:365][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.11.27-04.14.06:365][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.11.27-04.14.06:367][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.11.27-04.14.06:368][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.11.27-04.14.06:437][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.27-04.14.06:505][  0]LogOcInput: OculusInput pre-init called
+[2019.11.27-04.14.07:179][  0]LogEngine: Initializing Engine...
+[2019.11.27-04.14.07:180][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.27-04.14.07:181][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.27-04.14.07:370][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.27-04.14.07:383][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.27-04.14.07:398][  0]LogInit: XAudio2 using '스피커(Conexant HD Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.27-04.14.07:596][  0]LogInit: FAudioDevice initialized.
+[2019.11.27-04.14.07:596][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.27-04.14.07:670][  0]LogDerivedDataCache: Saved boot cache 0.07s 75MB C:/Users/NOW2-207-07/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.11.27-04.14.07:679][  0]LogInit: Texture streaming: Enabled
+[2019.11.27-04.14.07:695][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.27-04.14.07:711][  0]LogInit: Transaction tracking system initialized
+[2019.11.27-04.14.07:733][  0]BlueprintLog: New page: 에디터 로드
+[2019.11.27-04.14.07:807][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.11.27-04.14.08:071][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.27-04.14.08:071][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.27-04.14.08:230][  0]LogFileCache: Scanning file cache for directory 'C:/16Eom/UE4Study/ArenaBattle/Content/' took 0.03s
+[2019.11.27-04.14.08:230][  0]SourceControl: 소스 컨트롤이 꺼져 있습니다.
+[2019.11.27-04.14.08:231][  0]Cmd: MAP LOAD FILE="../../../../../../16Eom/UE4Study/ArenaBattle/Content/Book/Maps/Step1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.27-04.14.08:231][  0]LightingResults: New page: 라이팅 빌드
+[2019.11.27-04.14.08:233][  0]MapCheck: New page: 맵 체크
+[2019.11.27-04.14.08:233][  0]LightingResults: New page: 라이팅 빌드
+[2019.11.27-04.14.08:258][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.11.27-04.14.08:371][  0]LogAIModule: Creating AISystem for world Step1
+[2019.11.27-04.14.08:378][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.27-04.14.08:401][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.11.27-04.14.08:401][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.27-04.14.08:402][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.145ms.
+[2019.11.27-04.14.08:402][  0]LogFileHelpers: Loading map 'Step1' took 0.171
+[2019.11.27-04.14.08:465][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.11.27-04.14.08:513][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.27-04.14.08:520][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.27-04.14.08:527][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.27-04.14.08:534][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.27-04.14.08:540][  0]LogCollectionManager: Loaded 0 collections in 0.001348 seconds
+[2019.11.27-04.14.08:577][  0]LogFileCache: Scanning file cache for directory 'C:/16Eom/UE4Study/ArenaBattle/Saved/Collections/' took 0.01s
+[2019.11.27-04.14.08:577][  0]LogFileCache: Scanning file cache for directory 'C:/16Eom/UE4Study/ArenaBattle/Content/Developers/NOW220707/Collections/' took 0.01s
+[2019.11.27-04.14.08:577][  0]LogFileCache: Scanning file cache for directory 'C:/16Eom/UE4Study/ArenaBattle/Content/Collections/' took 0.01s
+[2019.11.27-04.14.08:577][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.11.27-04.14.08:585][  0]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 2741 classes and 661 folders.
+[2019.11.27-04.14.08:592][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.27-04.14.08:593][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:594][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:595][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:595][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:596][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:596][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:597][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:597][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:598][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:598][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:599][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:599][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:600][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:600][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:601][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:601][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:602][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:603][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:603][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:604][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:604][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:605][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:605][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:606][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:606][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:607][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.11.27-04.14.08:634][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.27-04.14.08:639][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.11.27-04.14.08:695][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.27-04.14.08:697][  0]LogSlate: Took 0.001897 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.11.27-04.14.08:700][  0]LogSlate: Took 0.001797 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.11.27-04.14.08:700][  0]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.27-04.14.08:703][  0]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.27-04.14.08:762][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.11.27-04.14.08:892][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.27-04.14.08:893][  0]LogLoad: (Engine Initialization) Total time: 7.74 seconds
+[2019.11.27-04.14.08:893][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.27-04.14.08:935][  0]LogAssetRegistry: Asset discovery search completed in 4.3705 seconds
+[2019.11.27-04.14.08:937][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.11.27-04.14.08:937][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000062 seconds (updated 0 objects)
+[2019.11.27-04.14.08:939][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.27-04.14.08:990][  0]LogSlate: Took 0.000129 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.27-04.14.12:159][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.14.28:921][366]ArenaBattle: Warning: AABPawn::PostInitializeComponents(58)
+[2019.11.27-04.14.57:926][803]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.27-04.14.57:931][803]LogAssetEditorManager: Opening Asset editor for World /Game/Book/Level/AILevel.AILevel
+[2019.11.27-04.14.57:954][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2019.11.27-04.14.59:745][803]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.11.27-04.14.59:750][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Level/AILevel" FILE="../../../../../../16Eom/UE4Study/ArenaBattle/Content/Book/Level/AILevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.27-04.14.59:774][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.11.27-04.14.59:790][803]LogSavePackage: Moving '../../../../../../16Eom/UE4Study/ArenaBattle/Saved/AILevel6DE18DB1404D6A53701CF6AA9754F258.tmp' to '../../../../../../16Eom/UE4Study/ArenaBattle/Content/Book/Level/AILevel.umap'
+[2019.11.27-04.14.59:796][803]LogFileHelpers: Saving map 'AILevel' took 0.047
+[2019.11.27-04.14.59:798][803]Cmd: MAP LOAD FILE="../../../../../../16Eom/UE4Study/ArenaBattle/Content/Book/Level/AILevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.27-04.14.59:799][803]LightingResults: New page: 라이팅 빌드
+[2019.11.27-04.14.59:799][803]LoadErrors: New page: 맵 로드중: AILevel.umap
+[2019.11.27-04.14.59:800][803]MapCheck: New page: 맵 체크
+[2019.11.27-04.14.59:800][803]LightingResults: New page: 라이팅 빌드
+[2019.11.27-04.14.59:825][803]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.11.27-04.14.59:868][803]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.27-04.14.59:868][803]LogAIModule: Creating AISystem for world AILevel
+[2019.11.27-04.14.59:892][803]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.11.27-04.14.59:928][803]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.27-04.14.59:928][803]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.111ms.
+[2019.11.27-04.14.59:929][803]LogFileHelpers: Loading map 'AILevel' took 0.131
+[2019.11.27-04.15.04:412][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.15.15:135][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.15.19:937][168]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.15.58:642][792]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.27-04.17.24:153][364]LogEditorViewport: Clicking Background
+[2019.11.27-04.17.52:199][695]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.27-04.17.55:372][865]LogSlate: Window 'Unable to delete level' being destroyed
+[2019.11.27-04.17.59:005][158]LogSlate: Window '새 레벨' being destroyed
+[2019.11.27-04.18.00:076][158]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.11.27-04.18.05:446][340]LogSlate: Window '새 레벨' being destroyed
+[2019.11.27-04.18.11:759][340]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.11.27-04.18.11:763][340]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.27-04.18.11:770][340]LightingResults: New page: 라이팅 빌드
+[2019.11.27-04.18.11:771][340]LoadErrors: New page: 맵 로드중: Template_Default.umap
+[2019.11.27-04.18.11:772][340]MapCheck: New page: 맵 체크
+[2019.11.27-04.18.11:772][340]LightingResults: New page: 라이팅 빌드
+[2019.11.27-04.18.11:797][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.11.27-04.18.11:813][340]LogAIModule: Creating AISystem for world Untitled_1
+[2019.11.27-04.18.11:881][340]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.27-04.18.11:906][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.11.27-04.18.11:910][340]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.27-04.18.11:910][340]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.189ms.
+[2019.11.27-04.18.11:910][340]LogFileHelpers: Loading map 'Template_Default' took 0.149
+[2019.11.27-04.18.14:003][588]LogAIModule: Creating AISystem for world AILevel
+[2019.11.27-04.18.14:005][588]LogAssetEditorManager: Opening Asset editor for World /Game/Book/Level/AILevel.AILevel
+[2019.11.27-04.18.14:028][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.11.27-04.18.14:029][588]Cmd: MAP LOAD FILE="../../../../../../16Eom/UE4Study/ArenaBattle/Content/Book/Level/AILevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.27-04.18.14:029][588]LightingResults: New page: 라이팅 빌드
+[2019.11.27-04.18.14:030][588]LoadErrors: New page: 맵 로드중: AILevel.umap
+[2019.11.27-04.18.14:030][588]MapCheck: New page: 맵 체크
+[2019.11.27-04.18.14:030][588]LightingResults: New page: 라이팅 빌드
+[2019.11.27-04.18.14:055][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.11.27-04.18.14:130][588]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.27-04.18.14:154][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.11.27-04.18.14:183][588]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.27-04.18.14:183][588]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.156ms.
+[2019.11.27-04.18.14:183][588]LogFileHelpers: Loading map 'AILevel' took 0.155
+[2019.11.27-04.18.20:371][239]LogSlate: Window '새 레벨' being destroyed
+[2019.11.27-04.18.20:376][239]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.27-04.18.20:381][239]LightingResults: New page: 라이팅 빌드
+[2019.11.27-04.18.20:382][239]LoadErrors: New page: 맵 로드중: Template_Default.umap
+[2019.11.27-04.18.20:382][239]MapCheck: New page: 맵 체크
+[2019.11.27-04.18.20:382][239]LightingResults: New page: 라이팅 빌드
+[2019.11.27-04.18.20:406][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.11.27-04.18.20:417][239]LogAIModule: Creating AISystem for world Untitled_2
+[2019.11.27-04.18.20:513][239]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.27-04.18.20:539][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.11.27-04.18.20:543][239]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.27-04.18.20:543][239]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.207ms.
+[2019.11.27-04.18.20:544][239]LogFileHelpers: Loading map 'Template_Default' took 0.169
+[2019.11.27-04.18.28:937][656]LogSlate: Window '메시지' being destroyed
+[2019.11.27-04.18.28:939][656]LogSlate: Window '레벨 다른 이름으로 저장' being destroyed
+[2019.11.27-04.18.28:979][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.11.27-04.18.28:981][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Level/AILevel" FILE="../../../../../../16Eom/UE4Study/ArenaBattle/Content/Book/Level/AILevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.27-04.18.29:007][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.11.27-04.18.29:108][656]LogSavePackage: Moving '../../../../../../16Eom/UE4Study/ArenaBattle/Saved/AILevel3FCDFD244DF50F1BA7B215A12EEDE064.tmp' to '../../../../../../16Eom/UE4Study/ArenaBattle/Content/Book/Level/AILevel.umap'
+[2019.11.27-04.18.29:142][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Level/AILevel_BuiltData" FILE="../../../../../../16Eom/UE4Study/ArenaBattle/Content/Book/Level/AILevel_BuiltData.uasset" SILENT=true
+[2019.11.27-04.18.29:157][656]LogSavePackage: Moving '../../../../../../16Eom/UE4Study/ArenaBattle/Saved/AILevel_BuiltDataA44561C84F1EC5120BEB1183B8E492B9.tmp' to '../../../../../../16Eom/UE4Study/ArenaBattle/Content/Book/Level/AILevel_BuiltData.uasset'
+[2019.11.27-04.18.29:163][656]LogFileHelpers: Saving map 'AILevel' took 0.218
+[2019.11.27-04.18.40:500][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.18.45:566][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.27-04.18.52:396][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.19.02:432][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.19.06:433][941]Cmd: EDIT COPY
+[2019.11.27-04.19.07:278][ 42]Cmd: DELETE
+[2019.11.27-04.19.07:278][ 42]Cmd: ACTOR DELETE
+[2019.11.27-04.19.07:282][ 42]LogEditorActor: Deleted Actor: AtmosphericFog
+[2019.11.27-04.19.07:283][ 42]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.27-04.19.07:283][ 42]LogEditorActor: Actor Light Source is referenced by Sky Sphere.
+[2019.11.27-04.19.09:002][ 42]LogSlate: Window '메시지' being destroyed
+[2019.11.27-04.19.09:007][ 42]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.11.27-04.19.09:007][ 42]LogEditorActor: Deleted Actor: PlayerStart
+[2019.11.27-04.19.09:008][ 42]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.11.27-04.19.09:008][ 42]LogEditorActor: Deleted Actor: SkyLight
+[2019.11.27-04.19.09:008][ 42]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2019.11.27-04.19.09:032][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.11.27-04.19.09:033][ 42]LogEditorActor: Deleted 7 Actors (1.754 secs)
+[2019.11.27-04.19.10:101][164]Cmd: TRANSACTION UNDO
+[2019.11.27-04.19.10:101][164]LogEditorTransaction: Undo 액터 삭제
+[2019.11.27-04.19.10:117][164]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' was requested. Font: '/Engine/EngineFonts/Faces/RobotoRegular.RobotoRegular', Character: '라 (U+b77c)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2019.11.27-04.19.10:120][164]LogSlate: Took 0.002792 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/../../Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.11.27-04.19.13:693][584]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.27-04.19.14:326][660]LogEditorViewport: Clicking Background
+[2019.11.27-04.19.16:503][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-04.19.26:194][ 74]MapCheck: New page: 맵 체크
+[2019.11.27-04.19.26:213][ 74]Cmd: MAP REBUILD ALLVISIBLE
+[2019.11.27-04.19.26:213][ 74]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.11.27-04.19.26:353][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.11.27-04.19.26:365][ 74]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.27-04.19.26:375][ 74]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.27-04.19.26:960][ 74]TextureStreamingBuild: Display: Compiling optional shaders took 0.603 seconds.
+[2019.11.27-04.19.26:977][ 74]LogLevel: Display: Export Material TexCoord Scales took 0.017 seconds.
+[2019.11.27-04.19.26:987][ 74]TextureStreamingBuild: Display: Build Texture Streaming took 0.009 seconds.
+[2019.11.27-04.19.27:010][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2019.11.27-04.19.27:012][ 74]LightingResults: New page: 라이팅 빌드 - 2019. 11. 27. 오후 10:19:27
+[2019.11.27-04.19.27:062][ 74]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.11.27-04.19.27:271][ 74]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.11.27-04.19.27:286][ 74]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.11.27-04.19.29:303][ 74]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.11.27-04.19.29:303][ 74]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10008
+[2019.11.27-04.19.31:808][ 74]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.11.27-04.19.31:808][ 74]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.11.27-04.19.31:808][ 74]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.11.27-04.19.31:808][ 74]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.11.27-04.19.31:808][ 74]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.11.27-04.19.31:808][ 74]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.11.27-04.19.32:005][ 74]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.11.27-04.19.32:005][ 74]MapCheck: New page: AILevel - 2019. 11. 27. 오후 10:19:32
+[2019.11.27-04.19.32:005][ 74]MapCheck: Error: WorldSettings_1 맵 라이팅을 리빌드해야 합니다. 
+[2019.11.27-04.19.32:006][ 74]MapCheck: 맵 체크 완료: 오류 1 회, 경고 0 회, 소요 시간 0.909ms.
+[2019.11.27-04.19.32:029][ 74]LogEditorBuildUtils: Build time 0:05
+[2019.11.27-04.19.32:046][ 74]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2019.11.27-04.19.32:058][ 74]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DefaultMaterial, compiling. 
+[2019.11.27-04.19.32:141][ 75]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.11.27-04.19.32:154][ 75]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.11.27-04.19.33:048][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2019.11.27-04.19.34:222][156]Job is a success!
+[2019.11.27-04.19.34:260][157]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2019.11.27-04.19.34:260][157]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.11.27-04.19.34:260][157]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2019.11.27-04.19.34:260][157]LogVolumetricLightmapImport:      Bricks at Level
+[2019.11.27-04.19.34:260][157]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2019.11.27-04.19.34:260][157]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2019.11.27-04.19.34:260][157]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2019.11.27-04.19.34:305][157]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.11.27-04.19.34:305][157]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.11.27-04.19.34:305][157]LogTexture: Display: 텍스처 빌드: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.11.27-04.19.34:305][157]LogTexture: Display: 텍스처 빌드: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.11.27-04.19.34:305][157]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.11.27-04.19.34:305][157]LogTexture: Display: 텍스처 빌드: ShadowMapTexture2D_0 (G8, 128X128)
+[2019.11.27-04.19.34:326][157]Lightmass on NOW2-207-07: 682 ms total, 144 ms importing, 20 ms setup, 151 ms photons, 343 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 1.34 sec total, 118 ms processing.
+[2019.11.27-04.19.34:328][157]LogStaticLightingSystem: AILevel_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2019.11.27-04.19.34:352][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2019.11.27-04.19.34:359][157]LogStaticLightingSystem: Illumination: 7.33 sec (19 ms encoding lightmaps, 15 ms encoding shadowmaps)
+[2019.11.27-04.19.34:359][157]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.11.27-04.19.34:359][157]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.11.27-04.19.34:811][157]DumpUnbuiltLightIteractions
+[2019.11.27-04.19.34:811][157]Lights with unbuilt interactions: 0
+[2019.11.27-04.19.34:811][157]
+[2019.11.27-04.19.34:811][157]Primitives with unbuilt interactions: 0
+[2019.11.27-04.19.34:903][158]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.11.27-04.19.34:903][158]MapCheck: New page: AILevel - 2019. 11. 27. 오후 10:19:34
+[2019.11.27-04.19.34:903][158]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.405ms.
+[2019.11.27-04.19.48:913][832]LogSlate: Window '메시지 로그' being destroyed
+[2019.11.27-04.19.48:915][832]LogSlate: Window '메시지 로그' being destroyed
+[2019.11.27-04.20.36:582][606]LogDirectoryWatcher: A directory notification failed for 'C:/16Eom/UE4Study/ArenaBattle/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2019.11.27-04.20.36:582][606]LogDirectoryWatcher: A directory notification failed for 'C:/16Eom/UE4Study/ArenaBattle/Content/Developers/NOW220707/Collections/' because it could not be accessed. Aborting watch request...
+[2019.11.27-04.20.36:915][607]LogDirectoryWatcher: A directory notification failed for 'C:/16Eom/UE4Study/ArenaBattle/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2019.11.27-04.21.25:904][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Level/AILevel" FILE="../../../../../../16Eom/UE4Study/ArenaBattle/Content/Book/Level/AILevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.27-04.21.25:930][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.11.27-04.21.26:025][772]LogSavePackage: Moving '../../../../../../16Eom/UE4Study/ArenaBattle/Saved/AILevelEAA4C54242C180DA7E535C8E3DA71CE4.tmp' to '../../../../../../16Eom/UE4Study/ArenaBattle/Content/Book/Level/AILevel.umap'
+[2019.11.27-04.21.26:061][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Book/Level/AILevel_BuiltData" FILE="../../../../../../16Eom/UE4Study/ArenaBattle/Content/Book/Level/AILevel_BuiltData.uasset" SILENT=true
+[2019.11.27-04.21.26:084][772]LogSavePackage: Moving '../../../../../../16Eom/UE4Study/ArenaBattle/Saved/AILevel_BuiltData5A0ABD3B4FAC1709B02C1CA0DB365B1E.tmp' to '../../../../../../16Eom/UE4Study/ArenaBattle/Content/Book/Level/AILevel_BuiltData.uasset'
+[2019.11.27-04.21.28:741][ 46]LogTexture: Display: 텍스처 빌드: T_FishB_BC (AutoDXT, 1024X1024)
+[2019.11.27-04.21.28:741][ 46]LogTexture: Display: 텍스처 빌드: T_FishB_N (BC5, 1024X1024)
+[2019.11.27-04.21.28:741][ 46]LogStaticMesh: SM_Plane 스태틱 메시 빌드중...
+[2019.11.27-04.21.28:747][ 46]LogStaticMesh: Built static mesh [0.01s] /Game/OceanFloor/Meshes/SM_Plane.SM_Plane
+[2019.11.27-04.21.28:773][ 46]LogTexture: Display: 텍스처 빌드: T_FishC_BC (AutoDXT, 1024X1024)
+[2019.11.27-04.21.29:737][ 46]LogTexture: Display: 텍스처 빌드: T_URockE_R (AutoDXT, 4096X4096)
+[2019.11.27-04.21.31:895][ 46]LogTexture: Display: 텍스처 빌드: T_WaveNoise_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.21.31:895][ 46]LogTexture: Display: 텍스처 빌드: T_FishC_N (BC5, 1024X1024)
+[2019.11.27-04.21.32:040][ 46]LogMaterial: Display: Missing cached shader map for material M_FishC, compiling. 
+[2019.11.27-04.21.32:158][ 46]LogMaterial: Display: Missing cached shader map for material M_FishB, compiling. 
+[2019.11.27-04.21.33:187][ 46]LogTexture: Display: 텍스처 빌드: T_Sub_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.21.33:188][ 46]LogTexture: Display: 텍스처 빌드: T_Ki-84_M (AutoDXT, 4096X4096)
+[2019.11.27-04.21.53:742][ 46]LogTexture: Display: 텍스처 빌드: T_Rust_N (BC5, 4096X4096)
+[2019.11.27-04.21.53:742][ 46]LogTexture: Display: 텍스처 빌드: T_Rust_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.21.54:386][ 46]LogTexture: Display: 텍스처 빌드: T_Ki-84_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.22.29:093][ 46]LogTexture: Display: 텍스처 빌드: T_Algae_N (BC5, 4096X4096)
+[2019.11.27-04.22.29:093][ 46]LogTexture: Display: 텍스처 빌드: T_Algae_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.22.29:093][ 46]LogTexture: Display: 텍스처 빌드: T_SandDetail_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.22.29:093][ 46]LogTexture: Display: 텍스처 빌드: T_SandDunes_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.22.30:011][ 46]LogTexture: Display: 텍스처 빌드: T_Ki-84_N (BC5, 4096X4096)
+[2019.11.27-04.22.46:324][ 46]LogTexture: Display: 텍스처 빌드: T_SandDunes_N (BC5, 2048X2048)
+[2019.11.27-04.22.46:324][ 46]LogTexture: Display: 텍스처 빌드: T_SandDetail_N (BC5, 4096X4096)
+[2019.11.27-04.22.46:324][ 46]LogShaderCompilers: Display: Shaders left to compile 300
+[2019.11.27-04.22.46:324][ 46]LogTexture: Display: 텍스처 빌드: T_URockA_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.22.46:324][ 46]LogTexture: Display: 텍스처 빌드: T_RockDetailB_BC (AutoDXT, 2048X2048)
+[2019.11.27-04.22.46:324][ 46]LogTexture: Display: 텍스처 빌드: T_Moss_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: T_RockDetailB_N (BC5, 2048X2048)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: T_Moss_N (BC5, 4096X4096)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_10 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_11 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_12 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_13 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_14 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_15 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_16 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_17 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_18 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_19 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_2 (BGRA8, 512X512)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_20 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_21 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_22 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_23 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_3 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_4 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_5 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_6 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_7 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_8 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_9 (BGRA8, 64X64)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: T_Ocean_N (BC5, 4096X4096)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: T_Ocean_DP (AutoDXT, 4096X4096)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: T_Ocean_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: T_RedAlgae_R (AutoDXT, 2048X2048)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: T_RedAlgae_N (BC5, 2048X2048)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: T_RedAlgae_BC (AutoDXT, 2048X2048)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: T_Coralline_N (BC5, 4096X4096)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: T_Coralline_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: T_Eel_N (BC5, 4096X4096)
+[2019.11.27-04.23.20:454][ 46]LogTexture: Display: 텍스처 빌드: T_Eel_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.23.20:496][ 46]LogMaterial: Display: Missing cached shader map for material M_KI-84, compiling. 
+[2019.11.27-04.23.20:547][ 46]LogMaterial: Display: Missing cached shader map for material M_ScreenWave, compiling. 
+[2019.11.27-04.23.21:486][ 46]LogTexture: Display: 텍스처 빌드: T_Sub_N (BC5, 4096X4096)
+[2019.11.27-04.23.24:953][ 46]LogMaterial: Display: Missing cached shader map for material M_Sub, compiling. 
+[2019.11.27-04.23.24:990][ 46]LogStaticMesh: SM_AlgaeB 스태틱 메시 빌드중...
+[2019.11.27-04.23.26:383][ 46]LogStaticMesh: Built static mesh [1.39s] /Game/OceanFloor/Meshes/SM_AlgaeB.SM_AlgaeB
+[2019.11.27-04.23.26:391][ 46]LogMaterial: Display: Missing cached shader map for material M_Algae, compiling. 
+[2019.11.27-04.23.26:429][ 46]LogStaticMesh: SM_AlgaeA 스태틱 메시 빌드중...
+[2019.11.27-04.23.26:825][ 46]LogStaticMesh: Built static mesh [0.40s] /Game/OceanFloor/Meshes/SM_AlgaeA.SM_AlgaeA
+[2019.11.27-04.23.26:881][ 46]LogStaticMesh: SM_URockA 스태틱 메시 빌드중...
+[2019.11.27-04.23.26:948][ 46]LogStaticMesh: Built static mesh [0.07s] /Game/OceanFloor/Meshes/SM_URockA.SM_URockA
+[2019.11.27-04.23.26:990][ 46]LogStaticMesh: SM_Sub 스태틱 메시 빌드중...
+[2019.11.27-04.23.27:017][ 46]LogStaticMesh: Built static mesh [0.03s] /Game/OceanFloor/Meshes/SM_Sub.SM_Sub
+[2019.11.27-04.23.27:096][ 46]LogStaticMesh: SM_SpongeE 스태틱 메시 빌드중...
+[2019.11.27-04.23.27:611][ 46]LogStaticMesh: Built static mesh [0.52s] /Game/OceanFloor/Meshes/SM_SpongeE.SM_SpongeE
+[2019.11.27-04.23.27:984][ 46]LogTexture: Display: 텍스처 빌드: T_URockA_R (AutoDXT, 4096X4096)
+[2019.11.27-04.23.47:342][ 46]LogTexture: Display: 텍스처 빌드: T_URockD_R (AutoDXT, 4096X4096)
+[2019.11.27-04.23.47:342][ 46]LogTexture: Display: 텍스처 빌드: Texture2D_2_BaseColor (DXT1, 64X64)
+[2019.11.27-04.23.47:342][ 46]LogTexture: Display: 텍스처 빌드: T_ScreenDirt_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.23.47:342][ 46]LogTexture: Display: 텍스처 빌드: T_Bubbles_N (BC5, 2048X2048)
+[2019.11.27-04.23.47:342][ 46]LogTexture: Display: 텍스처 빌드: T_Bubbles_BC (AutoDXT, 2048X2048)
+[2019.11.27-04.23.47:342][ 46]LogTexture: Display: 텍스처 빌드: T_URockE_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.23.48:740][ 46]LogTexture: Display: 텍스처 빌드: T_URockA_N (BC5, 4096X4096)
+[2019.11.27-04.23.51:615][ 46]LogTexture: Display: 텍스처 빌드: T_URockE_N (BC5, 4096X4096)
+[2019.11.27-04.23.51:631][ 46]LogMaterial: Display: Missing cached shader map for material M_URockA, compiling. 
+[2019.11.27-04.23.52:218][ 46]LogTexture: Display: 텍스처 빌드: T_Caustics_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.23.59:509][ 46]LogTexture: Display: 텍스처 빌드: T_Sponge_N (BC5, 4096X4096)
+[2019.11.27-04.23.59:509][ 46]LogTexture: Display: 텍스처 빌드: T_Sponge_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.23.59:517][ 46]LogMaterial: Display: Missing cached shader map for material M_Caustics, compiling. 
+[2019.11.27-04.23.59:539][ 46]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/OceanFloor/Animations/SK_Eel_Idle_Anim.SK_Eel_Idle_Anim
+[2019.11.27-04.23.59:541][ 46]LogAnimationCompression: Recompressing (AnimSequence /Game/OceanFloor/Animations/SK_Eel_Idle_Anim.SK_Eel_Idle_Anim) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.23.59:564][ 46]LogStaticMesh: SM_CorallineA 스태틱 메시 빌드중...
+[2019.11.27-04.23.59:616][ 46]LogStaticMesh: Built static mesh [0.05s] /Game/OceanFloor/Meshes/SM_CorallineA.SM_CorallineA
+[2019.11.27-04.23.59:628][ 46]LogStaticMesh: SM_CorallineB 스태틱 메시 빌드중...
+[2019.11.27-04.23.59:758][ 46]LogStaticMesh: Built static mesh [0.13s] /Game/OceanFloor/Meshes/SM_CorallineB.SM_CorallineB
+[2019.11.27-04.23.59:766][ 46]LogStaticMesh: SM_SeaweedA 스태틱 메시 빌드중...
+[2019.11.27-04.23.59:779][ 46]LogStaticMesh: Built static mesh [0.01s] /Game/OceanFloor/Meshes/SM_SeaweedA.SM_SeaweedA
+[2019.11.27-04.23.59:791][ 46]LogStaticMesh: SM_SeaweedB 스태틱 메시 빌드중...
+[2019.11.27-04.23.59:898][ 46]LogStaticMesh: Built static mesh [0.11s] /Game/OceanFloor/Meshes/SM_SeaweedB.SM_SeaweedB
+[2019.11.27-04.23.59:952][ 46]LogStaticMesh: SM_SeaweedC 스태틱 메시 빌드중...
+[2019.11.27-04.24.00:325][ 46]LogStaticMesh: Built static mesh [0.37s] /Game/OceanFloor/Meshes/SM_SeaweedC.SM_SeaweedC
+[2019.11.27-04.24.00:443][ 46]LogStaticMesh: SM_SeaweedD 스태틱 메시 빌드중...
+[2019.11.27-04.24.00:762][ 46]LogStaticMesh: Built static mesh [0.32s] /Game/OceanFloor/Meshes/SM_SeaweedD.SM_SeaweedD
+[2019.11.27-04.24.00:833][ 46]LogStaticMesh: SM_SeaweedE 스태틱 메시 빌드중...
+[2019.11.27-04.24.01:387][ 46]LogStaticMesh: Built static mesh [0.55s] /Game/OceanFloor/Meshes/SM_SeaweedE.SM_SeaweedE
+[2019.11.27-04.24.01:406][ 46]LogStaticMesh: SM_SpongeA 스태틱 메시 빌드중...
+[2019.11.27-04.24.01:472][ 46]LogStaticMesh: Built static mesh [0.07s] /Game/OceanFloor/Meshes/SM_SpongeA.SM_SpongeA
+[2019.11.27-04.24.01:489][ 46]LogStaticMesh: SM_SpongeB 스태틱 메시 빌드중...
+[2019.11.27-04.24.01:666][ 46]LogStaticMesh: Built static mesh [0.18s] /Game/OceanFloor/Meshes/SM_SpongeB.SM_SpongeB
+[2019.11.27-04.24.01:726][ 46]LogStaticMesh: SM_SpongeC 스태틱 메시 빌드중...
+[2019.11.27-04.24.01:988][ 46]LogStaticMesh: Built static mesh [0.29s] /Game/OceanFloor/Meshes/SM_SpongeC.SM_SpongeC
+[2019.11.27-04.24.02:027][ 46]LogStaticMesh: SM_SpongeD 스태틱 메시 빌드중...
+[2019.11.27-04.24.02:506][ 46]LogStaticMesh: Built static mesh [0.48s] /Game/OceanFloor/Meshes/SM_SpongeD.SM_SpongeD
+[2019.11.27-04.24.02:516][ 46]LogStaticMesh: SM_RedAlgaeA 스태틱 메시 빌드중...
+[2019.11.27-04.24.02:526][ 46]LogStaticMesh: Built static mesh [0.01s] /Game/OceanFloor/Meshes/SM_RedAlgaeA.SM_RedAlgaeA
+[2019.11.27-04.24.02:528][ 46]LogStaticMesh: SM_RedAlgaeB 스태틱 메시 빌드중...
+[2019.11.27-04.24.02:591][ 46]LogStaticMesh: Built static mesh [0.06s] /Game/OceanFloor/Meshes/SM_RedAlgaeB.SM_RedAlgaeB
+[2019.11.27-04.24.02:601][ 46]LogStaticMesh: SM_RedAlgaeC 스태틱 메시 빌드중...
+[2019.11.27-04.24.02:861][ 46]LogStaticMesh: Built static mesh [0.26s] /Game/OceanFloor/Meshes/SM_RedAlgaeC.SM_RedAlgaeC
+[2019.11.27-04.24.02:898][ 46]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2019.11.27-04.24.02:934][ 46]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2019.11.27-04.24.03:043][ 46]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2019.11.27-04.24.03:091][ 46]LogMaterial: Display: Missing cached shader map for material M_Landscape, compiling. 
+[2019.11.27-04.24.03:411][ 46]LogMaterial: Display: Missing cached shader map for material M_Bubbles, compiling. 
+[2019.11.27-04.24.03:539][ 46]LogTexture: Display: 텍스처 빌드: T_Debris_BC (AutoDXT, 1024X1024)
+[2019.11.27-04.24.04:770][ 46]LogTexture: Display: 텍스처 빌드: T_URockD_N (BC5, 4096X4096)
+[2019.11.27-04.24.04:776][ 46]LogMaterial: Display: Missing cached shader map for material M_Debris, compiling. 
+[2019.11.27-04.24.04:985][ 46]LogTexture: Display: 텍스처 빌드: T_FishA_BC (AutoDXT, 1024X1024)
+[2019.11.27-04.24.05:877][ 46]LogTexture: Display: 텍스처 빌드: T_FishA_N (BC5, 1024X1024)
+[2019.11.27-04.24.06:086][ 46]LogMaterial: Display: Missing cached shader map for material M_FishA, compiling. 
+[2019.11.27-04.24.06:217][ 46]LogStaticMesh: SM_KI-84A 스태틱 메시 빌드중...
+[2019.11.27-04.24.06:580][ 46]LogStaticMesh: Built static mesh [0.36s] /Game/OceanFloor/Meshes/SM_KI-84A.SM_KI-84A
+[2019.11.27-04.24.06:613][ 46]LogStaticMesh: SM_KI-84B 스태틱 메시 빌드중...
+[2019.11.27-04.24.06:950][ 46]LogStaticMesh: Built static mesh [0.34s] /Game/OceanFloor/Meshes/SM_KI-84B.SM_KI-84B
+[2019.11.27-04.24.06:951][ 46]LogTexture: Display: 텍스처 빌드: T_URockD_BC (AutoDXT, 4096X4096)
+[2019.11.27-04.24.06:999][ 46]LogStaticMesh: SM_LightShaft 스태틱 메시 빌드중...
+[2019.11.27-04.24.07:001][ 46]LogStaticMesh: Built static mesh [0.00s] /Game/OceanFloor/Meshes/SM_LightShaft.SM_LightShaft
+[2019.11.27-04.24.07:016][ 46]LogStaticMesh: SM_OceanPlane 스태틱 메시 빌드중...
+[2019.11.27-04.24.07:064][ 46]LogStaticMesh: Built static mesh [0.05s] /Game/OceanFloor/Meshes/SM_OceanPlane.SM_OceanPlane
+[2019.11.27-04.24.07:116][ 46]LogStaticMesh: SM_URockD 스태틱 메시 빌드중...
+[2019.11.27-04.24.07:262][ 46]LogStaticMesh: Built static mesh [0.15s] /Game/OceanFloor/Meshes/SM_URockD.SM_URockD
+[2019.11.27-04.24.07:508][ 46]LogStaticMesh: SM_URockB 스태틱 메시 빌드중...
+[2019.11.27-04.24.07:644][ 46]LogStaticMesh: Built static mesh [0.14s] /Game/OceanFloor/Meshes/SM_URockB.SM_URockB
+[2019.11.27-04.24.07:689][ 46]LogStaticMesh: SM_URockC 스태틱 메시 빌드중...
+[2019.11.27-04.24.07:759][ 46]LogStaticMesh: Built static mesh [0.07s] /Game/OceanFloor/Meshes/SM_URockC.SM_URockC
+[2019.11.27-04.24.07:824][ 46]LogStaticMesh: SM_URockE 스태틱 메시 빌드중...
+[2019.11.27-04.24.07:923][ 46]LogStaticMesh: Built static mesh [0.10s] /Game/OceanFloor/Meshes/SM_URockE.SM_URockE
+[2019.11.27-04.24.07:934][ 46]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/OceanFloor/Animations/SK_Eel_Swim_Anim.SK_Eel_Swim_Anim
+[2019.11.27-04.24.07:935][ 46]LogAnimationCompression: Recompressing (AnimSequence /Game/OceanFloor/Animations/SK_Eel_Swim_Anim.SK_Eel_Swim_Anim) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.11.27-04.24.07:938][ 46]LogMaterial: Display: Missing cached shader map for material M_Coralline, compiling. 
+[2019.11.27-04.24.07:990][ 46]LogMaterial: Display: Missing cached shader map for material M_Eel, compiling. 
+[2019.11.27-04.24.08:033][ 46]LogSkeletalMesh: Building Skeletal Mesh SK_Eel...
+[2019.11.27-04.24.08:036][ 46]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/OceanFloor/Meshes/SK_Eel.SK_Eel
+[2019.11.27-04.24.08:042][ 46]LogMaterial: Display: Missing cached shader map for material M_RedAlgae, compiling. 
+[2019.11.27-04.24.08:122][ 46]LogMaterial: Display: Missing cached shader map for material M_URockE, compiling. 
+[2019.11.27-04.24.20:664][ 46]LogMaterial: Display: Missing cached shader map for material M_SpongeOrange, compiling. 
+[2019.11.27-04.24.25:860][ 46]LogTexture: Display: 텍스처 빌드: T_URockC_R (AutoDXT, 4096X4096)
+[2019.11.27-04.24.25:860][ 46]LogMaterial: Display: Missing cached shader map for material M_URockD, compiling. 

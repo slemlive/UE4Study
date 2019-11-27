@@ -19,7 +19,17 @@ public:
 	virtual void OnPossess(APawn* InPawn) override;
 	virtual void OnUnPossess() override;
 
+	static const FName HomePosKey;
+	static const FName PatrolPosKey;
+	static const FName TargetKey;
+
 private:
+	UPROPERTY()
+	class UBehaviorTree* BTAsset;
+
+	/*UPROPERTY()
+	class UBlackbordData* BBAsset;*/
+
 	void OnRepeatTimer();
 
 	FTimerHandle RepeatTimerHandle;
