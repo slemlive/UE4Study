@@ -24,7 +24,7 @@ EBTNodeResult::Type UAITask_FinPatrolPos::ExecuteTask(UBehaviorTreeComponent& Ow
 	if (nullptr == NavSystem)
 		return EBTNodeResult::Failed;
 
-	FVector Origin = OwnerComp.GetBlackboardComponent()->GetValueAsVector(AGriffonAIController::HomPosKey);
+	FVector Origin = OwnerComp.GetBlackboardComponent()->GetValueAsVector(AGriffonAIController::HomePosKey);
 	FNavLocation NextPatrol;
 
 	if (NavSystem->GetRandomPointInNavigableRadius(FVector::ZeroVector, 500.0f, NextPatrol))

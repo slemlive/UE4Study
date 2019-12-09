@@ -1,5 +1,5 @@
-C:\16Eom\UE4Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h
-c:\16eom\ue4study\arenabattle\source\arenabattle\ArenaBattle.h
+C:\Git\UE4Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h
+c:\git\ue4study\arenabattle\source\arenabattle\ArenaBattle.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\EngineMinimal.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h

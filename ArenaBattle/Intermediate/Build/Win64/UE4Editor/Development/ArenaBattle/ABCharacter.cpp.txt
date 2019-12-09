@@ -1,6 +1,6 @@
-C:\16Eom\UE4Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h
-c:\16eom\ue4study\arenabattle\source\arenabattle\ABCharacter.h
-c:\16eom\ue4study\arenabattle\source\arenabattle\ArenaBattle.h
+C:\Git\UE4Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h
+c:\git\ue4study\arenabattle\source\arenabattle\ABCharacter.h
+c:\git\ue4study\arenabattle\source\arenabattle\ArenaBattle.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\EngineMinimal.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
@@ -193,10 +193,10 @@ C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\In
 c:\program files\epic games\ue_4.22\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
-C:\16Eom\UE4Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABCharacter.generated.h
-c:\16eom\ue4study\arenabattle\source\arenabattle\ABAnimInstance.h
-C:\16Eom\UE4Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABAnimInstance.generated.h
-c:\16eom\ue4study\arenabattle\source\arenabattle\ABAIController.h
+C:\Git\UE4Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABCharacter.generated.h
+c:\git\ue4study\arenabattle\source\arenabattle\ABAnimInstance.h
+C:\Git\UE4Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABAnimInstance.generated.h
+c:\git\ue4study\arenabattle\source\arenabattle\ABAIController.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\AIModule\Classes\AIController.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavFilters/NavigationQueryFilter.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\NavigationSystem\Public\NavAreas/NavArea.h
@@ -230,4 +230,4 @@ C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\In
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\VisualLogger/VisualLoggerDebugSnapshotInterface.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\VisualLoggerDebugSnapshotInterface.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule\AIController.generated.h
-C:\16Eom\UE4Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABAIController.generated.h
+C:\Git\UE4Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Inc\ArenaBattle\ABAIController.generated.h

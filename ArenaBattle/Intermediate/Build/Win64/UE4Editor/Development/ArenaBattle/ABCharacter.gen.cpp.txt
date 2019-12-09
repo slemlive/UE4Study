@@ -1,8 +1,8 @@
-C:\16Eom\UE4Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h
+C:\Git\UE4Study\ArenaBattle\Intermediate\Build\Win64\UE4Editor\Development\ArenaBattle\Definitions.ArenaBattle.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\16Eom\UE4Study\ArenaBattle\Source\ArenaBattle/ABCharacter.h
-c:\16eom\ue4study\arenabattle\source\arenabattle\ArenaBattle.h
+C:\Git\UE4Study\ArenaBattle\Source\ArenaBattle/ABCharacter.h
+c:\git\ue4study\arenabattle\source\arenabattle\ArenaBattle.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Public\EngineMinimal.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
@@ -194,4 +194,4 @@ C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\In
 c:\program files\epic games\ue_4.22\engine\source\runtime\engine\classes\kismet\GameplayStaticsTypes.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
-c:\16eom\ue4study\arenabattle\intermediate\build\win64\ue4editor\inc\arenabattle\ABCharacter.generated.h
+c:\git\ue4study\arenabattle\intermediate\build\win64\ue4editor\inc\arenabattle\ABCharacter.generated.h

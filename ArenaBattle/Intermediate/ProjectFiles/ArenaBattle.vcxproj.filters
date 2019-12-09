@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ArenaBattle.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{AF5BF14D-C766-4EF6-AA5E-B8EF45D895E8}</UniqueIdentifier>
+      <UniqueIdentifier>{704ACE42-EB05-4B39-B369-3D934595656F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ArenaBattle.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{95E42B9C-1317-4BEF-B205-F286DE8E1880}</UniqueIdentifier>
+      <UniqueIdentifier>{CC568201-C27D-4233-A25B-521A1B4A71AC}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ArenaBattle">
-      <UniqueIdentifier>{284D2652-B823-46B9-BF7F-50F7CEC23F4C}</UniqueIdentifier>
+      <UniqueIdentifier>{989F75F8-9A79-4DED-B3EF-B8116B3B8084}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\ArenaBattle\ABAIController.cpp">
       <Filter>Source\ArenaBattle</Filter>
@@ -68,6 +68,12 @@
     <ClInclude Include="..\..\Source\ArenaBattle\ABPlayerController.h">
       <Filter>Source\ArenaBattle</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\ArenaBattle\AITask_FinPatrolPos.cpp">
+      <Filter>Source\ArenaBattle</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ArenaBattle\AITask_FinPatrolPos.h">
+      <Filter>Source\ArenaBattle</Filter>
+    </ClInclude>
     <None Include="..\..\Source\ArenaBattle\ArenaBattle.Build.cs">
       <Filter>Source\ArenaBattle</Filter>
     </None>
@@ -101,15 +107,5 @@
     <ClInclude Include="..\..\Source\ArenaBattle\GriffonAIController.h">
       <Filter>Source\ArenaBattle</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\ArenaBattle\AITask_FinPatrolPos.h">
-      <Filter>Source\ArenaBattle</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\ArenaBattle\AITask_FinPatrolPos.cpp">
-      <Filter>Source\ArenaBattle</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
